@@ -1,0 +1,62 @@
+18 vertices, domination (from file 18triang_5.txt):
+
+
+Graph #1:
+Domination of 3
+The vertices used were: dgq
+
+Graph #2:
+Domination of 4
+The vertices used were: achm
+
+Graph #3:
+Domination of 3
+The vertices used were: bjm
+
+Graph #4:
+Domination of 3
+The vertices used were: bkn
+
+Graph #5:
+Domination of 3
+The vertices used were: bjm
+
+Graph #6:
+Domination of 3
+The vertices used were: fik
+
+Graph #7:
+Domination of 3
+The vertices used were: amp
+
+Graph #8:
+Domination of 3
+The vertices used were: ehk
+
+Graph #9:
+Domination of 3
+The vertices used were: gil
+
+Graph #10:
+Domination of 3
+The vertices used were: gil
+
+Graph #11:
+Domination of 2
+The vertices used were: dg
+
+Graph #12:
+Domination of 3
+The vertices used were: chm
+
+
+The average domination number is: 3
+The highest number is: 4
+The lowest number is: 2
+Number of domination number 1: 0
+Number of domination number 2: 1
+Number of domination number 3: 10
+Number of domination number 4: 1
+Number of domination number 5: 0
+Number of domination number 6: 0
+There are 12 graphs

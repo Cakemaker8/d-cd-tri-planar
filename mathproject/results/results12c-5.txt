@@ -1,0 +1,16 @@
+12 vertices, connected domination (from file 12triang_5.txt):
+
+
+Graph #1:
+Connected domination of 4
+The vertices used were: abdg
+
+
+The average connected domination number is: 4
+The highest number is: 4
+The lowest number is: 4
+Number of connected domination number 1: 0
+Number of connected domination number 2: 0
+Number of connected domination number 3: 0
+Number of connected domination number 4: 1
+There are 1 graphs

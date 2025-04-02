@@ -1,0 +1,9900 @@
+14 vertices, domination (from file 14triang_4.txt):
+
+
+Graph #1:
+Domination of 3
+The vertices used were: bej
+
+Graph #2:
+Domination of 3
+The vertices used were: deg
+
+Graph #3:
+Domination of 2
+The vertices used were: dg
+
+Graph #4:
+Domination of 2
+The vertices used were: cm
+
+Graph #5:
+Domination of 3
+The vertices used were: ceh
+
+Graph #6:
+Domination of 2
+The vertices used were: eh
+
+Graph #7:
+Domination of 2
+The vertices used were: eh
+
+Graph #8:
+Domination of 3
+The vertices used were: adi
+
+Graph #9:
+Domination of 2
+The vertices used were: bk
+
+Graph #10:
+Domination of 2
+The vertices used were: eh
+
+Graph #11:
+Domination of 2
+The vertices used were: bk
+
+Graph #12:
+Domination of 3
+The vertices used were: adh
+
+Graph #13:
+Domination of 3
+The vertices used were: adi
+
+Graph #14:
+Domination of 3
+The vertices used were: bdi
+
+Graph #15:
+Domination of 3
+The vertices used were: adi
+
+Graph #16:
+Domination of 3
+The vertices used were: aei
+
+Graph #17:
+Domination of 2
+The vertices used were: bl
+
+Graph #18:
+Domination of 3
+The vertices used were: ceh
+
+Graph #19:
+Domination of 3
+The vertices used were: ceh
+
+Graph #20:
+Domination of 3
+The vertices used were: dfg
+
+Graph #21:
+Domination of 2
+The vertices used were: dg
+
+Graph #22:
+Domination of 3
+The vertices used were: bdf
+
+Graph #23:
+Domination of 3
+The vertices used were: dfg
+
+Graph #24:
+Domination of 3
+The vertices used were: deh
+
+Graph #25:
+Domination of 3
+The vertices used were: bdf
+
+Graph #26:
+Domination of 3
+The vertices used were: bdf
+
+Graph #27:
+Domination of 3
+The vertices used were: cfj
+
+Graph #28:
+Domination of 3
+The vertices used were: ceg
+
+Graph #29:
+Domination of 2
+The vertices used were: ei
+
+Graph #30:
+Domination of 3
+The vertices used were: cef
+
+Graph #31:
+Domination of 3
+The vertices used were: bcf
+
+Graph #32:
+Domination of 2
+The vertices used were: bk
+
+Graph #33:
+Domination of 3
+The vertices used were: bdf
+
+Graph #34:
+Domination of 3
+The vertices used were: deg
+
+Graph #35:
+Domination of 2
+The vertices used were: dh
+
+Graph #36:
+Domination of 2
+The vertices used were: dh
+
+Graph #37:
+Domination of 2
+The vertices used were: dh
+
+Graph #38:
+Domination of 3
+The vertices used were: abg
+
+Graph #39:
+Domination of 3
+The vertices used were: abg
+
+Graph #40:
+Domination of 3
+The vertices used were: bdg
+
+Graph #41:
+Domination of 2
+The vertices used were: bl
+
+Graph #42:
+Domination of 3
+The vertices used were: abg
+
+Graph #43:
+Domination of 3
+The vertices used were: aeh
+
+Graph #44:
+Domination of 3
+The vertices used were: beg
+
+Graph #45:
+Domination of 3
+The vertices used were: beg
+
+Graph #46:
+Domination of 2
+The vertices used were: cg
+
+Graph #47:
+Domination of 2
+The vertices used were: bd
+
+Graph #48:
+Domination of 2
+The vertices used were: dg
+
+Graph #49:
+Domination of 2
+The vertices used were: dg
+
+Graph #50:
+Domination of 3
+The vertices used were: aeh
+
+Graph #51:
+Domination of 3
+The vertices used were: deg
+
+Graph #52:
+Domination of 3
+The vertices used were: adh
+
+Graph #53:
+Domination of 3
+The vertices used were: afh
+
+Graph #54:
+Domination of 3
+The vertices used were: agj
+
+Graph #55:
+Domination of 3
+The vertices used were: afi
+
+Graph #56:
+Domination of 3
+The vertices used were: beh
+
+Graph #57:
+Domination of 3
+The vertices used were: efg
+
+Graph #58:
+Domination of 2
+The vertices used were: eg
+
+Graph #59:
+Domination of 2
+The vertices used were: bk
+
+Graph #60:
+Domination of 3
+The vertices used were: egh
+
+Graph #61:
+Domination of 3
+The vertices used were: beh
+
+Graph #62:
+Domination of 3
+The vertices used were: afi
+
+Graph #63:
+Domination of 3
+The vertices used were: dgh
+
+Graph #64:
+Domination of 3
+The vertices used were: aeh
+
+Graph #65:
+Domination of 3
+The vertices used were: cfg
+
+Graph #66:
+Domination of 3
+The vertices used were: afh
+
+Graph #67:
+Domination of 3
+The vertices used were: cfg
+
+Graph #68:
+Domination of 3
+The vertices used were: cfh
+
+Graph #69:
+Domination of 2
+The vertices used were: bj
+
+Graph #70:
+Domination of 2
+The vertices used were: be
+
+Graph #71:
+Domination of 2
+The vertices used were: eh
+
+Graph #72:
+Domination of 3
+The vertices used were: adh
+
+Graph #73:
+Domination of 2
+The vertices used were: bk
+
+Graph #74:
+Domination of 2
+The vertices used were: bk
+
+Graph #75:
+Domination of 2
+The vertices used were: bk
+
+Graph #76:
+Domination of 2
+The vertices used were: an
+
+Graph #77:
+Domination of 3
+The vertices used were: cfg
+
+Graph #78:
+Domination of 2
+The vertices used were: bl
+
+Graph #79:
+Domination of 3
+The vertices used were: bdg
+
+Graph #80:
+Domination of 2
+The vertices used were: cm
+
+Graph #81:
+Domination of 2
+The vertices used were: cf
+
+Graph #82:
+Domination of 2
+The vertices used were: cf
+
+Graph #83:
+Domination of 2
+The vertices used were: cl
+
+Graph #84:
+Domination of 2
+The vertices used were: cl
+
+Graph #85:
+Domination of 3
+The vertices used were: acg
+
+Graph #86:
+Domination of 3
+The vertices used were: adh
+
+Graph #87:
+Domination of 2
+The vertices used were: bl
+
+Graph #88:
+Domination of 2
+The vertices used were: bl
+
+Graph #89:
+Domination of 2
+The vertices used were: bl
+
+Graph #90:
+Domination of 2
+The vertices used were: bl
+
+Graph #91:
+Domination of 2
+The vertices used were: bd
+
+Graph #92:
+Domination of 2
+The vertices used were: bl
+
+Graph #93:
+Domination of 2
+The vertices used were: bl
+
+Graph #94:
+Domination of 3
+The vertices used were: bdg
+
+Graph #95:
+Domination of 2
+The vertices used were: be
+
+Graph #96:
+Domination of 2
+The vertices used were: cf
+
+Graph #97:
+Domination of 2
+The vertices used were: cf
+
+Graph #98:
+Domination of 2
+The vertices used were: cf
+
+Graph #99:
+Domination of 2
+The vertices used were: cn
+
+Graph #100:
+Domination of 2
+The vertices used were: cn
+
+Graph #101:
+Domination of 2
+The vertices used were: cm
+
+Graph #102:
+Domination of 2
+The vertices used were: fi
+
+Graph #103:
+Domination of 2
+The vertices used were: bd
+
+Graph #104:
+Domination of 2
+The vertices used were: ai
+
+Graph #105:
+Domination of 2
+The vertices used were: dg
+
+Graph #106:
+Domination of 3
+The vertices used were: bef
+
+Graph #107:
+Domination of 2
+The vertices used were: cf
+
+Graph #108:
+Domination of 2
+The vertices used were: dg
+
+Graph #109:
+Domination of 3
+The vertices used were: acg
+
+Graph #110:
+Domination of 3
+The vertices used were: def
+
+Graph #111:
+Domination of 2
+The vertices used were: df
+
+Graph #112:
+Domination of 2
+The vertices used were: bl
+
+Graph #113:
+Domination of 2
+The vertices used were: bm
+
+Graph #114:
+Domination of 3
+The vertices used were: bde
+
+Graph #115:
+Domination of 2
+The vertices used were: bk
+
+Graph #116:
+Domination of 2
+The vertices used were: bk
+
+Graph #117:
+Domination of 3
+The vertices used were: bdg
+
+Graph #118:
+Domination of 3
+The vertices used were: beh
+
+Graph #119:
+Domination of 3
+The vertices used were: afh
+
+Graph #120:
+Domination of 2
+The vertices used were: bk
+
+Graph #121:
+Domination of 2
+The vertices used were: bl
+
+Graph #122:
+Domination of 2
+The vertices used were: be
+
+Graph #123:
+Domination of 2
+The vertices used were: be
+
+Graph #124:
+Domination of 2
+The vertices used were: dg
+
+Graph #125:
+Domination of 2
+The vertices used were: bl
+
+Graph #126:
+Domination of 2
+The vertices used were: cf
+
+Graph #127:
+Domination of 2
+The vertices used were: ce
+
+Graph #128:
+Domination of 2
+The vertices used were: cf
+
+Graph #129:
+Domination of 2
+The vertices used were: cm
+
+Graph #130:
+Domination of 2
+The vertices used were: cm
+
+Graph #131:
+Domination of 2
+The vertices used were: cf
+
+Graph #132:
+Domination of 2
+The vertices used were: cf
+
+Graph #133:
+Domination of 2
+The vertices used were: bl
+
+Graph #134:
+Domination of 2
+The vertices used were: bd
+
+Graph #135:
+Domination of 2
+The vertices used were: bd
+
+Graph #136:
+Domination of 2
+The vertices used were: bd
+
+Graph #137:
+Domination of 2
+The vertices used were: bd
+
+Graph #138:
+Domination of 2
+The vertices used were: be
+
+Graph #139:
+Domination of 2
+The vertices used were: bm
+
+Graph #140:
+Domination of 2
+The vertices used were: be
+
+Graph #141:
+Domination of 2
+The vertices used were: bc
+
+Graph #142:
+Domination of 2
+The vertices used were: cf
+
+Graph #143:
+Domination of 2
+The vertices used were: cf
+
+Graph #144:
+Domination of 2
+The vertices used were: bd
+
+Graph #145:
+Domination of 2
+The vertices used were: be
+
+Graph #146:
+Domination of 2
+The vertices used were: be
+
+Graph #147:
+Domination of 3
+The vertices used were: abf
+
+Graph #148:
+Domination of 2
+The vertices used were: df
+
+Graph #149:
+Domination of 2
+The vertices used were: eg
+
+Graph #150:
+Domination of 3
+The vertices used were: aeh
+
+Graph #151:
+Domination of 2
+The vertices used were: eg
+
+Graph #152:
+Domination of 2
+The vertices used were: eg
+
+Graph #153:
+Domination of 3
+The vertices used were: aeh
+
+Graph #154:
+Domination of 3
+The vertices used were: afh
+
+Graph #155:
+Domination of 2
+The vertices used were: fh
+
+Graph #156:
+Domination of 2
+The vertices used were: eg
+
+Graph #157:
+Domination of 2
+The vertices used were: bd
+
+Graph #158:
+Domination of 2
+The vertices used were: dh
+
+Graph #159:
+Domination of 2
+The vertices used were: dg
+
+Graph #160:
+Domination of 2
+The vertices used were: cf
+
+Graph #161:
+Domination of 2
+The vertices used were: bc
+
+Graph #162:
+Domination of 2
+The vertices used were: dg
+
+Graph #163:
+Domination of 2
+The vertices used were: bd
+
+Graph #164:
+Domination of 2
+The vertices used were: be
+
+Graph #165:
+Domination of 3
+The vertices used were: bdf
+
+Graph #166:
+Domination of 2
+The vertices used were: bk
+
+Graph #167:
+Domination of 2
+The vertices used were: bk
+
+Graph #168:
+Domination of 3
+The vertices used were: bef
+
+Graph #169:
+Domination of 2
+The vertices used were: bk
+
+Graph #170:
+Domination of 3
+The vertices used were: beg
+
+Graph #171:
+Domination of 3
+The vertices used were: adg
+
+Graph #172:
+Domination of 2
+The vertices used were: df
+
+Graph #173:
+Domination of 2
+The vertices used were: eg
+
+Graph #174:
+Domination of 2
+The vertices used were: be
+
+Graph #175:
+Domination of 2
+The vertices used were: be
+
+Graph #176:
+Domination of 2
+The vertices used were: df
+
+Graph #177:
+Domination of 2
+The vertices used were: be
+
+Graph #178:
+Domination of 2
+The vertices used were: be
+
+Graph #179:
+Domination of 3
+The vertices used were: bdf
+
+Graph #180:
+Domination of 2
+The vertices used were: bl
+
+Graph #181:
+Domination of 2
+The vertices used were: bl
+
+Graph #182:
+Domination of 2
+The vertices used were: bl
+
+Graph #183:
+Domination of 2
+The vertices used were: bk
+
+Graph #184:
+Domination of 3
+The vertices used were: beh
+
+Graph #185:
+Domination of 3
+The vertices used were: cfi
+
+Graph #186:
+Domination of 3
+The vertices used were: adh
+
+Graph #187:
+Domination of 3
+The vertices used were: ade
+
+Graph #188:
+Domination of 3
+The vertices used were: aeg
+
+Graph #189:
+Domination of 3
+The vertices used were: abf
+
+Graph #190:
+Domination of 2
+The vertices used were: df
+
+Graph #191:
+Domination of 3
+The vertices used were: bdh
+
+Graph #192:
+Domination of 2
+The vertices used were: dg
+
+Graph #193:
+Domination of 2
+The vertices used were: df
+
+Graph #194:
+Domination of 2
+The vertices used were: ck
+
+Graph #195:
+Domination of 2
+The vertices used were: cj
+
+Graph #196:
+Domination of 3
+The vertices used were: aeh
+
+Graph #197:
+Domination of 2
+The vertices used were: fh
+
+Graph #198:
+Domination of 2
+The vertices used were: eg
+
+Graph #199:
+Domination of 2
+The vertices used were: dh
+
+Graph #200:
+Domination of 2
+The vertices used were: fi
+
+Graph #201:
+Domination of 2
+The vertices used were: fh
+
+Graph #202:
+Domination of 2
+The vertices used were: fi
+
+Graph #203:
+Domination of 3
+The vertices used were: aei
+
+Graph #204:
+Domination of 2
+The vertices used were: eh
+
+Graph #205:
+Domination of 2
+The vertices used were: ei
+
+Graph #206:
+Domination of 2
+The vertices used were: aj
+
+Graph #207:
+Domination of 3
+The vertices used were: aeg
+
+Graph #208:
+Domination of 2
+The vertices used were: eh
+
+Graph #209:
+Domination of 2
+The vertices used were: aj
+
+Graph #210:
+Domination of 2
+The vertices used were: be
+
+Graph #211:
+Domination of 3
+The vertices used were: acg
+
+Graph #212:
+Domination of 3
+The vertices used were: bcf
+
+Graph #213:
+Domination of 2
+The vertices used were: cf
+
+Graph #214:
+Domination of 2
+The vertices used were: dg
+
+Graph #215:
+Domination of 2
+The vertices used were: dg
+
+Graph #216:
+Domination of 3
+The vertices used were: dfi
+
+Graph #217:
+Domination of 3
+The vertices used were: bej
+
+Graph #218:
+Domination of 2
+The vertices used were: bl
+
+Graph #219:
+Domination of 3
+The vertices used were: bej
+
+Graph #220:
+Domination of 2
+The vertices used were: eg
+
+Graph #221:
+Domination of 2
+The vertices used were: df
+
+Graph #222:
+Domination of 3
+The vertices used were: adh
+
+Graph #223:
+Domination of 2
+The vertices used were: cj
+
+Graph #224:
+Domination of 2
+The vertices used were: eg
+
+Graph #225:
+Domination of 2
+The vertices used were: fi
+
+Graph #226:
+Domination of 2
+The vertices used were: be
+
+Graph #227:
+Domination of 3
+The vertices used were: beh
+
+Graph #228:
+Domination of 3
+The vertices used were: abf
+
+Graph #229:
+Domination of 3
+The vertices used were: acg
+
+Graph #230:
+Domination of 3
+The vertices used were: ach
+
+Graph #231:
+Domination of 2
+The vertices used were: fi
+
+Graph #232:
+Domination of 3
+The vertices used were: ahj
+
+Graph #233:
+Domination of 3
+The vertices used were: ahi
+
+Graph #234:
+Domination of 2
+The vertices used were: ck
+
+Graph #235:
+Domination of 3
+The vertices used were: aei
+
+Graph #236:
+Domination of 2
+The vertices used were: fi
+
+Graph #237:
+Domination of 3
+The vertices used were: afj
+
+Graph #238:
+Domination of 2
+The vertices used were: eh
+
+Graph #239:
+Domination of 3
+The vertices used were: aei
+
+Graph #240:
+Domination of 3
+The vertices used were: afi
+
+Graph #241:
+Domination of 2
+The vertices used were: df
+
+Graph #242:
+Domination of 2
+The vertices used were: dg
+
+Graph #243:
+Domination of 3
+The vertices used were: cfg
+
+Graph #244:
+Domination of 3
+The vertices used were: ceh
+
+Graph #245:
+Domination of 3
+The vertices used were: afi
+
+Graph #246:
+Domination of 3
+The vertices used were: aeh
+
+Graph #247:
+Domination of 2
+The vertices used were: cl
+
+Graph #248:
+Domination of 3
+The vertices used were: ahj
+
+Graph #249:
+Domination of 3
+The vertices used were: bej
+
+Graph #250:
+Domination of 3
+The vertices used were: dfg
+
+Graph #251:
+Domination of 3
+The vertices used were: afi
+
+Graph #252:
+Domination of 2
+The vertices used were: bj
+
+Graph #253:
+Domination of 3
+The vertices used were: cdg
+
+Graph #254:
+Domination of 3
+The vertices used were: cfg
+
+Graph #255:
+Domination of 2
+The vertices used were: dg
+
+Graph #256:
+Domination of 3
+The vertices used were: bdh
+
+Graph #257:
+Domination of 3
+The vertices used were: dfg
+
+Graph #258:
+Domination of 2
+The vertices used were: cl
+
+Graph #259:
+Domination of 2
+The vertices used were: ck
+
+Graph #260:
+Domination of 2
+The vertices used were: cl
+
+Graph #261:
+Domination of 3
+The vertices used were: agi
+
+Graph #262:
+Domination of 3
+The vertices used were: afi
+
+Graph #263:
+Domination of 3
+The vertices used were: afi
+
+Graph #264:
+Domination of 3
+The vertices used were: bdi
+
+Graph #265:
+Domination of 3
+The vertices used were: aeg
+
+Graph #266:
+Domination of 3
+The vertices used were: afi
+
+Graph #267:
+Domination of 3
+The vertices used were: bei
+
+Graph #268:
+Domination of 3
+The vertices used were: bdj
+
+Graph #269:
+Domination of 2
+The vertices used were: bk
+
+Graph #270:
+Domination of 2
+The vertices used were: cl
+
+Graph #271:
+Domination of 3
+The vertices used were: acg
+
+Graph #272:
+Domination of 3
+The vertices used were: efh
+
+Graph #273:
+Domination of 3
+The vertices used were: afh
+
+Graph #274:
+Domination of 3
+The vertices used were: agi
+
+Graph #275:
+Domination of 3
+The vertices used were: afh
+
+Graph #276:
+Domination of 3
+The vertices used were: afh
+
+Graph #277:
+Domination of 3
+The vertices used were: bdg
+
+Graph #278:
+Domination of 3
+The vertices used were: afi
+
+Graph #279:
+Domination of 2
+The vertices used were: dg
+
+Graph #280:
+Domination of 3
+The vertices used were: bfj
+
+Graph #281:
+Domination of 2
+The vertices used were: bk
+
+Graph #282:
+Domination of 3
+The vertices used were: agj
+
+Graph #283:
+Domination of 2
+The vertices used were: bk
+
+Graph #284:
+Domination of 2
+The vertices used were: bk
+
+Graph #285:
+Domination of 2
+The vertices used were: bk
+
+Graph #286:
+Domination of 2
+The vertices used were: bj
+
+Graph #287:
+Domination of 2
+The vertices used were: bj
+
+Graph #288:
+Domination of 3
+The vertices used were: dfg
+
+Graph #289:
+Domination of 3
+The vertices used were: cfg
+
+Graph #290:
+Domination of 3
+The vertices used were: afh
+
+Graph #291:
+Domination of 3
+The vertices used were: cfg
+
+Graph #292:
+Domination of 3
+The vertices used were: afj
+
+Graph #293:
+Domination of 3
+The vertices used were: cfg
+
+Graph #294:
+Domination of 3
+The vertices used were: dgh
+
+Graph #295:
+Domination of 3
+The vertices used were: ahi
+
+Graph #296:
+Domination of 3
+The vertices used were: agj
+
+Graph #297:
+Domination of 3
+The vertices used were: cfg
+
+Graph #298:
+Domination of 3
+The vertices used were: dfg
+
+Graph #299:
+Domination of 3
+The vertices used were: dfg
+
+Graph #300:
+Domination of 3
+The vertices used were: afh
+
+Graph #301:
+Domination of 2
+The vertices used were: bj
+
+Graph #302:
+Domination of 3
+The vertices used were: agj
+
+Graph #303:
+Domination of 2
+The vertices used were: dg
+
+Graph #304:
+Domination of 2
+The vertices used were: bk
+
+Graph #305:
+Domination of 3
+The vertices used were: aeh
+
+Graph #306:
+Domination of 3
+The vertices used were: agh
+
+Graph #307:
+Domination of 3
+The vertices used were: aeh
+
+Graph #308:
+Domination of 2
+The vertices used were: cf
+
+Graph #309:
+Domination of 2
+The vertices used were: cf
+
+Graph #310:
+Domination of 3
+The vertices used were: cfg
+
+Graph #311:
+Domination of 2
+The vertices used were: dg
+
+Graph #312:
+Domination of 2
+The vertices used were: dg
+
+Graph #313:
+Domination of 2
+The vertices used were: bk
+
+Graph #314:
+Domination of 2
+The vertices used were: dg
+
+Graph #315:
+Domination of 2
+The vertices used were: dg
+
+Graph #316:
+Domination of 3
+The vertices used were: bfj
+
+Graph #317:
+Domination of 3
+The vertices used were: afh
+
+Graph #318:
+Domination of 3
+The vertices used were: afi
+
+Graph #319:
+Domination of 3
+The vertices used were: afh
+
+Graph #320:
+Domination of 3
+The vertices used were: dfh
+
+Graph #321:
+Domination of 3
+The vertices used were: cfg
+
+Graph #322:
+Domination of 3
+The vertices used were: afh
+
+Graph #323:
+Domination of 3
+The vertices used were: cfg
+
+Graph #324:
+Domination of 3
+The vertices used were: cfh
+
+Graph #325:
+Domination of 3
+The vertices used were: agj
+
+Graph #326:
+Domination of 3
+The vertices used were: cfg
+
+Graph #327:
+Domination of 3
+The vertices used were: cfg
+
+Graph #328:
+Domination of 3
+The vertices used were: dgh
+
+Graph #329:
+Domination of 3
+The vertices used were: agj
+
+Graph #330:
+Domination of 3
+The vertices used were: agi
+
+Graph #331:
+Domination of 3
+The vertices used were: afh
+
+Graph #332:
+Domination of 3
+The vertices used were: aeh
+
+Graph #333:
+Domination of 3
+The vertices used were: aeh
+
+Graph #334:
+Domination of 3
+The vertices used were: afh
+
+Graph #335:
+Domination of 3
+The vertices used were: aeh
+
+Graph #336:
+Domination of 2
+The vertices used were: fh
+
+Graph #337:
+Domination of 2
+The vertices used were: bk
+
+Graph #338:
+Domination of 2
+The vertices used were: bl
+
+Graph #339:
+Domination of 3
+The vertices used were: cfh
+
+Graph #340:
+Domination of 3
+The vertices used were: cfh
+
+Graph #341:
+Domination of 3
+The vertices used were: cfh
+
+Graph #342:
+Domination of 3
+The vertices used were: bdg
+
+Graph #343:
+Domination of 3
+The vertices used were: bdg
+
+Graph #344:
+Domination of 3
+The vertices used were: bdg
+
+Graph #345:
+Domination of 3
+The vertices used were: beh
+
+Graph #346:
+Domination of 3
+The vertices used were: cfj
+
+Graph #347:
+Domination of 3
+The vertices used were: cfj
+
+Graph #348:
+Domination of 3
+The vertices used were: bdg
+
+Graph #349:
+Domination of 2
+The vertices used were: bl
+
+Graph #350:
+Domination of 3
+The vertices used were: bdg
+
+Graph #351:
+Domination of 2
+The vertices used were: bm
+
+Graph #352:
+Domination of 2
+The vertices used were: bm
+
+Graph #353:
+Domination of 3
+The vertices used were: abg
+
+Graph #354:
+Domination of 2
+The vertices used were: cf
+
+Graph #355:
+Domination of 3
+The vertices used were: dgh
+
+Graph #356:
+Domination of 3
+The vertices used were: ach
+
+Graph #357:
+Domination of 3
+The vertices used were: agj
+
+Graph #358:
+Domination of 3
+The vertices used were: beh
+
+Graph #359:
+Domination of 3
+The vertices used were: beh
+
+Graph #360:
+Domination of 3
+The vertices used were: bei
+
+Graph #361:
+Domination of 3
+The vertices used were: afi
+
+Graph #362:
+Domination of 2
+The vertices used were: fi
+
+Graph #363:
+Domination of 3
+The vertices used were: aeh
+
+Graph #364:
+Domination of 2
+The vertices used were: bl
+
+Graph #365:
+Domination of 2
+The vertices used were: bk
+
+Graph #366:
+Domination of 3
+The vertices used were: agi
+
+Graph #367:
+Domination of 3
+The vertices used were: agi
+
+Graph #368:
+Domination of 3
+The vertices used were: dgi
+
+Graph #369:
+Domination of 3
+The vertices used were: agi
+
+Graph #370:
+Domination of 3
+The vertices used were: aei
+
+Graph #371:
+Domination of 3
+The vertices used were: afi
+
+Graph #372:
+Domination of 3
+The vertices used were: bfj
+
+Graph #373:
+Domination of 3
+The vertices used were: ahj
+
+Graph #374:
+Domination of 3
+The vertices used were: afi
+
+Graph #375:
+Domination of 3
+The vertices used were: afj
+
+Graph #376:
+Domination of 3
+The vertices used were: afi
+
+Graph #377:
+Domination of 3
+The vertices used were: afi
+
+Graph #378:
+Domination of 3
+The vertices used were: beh
+
+Graph #379:
+Domination of 3
+The vertices used were: agi
+
+Graph #380:
+Domination of 3
+The vertices used were: ahj
+
+Graph #381:
+Domination of 3
+The vertices used were: ahj
+
+Graph #382:
+Domination of 3
+The vertices used were: bdh
+
+Graph #383:
+Domination of 3
+The vertices used were: afi
+
+Graph #384:
+Domination of 3
+The vertices used were: aei
+
+Graph #385:
+Domination of 3
+The vertices used were: aeh
+
+Graph #386:
+Domination of 3
+The vertices used were: beh
+
+Graph #387:
+Domination of 3
+The vertices used were: agi
+
+Graph #388:
+Domination of 3
+The vertices used were: dgh
+
+Graph #389:
+Domination of 3
+The vertices used were: afi
+
+Graph #390:
+Domination of 3
+The vertices used were: abg
+
+Graph #391:
+Domination of 3
+The vertices used were: bdg
+
+Graph #392:
+Domination of 3
+The vertices used were: abh
+
+Graph #393:
+Domination of 3
+The vertices used were: agj
+
+Graph #394:
+Domination of 2
+The vertices used were: cm
+
+Graph #395:
+Domination of 3
+The vertices used were: aci
+
+Graph #396:
+Domination of 2
+The vertices used were: bd
+
+Graph #397:
+Domination of 2
+The vertices used were: bl
+
+Graph #398:
+Domination of 2
+The vertices used were: bd
+
+Graph #399:
+Domination of 2
+The vertices used were: bl
+
+Graph #400:
+Domination of 2
+The vertices used were: bl
+
+Graph #401:
+Domination of 2
+The vertices used were: bl
+
+Graph #402:
+Domination of 2
+The vertices used were: bl
+
+Graph #403:
+Domination of 2
+The vertices used were: bm
+
+Graph #404:
+Domination of 2
+The vertices used were: bl
+
+Graph #405:
+Domination of 2
+The vertices used were: bd
+
+Graph #406:
+Domination of 2
+The vertices used were: ce
+
+Graph #407:
+Domination of 2
+The vertices used were: ce
+
+Graph #408:
+Domination of 2
+The vertices used were: bc
+
+Graph #409:
+Domination of 2
+The vertices used were: ce
+
+Graph #410:
+Domination of 2
+The vertices used were: cf
+
+Graph #411:
+Domination of 2
+The vertices used were: ce
+
+Graph #412:
+Domination of 2
+The vertices used were: bc
+
+Graph #413:
+Domination of 2
+The vertices used were: bd
+
+Graph #414:
+Domination of 2
+The vertices used were: dh
+
+Graph #415:
+Domination of 2
+The vertices used were: cf
+
+Graph #416:
+Domination of 2
+The vertices used were: dg
+
+Graph #417:
+Domination of 3
+The vertices used were: abf
+
+Graph #418:
+Domination of 2
+The vertices used were: bm
+
+Graph #419:
+Domination of 3
+The vertices used were: bdf
+
+Graph #420:
+Domination of 2
+The vertices used were: bm
+
+Graph #421:
+Domination of 2
+The vertices used were: cf
+
+Graph #422:
+Domination of 2
+The vertices used were: df
+
+Graph #423:
+Domination of 2
+The vertices used were: df
+
+Graph #424:
+Domination of 3
+The vertices used were: bdf
+
+Graph #425:
+Domination of 2
+The vertices used were: bd
+
+Graph #426:
+Domination of 2
+The vertices used were: bd
+
+Graph #427:
+Domination of 2
+The vertices used were: dh
+
+Graph #428:
+Domination of 2
+The vertices used were: cd
+
+Graph #429:
+Domination of 2
+The vertices used were: bl
+
+Graph #430:
+Domination of 3
+The vertices used were: bei
+
+Graph #431:
+Domination of 2
+The vertices used were: fi
+
+Graph #432:
+Domination of 2
+The vertices used were: eg
+
+Graph #433:
+Domination of 3
+The vertices used were: aej
+
+Graph #434:
+Domination of 3
+The vertices used were: bdf
+
+Graph #435:
+Domination of 3
+The vertices used were: ace
+
+Graph #436:
+Domination of 3
+The vertices used were: aeh
+
+Graph #437:
+Domination of 2
+The vertices used were: eh
+
+Graph #438:
+Domination of 3
+The vertices used were: adh
+
+Graph #439:
+Domination of 2
+The vertices used were: be
+
+Graph #440:
+Domination of 3
+The vertices used were: aeh
+
+Graph #441:
+Domination of 3
+The vertices used were: abg
+
+Graph #442:
+Domination of 3
+The vertices used were: beg
+
+Graph #443:
+Domination of 3
+The vertices used were: beh
+
+Graph #444:
+Domination of 3
+The vertices used were: bdh
+
+Graph #445:
+Domination of 2
+The vertices used were: bl
+
+Graph #446:
+Domination of 3
+The vertices used were: bei
+
+Graph #447:
+Domination of 2
+The vertices used were: fi
+
+Graph #448:
+Domination of 2
+The vertices used were: cf
+
+Graph #449:
+Domination of 2
+The vertices used were: be
+
+Graph #450:
+Domination of 2
+The vertices used were: bm
+
+Graph #451:
+Domination of 3
+The vertices used were: beg
+
+Graph #452:
+Domination of 3
+The vertices used were: bdf
+
+Graph #453:
+Domination of 3
+The vertices used were: bdf
+
+Graph #454:
+Domination of 3
+The vertices used were: beg
+
+Graph #455:
+Domination of 3
+The vertices used were: aei
+
+Graph #456:
+Domination of 3
+The vertices used were: deh
+
+Graph #457:
+Domination of 3
+The vertices used were: deh
+
+Graph #458:
+Domination of 3
+The vertices used were: deg
+
+Graph #459:
+Domination of 2
+The vertices used were: bk
+
+Graph #460:
+Domination of 3
+The vertices used were: deg
+
+Graph #461:
+Domination of 3
+The vertices used were: dfh
+
+Graph #462:
+Domination of 3
+The vertices used were: agj
+
+Graph #463:
+Domination of 3
+The vertices used were: bfj
+
+Graph #464:
+Domination of 2
+The vertices used were: fj
+
+Graph #465:
+Domination of 3
+The vertices used were: afi
+
+Graph #466:
+Domination of 3
+The vertices used were: cfg
+
+Graph #467:
+Domination of 3
+The vertices used were: dfh
+
+Graph #468:
+Domination of 3
+The vertices used were: bfj
+
+Graph #469:
+Domination of 3
+The vertices used were: afj
+
+Graph #470:
+Domination of 3
+The vertices used were: ceg
+
+Graph #471:
+Domination of 3
+The vertices used were: bei
+
+Graph #472:
+Domination of 3
+The vertices used were: ceh
+
+Graph #473:
+Domination of 2
+The vertices used were: gj
+
+Graph #474:
+Domination of 3
+The vertices used were: dfg
+
+Graph #475:
+Domination of 2
+The vertices used were: dg
+
+Graph #476:
+Domination of 2
+The vertices used were: eh
+
+Graph #477:
+Domination of 2
+The vertices used were: cf
+
+Graph #478:
+Domination of 2
+The vertices used were: eh
+
+Graph #479:
+Domination of 2
+The vertices used were: cf
+
+Graph #480:
+Domination of 3
+The vertices used were: abf
+
+Graph #481:
+Domination of 3
+The vertices used were: abf
+
+Graph #482:
+Domination of 3
+The vertices used were: abg
+
+Graph #483:
+Domination of 2
+The vertices used were: cf
+
+Graph #484:
+Domination of 2
+The vertices used were: cf
+
+Graph #485:
+Domination of 3
+The vertices used were: afh
+
+Graph #486:
+Domination of 2
+The vertices used were: dg
+
+Graph #487:
+Domination of 2
+The vertices used were: dh
+
+Graph #488:
+Domination of 3
+The vertices used were: afj
+
+Graph #489:
+Domination of 2
+The vertices used were: bk
+
+Graph #490:
+Domination of 3
+The vertices used were: afh
+
+Graph #491:
+Domination of 2
+The vertices used were: cf
+
+Graph #492:
+Domination of 3
+The vertices used were: acg
+
+Graph #493:
+Domination of 2
+The vertices used were: eh
+
+Graph #494:
+Domination of 2
+The vertices used were: cf
+
+Graph #495:
+Domination of 2
+The vertices used were: eh
+
+Graph #496:
+Domination of 2
+The vertices used were: cf
+
+Graph #497:
+Domination of 3
+The vertices used were: afi
+
+Graph #498:
+Domination of 2
+The vertices used were: cf
+
+Graph #499:
+Domination of 2
+The vertices used were: ck
+
+Graph #500:
+Domination of 3
+The vertices used were: afh
+
+Graph #501:
+Domination of 3
+The vertices used were: afg
+
+Graph #502:
+Domination of 3
+The vertices used were: dgh
+
+Graph #503:
+Domination of 3
+The vertices used were: cfg
+
+Graph #504:
+Domination of 3
+The vertices used were: cfg
+
+Graph #505:
+Domination of 3
+The vertices used were: bej
+
+Graph #506:
+Domination of 3
+The vertices used were: bdj
+
+Graph #507:
+Domination of 3
+The vertices used were: cfi
+
+Graph #508:
+Domination of 3
+The vertices used were: bej
+
+Graph #509:
+Domination of 3
+The vertices used were: bej
+
+Graph #510:
+Domination of 3
+The vertices used were: afi
+
+Graph #511:
+Domination of 3
+The vertices used were: beg
+
+Graph #512:
+Domination of 3
+The vertices used were: bej
+
+Graph #513:
+Domination of 3
+The vertices used were: aei
+
+Graph #514:
+Domination of 3
+The vertices used were: adj
+
+Graph #515:
+Domination of 3
+The vertices used were: afh
+
+Graph #516:
+Domination of 3
+The vertices used were: afh
+
+Graph #517:
+Domination of 3
+The vertices used were: aci
+
+Graph #518:
+Domination of 3
+The vertices used were: afi
+
+Graph #519:
+Domination of 3
+The vertices used were: bej
+
+Graph #520:
+Domination of 3
+The vertices used were: bdj
+
+Graph #521:
+Domination of 3
+The vertices used were: bei
+
+Graph #522:
+Domination of 3
+The vertices used were: bej
+
+Graph #523:
+Domination of 3
+The vertices used were: beg
+
+Graph #524:
+Domination of 3
+The vertices used were: beg
+
+Graph #525:
+Domination of 3
+The vertices used were: bdg
+
+Graph #526:
+Domination of 3
+The vertices used were: afh
+
+Graph #527:
+Domination of 3
+The vertices used were: egi
+
+Graph #528:
+Domination of 3
+The vertices used were: ceh
+
+Graph #529:
+Domination of 3
+The vertices used were: ceg
+
+Graph #530:
+Domination of 3
+The vertices used were: beg
+
+Graph #531:
+Domination of 2
+The vertices used were: be
+
+Graph #532:
+Domination of 3
+The vertices used were: adh
+
+Graph #533:
+Domination of 2
+The vertices used were: dg
+
+Graph #534:
+Domination of 2
+The vertices used were: eg
+
+Graph #535:
+Domination of 3
+The vertices used were: bei
+
+Graph #536:
+Domination of 2
+The vertices used were: bk
+
+Graph #537:
+Domination of 3
+The vertices used were: bdf
+
+Graph #538:
+Domination of 3
+The vertices used were: beg
+
+Graph #539:
+Domination of 2
+The vertices used were: bl
+
+Graph #540:
+Domination of 3
+The vertices used were: beg
+
+Graph #541:
+Domination of 3
+The vertices used were: afh
+
+Graph #542:
+Domination of 2
+The vertices used were: fh
+
+Graph #543:
+Domination of 2
+The vertices used were: be
+
+Graph #544:
+Domination of 2
+The vertices used were: bl
+
+Graph #545:
+Domination of 2
+The vertices used were: be
+
+Graph #546:
+Domination of 2
+The vertices used were: be
+
+Graph #547:
+Domination of 3
+The vertices used were: bdh
+
+Graph #548:
+Domination of 2
+The vertices used were: bl
+
+Graph #549:
+Domination of 2
+The vertices used were: bm
+
+Graph #550:
+Domination of 3
+The vertices used were: abf
+
+Graph #551:
+Domination of 2
+The vertices used were: df
+
+Graph #552:
+Domination of 2
+The vertices used were: cf
+
+Graph #553:
+Domination of 2
+The vertices used were: cf
+
+Graph #554:
+Domination of 2
+The vertices used were: cf
+
+Graph #555:
+Domination of 3
+The vertices used were: bcj
+
+Graph #556:
+Domination of 2
+The vertices used were: cf
+
+Graph #557:
+Domination of 2
+The vertices used were: dg
+
+Graph #558:
+Domination of 3
+The vertices used were: bdf
+
+Graph #559:
+Domination of 2
+The vertices used were: eh
+
+Graph #560:
+Domination of 3
+The vertices used were: bdi
+
+Graph #561:
+Domination of 3
+The vertices used were: bcd
+
+Graph #562:
+Domination of 3
+The vertices used were: acd
+
+Graph #563:
+Domination of 3
+The vertices used were: aeg
+
+Graph #564:
+Domination of 3
+The vertices used were: bei
+
+Graph #565:
+Domination of 2
+The vertices used were: df
+
+Graph #566:
+Domination of 3
+The vertices used were: bdh
+
+Graph #567:
+Domination of 2
+The vertices used were: eh
+
+Graph #568:
+Domination of 3
+The vertices used were: efg
+
+Graph #569:
+Domination of 2
+The vertices used were: cj
+
+Graph #570:
+Domination of 3
+The vertices used were: beg
+
+Graph #571:
+Domination of 3
+The vertices used were: beg
+
+Graph #572:
+Domination of 3
+The vertices used were: bdf
+
+Graph #573:
+Domination of 3
+The vertices used were: bdh
+
+Graph #574:
+Domination of 3
+The vertices used were: bdf
+
+Graph #575:
+Domination of 3
+The vertices used were: beg
+
+Graph #576:
+Domination of 3
+The vertices used were: afi
+
+Graph #577:
+Domination of 3
+The vertices used were: afi
+
+Graph #578:
+Domination of 2
+The vertices used were: bl
+
+Graph #579:
+Domination of 2
+The vertices used were: bl
+
+Graph #580:
+Domination of 2
+The vertices used were: bg
+
+Graph #581:
+Domination of 2
+The vertices used were: bl
+
+Graph #582:
+Domination of 3
+The vertices used were: afh
+
+Graph #583:
+Domination of 3
+The vertices used were: acg
+
+Graph #584:
+Domination of 3
+The vertices used were: adh
+
+Graph #585:
+Domination of 3
+The vertices used were: cfh
+
+Graph #586:
+Domination of 3
+The vertices used were: acg
+
+Graph #587:
+Domination of 2
+The vertices used were: bd
+
+Graph #588:
+Domination of 2
+The vertices used were: be
+
+Graph #589:
+Domination of 2
+The vertices used were: be
+
+Graph #590:
+Domination of 2
+The vertices used were: be
+
+Graph #591:
+Domination of 3
+The vertices used were: bdh
+
+Graph #592:
+Domination of 3
+The vertices used were: abf
+
+Graph #593:
+Domination of 3
+The vertices used were: cde
+
+Graph #594:
+Domination of 3
+The vertices used were: deg
+
+Graph #595:
+Domination of 2
+The vertices used were: ck
+
+Graph #596:
+Domination of 3
+The vertices used were: dfg
+
+Graph #597:
+Domination of 2
+The vertices used were: ej
+
+Graph #598:
+Domination of 3
+The vertices used were: cdg
+
+Graph #599:
+Domination of 3
+The vertices used were: cfg
+
+Graph #600:
+Domination of 3
+The vertices used were: afi
+
+Graph #601:
+Domination of 3
+The vertices used were: cfh
+
+Graph #602:
+Domination of 3
+The vertices used were: bci
+
+Graph #603:
+Domination of 3
+The vertices used were: aeh
+
+Graph #604:
+Domination of 3
+The vertices used were: beg
+
+Graph #605:
+Domination of 3
+The vertices used were: beh
+
+Graph #606:
+Domination of 3
+The vertices used were: beh
+
+Graph #607:
+Domination of 3
+The vertices used were: cfh
+
+Graph #608:
+Domination of 3
+The vertices used were: dgi
+
+Graph #609:
+Domination of 3
+The vertices used were: bch
+
+Graph #610:
+Domination of 3
+The vertices used were: bch
+
+Graph #611:
+Domination of 3
+The vertices used were: cfj
+
+Graph #612:
+Domination of 3
+The vertices used were: aeh
+
+Graph #613:
+Domination of 3
+The vertices used were: bdh
+
+Graph #614:
+Domination of 3
+The vertices used were: bdf
+
+Graph #615:
+Domination of 3
+The vertices used were: beh
+
+Graph #616:
+Domination of 3
+The vertices used were: bdf
+
+Graph #617:
+Domination of 3
+The vertices used were: beg
+
+Graph #618:
+Domination of 3
+The vertices used were: bdf
+
+Graph #619:
+Domination of 3
+The vertices used were: agj
+
+Graph #620:
+Domination of 3
+The vertices used were: beg
+
+Graph #621:
+Domination of 3
+The vertices used were: dgi
+
+Graph #622:
+Domination of 3
+The vertices used were: agj
+
+Graph #623:
+Domination of 3
+The vertices used were: afi
+
+Graph #624:
+Domination of 3
+The vertices used were: agj
+
+Graph #625:
+Domination of 3
+The vertices used were: agj
+
+Graph #626:
+Domination of 3
+The vertices used were: cfj
+
+Graph #627:
+Domination of 3
+The vertices used were: afi
+
+Graph #628:
+Domination of 3
+The vertices used were: cfj
+
+Graph #629:
+Domination of 3
+The vertices used were: dgh
+
+Graph #630:
+Domination of 3
+The vertices used were: afh
+
+Graph #631:
+Domination of 3
+The vertices used were: beh
+
+Graph #632:
+Domination of 3
+The vertices used were: agj
+
+Graph #633:
+Domination of 3
+The vertices used were: afi
+
+Graph #634:
+Domination of 2
+The vertices used were: fi
+
+Graph #635:
+Domination of 3
+The vertices used were: afi
+
+Graph #636:
+Domination of 3
+The vertices used were: aeh
+
+Graph #637:
+Domination of 3
+The vertices used were: aei
+
+Graph #638:
+Domination of 3
+The vertices used were: cfh
+
+Graph #639:
+Domination of 3
+The vertices used were: afh
+
+Graph #640:
+Domination of 3
+The vertices used were: afh
+
+Graph #641:
+Domination of 3
+The vertices used were: cfg
+
+Graph #642:
+Domination of 3
+The vertices used were: cfg
+
+Graph #643:
+Domination of 3
+The vertices used were: dgh
+
+Graph #644:
+Domination of 3
+The vertices used were: dgh
+
+Graph #645:
+Domination of 3
+The vertices used were: agi
+
+Graph #646:
+Domination of 3
+The vertices used were: ahj
+
+Graph #647:
+Domination of 2
+The vertices used were: bj
+
+Graph #648:
+Domination of 2
+The vertices used were: dh
+
+Graph #649:
+Domination of 3
+The vertices used were: afh
+
+Graph #650:
+Domination of 3
+The vertices used were: afi
+
+Graph #651:
+Domination of 2
+The vertices used were: dg
+
+Graph #652:
+Domination of 3
+The vertices used were: afi
+
+Graph #653:
+Domination of 3
+The vertices used were: agj
+
+Graph #654:
+Domination of 3
+The vertices used were: bfj
+
+Graph #655:
+Domination of 3
+The vertices used were: afi
+
+Graph #656:
+Domination of 3
+The vertices used were: cfj
+
+Graph #657:
+Domination of 3
+The vertices used were: bei
+
+Graph #658:
+Domination of 3
+The vertices used were: bej
+
+Graph #659:
+Domination of 3
+The vertices used were: bej
+
+Graph #660:
+Domination of 3
+The vertices used were: bdi
+
+Graph #661:
+Domination of 3
+The vertices used were: bdj
+
+Graph #662:
+Domination of 3
+The vertices used were: cfi
+
+Graph #663:
+Domination of 3
+The vertices used were: bei
+
+Graph #664:
+Domination of 3
+The vertices used were: bfj
+
+Graph #665:
+Domination of 3
+The vertices used were: ceh
+
+Graph #666:
+Domination of 3
+The vertices used were: bej
+
+Graph #667:
+Domination of 3
+The vertices used were: bei
+
+Graph #668:
+Domination of 3
+The vertices used were: afi
+
+Graph #669:
+Domination of 3
+The vertices used were: bej
+
+Graph #670:
+Domination of 3
+The vertices used were: aei
+
+Graph #671:
+Domination of 3
+The vertices used were: bej
+
+Graph #672:
+Domination of 3
+The vertices used were: aei
+
+Graph #673:
+Domination of 3
+The vertices used were: adj
+
+Graph #674:
+Domination of 2
+The vertices used were: cl
+
+Graph #675:
+Domination of 2
+The vertices used were: dg
+
+Graph #676:
+Domination of 2
+The vertices used were: dg
+
+Graph #677:
+Domination of 3
+The vertices used were: afi
+
+Graph #678:
+Domination of 2
+The vertices used were: ei
+
+Graph #679:
+Domination of 2
+The vertices used were: dg
+
+Graph #680:
+Domination of 3
+The vertices used were: bei
+
+Graph #681:
+Domination of 3
+The vertices used were: agi
+
+Graph #682:
+Domination of 3
+The vertices used were: bfj
+
+Graph #683:
+Domination of 2
+The vertices used were: bk
+
+Graph #684:
+Domination of 3
+The vertices used were: dfg
+
+Graph #685:
+Domination of 2
+The vertices used were: bk
+
+Graph #686:
+Domination of 2
+The vertices used were: dg
+
+Graph #687:
+Domination of 3
+The vertices used were: deg
+
+Graph #688:
+Domination of 3
+The vertices used were: deg
+
+Graph #689:
+Domination of 3
+The vertices used were: deg
+
+Graph #690:
+Domination of 3
+The vertices used were: dfh
+
+Graph #691:
+Domination of 3
+The vertices used were: bdf
+
+Graph #692:
+Domination of 2
+The vertices used were: df
+
+Graph #693:
+Domination of 3
+The vertices used were: bej
+
+Graph #694:
+Domination of 2
+The vertices used were: df
+
+Graph #695:
+Domination of 2
+The vertices used were: df
+
+Graph #696:
+Domination of 2
+The vertices used were: dg
+
+Graph #697:
+Domination of 2
+The vertices used were: dg
+
+Graph #698:
+Domination of 2
+The vertices used were: df
+
+Graph #699:
+Domination of 2
+The vertices used were: df
+
+Graph #700:
+Domination of 3
+The vertices used were: bdf
+
+Graph #701:
+Domination of 3
+The vertices used were: aeg
+
+Graph #702:
+Domination of 3
+The vertices used were: bci
+
+Graph #703:
+Domination of 3
+The vertices used were: bdi
+
+Graph #704:
+Domination of 3
+The vertices used were: cdh
+
+Graph #705:
+Domination of 3
+The vertices used were: cfg
+
+Graph #706:
+Domination of 2
+The vertices used were: di
+
+Graph #707:
+Domination of 2
+The vertices used were: dh
+
+Graph #708:
+Domination of 3
+The vertices used were: agh
+
+Graph #709:
+Domination of 2
+The vertices used were: di
+
+Graph #710:
+Domination of 3
+The vertices used were: cfi
+
+Graph #711:
+Domination of 3
+The vertices used were: acj
+
+Graph #712:
+Domination of 3
+The vertices used were: afh
+
+Graph #713:
+Domination of 2
+The vertices used were: bk
+
+Graph #714:
+Domination of 2
+The vertices used were: ei
+
+Graph #715:
+Domination of 3
+The vertices used were: cfj
+
+Graph #716:
+Domination of 3
+The vertices used were: afh
+
+Graph #717:
+Domination of 2
+The vertices used were: cl
+
+Graph #718:
+Domination of 2
+The vertices used were: cl
+
+Graph #719:
+Domination of 2
+The vertices used were: eh
+
+Graph #720:
+Domination of 2
+The vertices used were: eh
+
+Graph #721:
+Domination of 2
+The vertices used were: eh
+
+Graph #722:
+Domination of 2
+The vertices used were: eh
+
+Graph #723:
+Domination of 2
+The vertices used were: dg
+
+Graph #724:
+Domination of 3
+The vertices used were: afh
+
+Graph #725:
+Domination of 3
+The vertices used were: agi
+
+Graph #726:
+Domination of 3
+The vertices used were: cfh
+
+Graph #727:
+Domination of 3
+The vertices used were: afi
+
+Graph #728:
+Domination of 2
+The vertices used were: ck
+
+Graph #729:
+Domination of 3
+The vertices used were: efh
+
+Graph #730:
+Domination of 2
+The vertices used were: ck
+
+Graph #731:
+Domination of 2
+The vertices used were: ck
+
+Graph #732:
+Domination of 2
+The vertices used were: eh
+
+Graph #733:
+Domination of 3
+The vertices used were: afh
+
+Graph #734:
+Domination of 3
+The vertices used were: bdh
+
+Graph #735:
+Domination of 3
+The vertices used were: bdi
+
+Graph #736:
+Domination of 2
+The vertices used were: dg
+
+Graph #737:
+Domination of 2
+The vertices used were: eh
+
+Graph #738:
+Domination of 3
+The vertices used were: bci
+
+Graph #739:
+Domination of 3
+The vertices used were: bdh
+
+Graph #740:
+Domination of 2
+The vertices used were: dg
+
+Graph #741:
+Domination of 3
+The vertices used were: bdg
+
+Graph #742:
+Domination of 3
+The vertices used were: afi
+
+Graph #743:
+Domination of 3
+The vertices used were: bdg
+
+Graph #744:
+Domination of 2
+The vertices used were: dg
+
+Graph #745:
+Domination of 2
+The vertices used were: dg
+
+Graph #746:
+Domination of 2
+The vertices used were: bj
+
+Graph #747:
+Domination of 2
+The vertices used were: dg
+
+Graph #748:
+Domination of 2
+The vertices used were: eh
+
+Graph #749:
+Domination of 3
+The vertices used were: efh
+
+Graph #750:
+Domination of 3
+The vertices used were: cef
+
+Graph #751:
+Domination of 2
+The vertices used were: cj
+
+Graph #752:
+Domination of 3
+The vertices used were: efg
+
+Graph #753:
+Domination of 3
+The vertices used were: ceg
+
+Graph #754:
+Domination of 2
+The vertices used were: bk
+
+Graph #755:
+Domination of 2
+The vertices used were: bk
+
+Graph #756:
+Domination of 3
+The vertices used were: bdf
+
+Graph #757:
+Domination of 2
+The vertices used were: bk
+
+Graph #758:
+Domination of 3
+The vertices used were: bde
+
+Graph #759:
+Domination of 2
+The vertices used were: bh
+
+Graph #760:
+Domination of 2
+The vertices used were: eh
+
+Graph #761:
+Domination of 2
+The vertices used were: ch
+
+Graph #762:
+Domination of 3
+The vertices used were: bdh
+
+Graph #763:
+Domination of 2
+The vertices used were: bd
+
+Graph #764:
+Domination of 2
+The vertices used were: dh
+
+Graph #765:
+Domination of 2
+The vertices used were: dh
+
+Graph #766:
+Domination of 2
+The vertices used were: dg
+
+Graph #767:
+Domination of 3
+The vertices used were: adh
+
+Graph #768:
+Domination of 2
+The vertices used were: eg
+
+Graph #769:
+Domination of 2
+The vertices used were: eg
+
+Graph #770:
+Domination of 2
+The vertices used were: eh
+
+Graph #771:
+Domination of 2
+The vertices used were: cl
+
+Graph #772:
+Domination of 2
+The vertices used were: ck
+
+Graph #773:
+Domination of 2
+The vertices used were: eg
+
+Graph #774:
+Domination of 2
+The vertices used were: eh
+
+Graph #775:
+Domination of 2
+The vertices used were: eg
+
+Graph #776:
+Domination of 2
+The vertices used were: eh
+
+Graph #777:
+Domination of 2
+The vertices used were: ck
+
+Graph #778:
+Domination of 2
+The vertices used were: cf
+
+Graph #779:
+Domination of 2
+The vertices used were: dh
+
+Graph #780:
+Domination of 2
+The vertices used were: bl
+
+Graph #781:
+Domination of 3
+The vertices used were: bdg
+
+Graph #782:
+Domination of 2
+The vertices used were: bh
+
+Graph #783:
+Domination of 2
+The vertices used were: bh
+
+Graph #784:
+Domination of 3
+The vertices used were: cdg
+
+Graph #785:
+Domination of 2
+The vertices used were: cl
+
+Graph #786:
+Domination of 3
+The vertices used were: afh
+
+Graph #787:
+Domination of 2
+The vertices used were: bk
+
+Graph #788:
+Domination of 3
+The vertices used were: bcf
+
+Graph #789:
+Domination of 3
+The vertices used were: bcf
+
+Graph #790:
+Domination of 3
+The vertices used were: bcf
+
+Graph #791:
+Domination of 3
+The vertices used were: bcf
+
+Graph #792:
+Domination of 2
+The vertices used were: bl
+
+Graph #793:
+Domination of 2
+The vertices used were: bm
+
+Graph #794:
+Domination of 3
+The vertices used were: bcf
+
+Graph #795:
+Domination of 2
+The vertices used were: bl
+
+Graph #796:
+Domination of 3
+The vertices used were: bcf
+
+Graph #797:
+Domination of 2
+The vertices used were: bd
+
+Graph #798:
+Domination of 2
+The vertices used were: di
+
+Graph #799:
+Domination of 2
+The vertices used were: di
+
+Graph #800:
+Domination of 2
+The vertices used were: di
+
+Graph #801:
+Domination of 2
+The vertices used were: bi
+
+Graph #802:
+Domination of 2
+The vertices used were: bd
+
+Graph #803:
+Domination of 2
+The vertices used were: bd
+
+Graph #804:
+Domination of 3
+The vertices used were: bdf
+
+Graph #805:
+Domination of 2
+The vertices used were: cf
+
+Graph #806:
+Domination of 2
+The vertices used were: ce
+
+Graph #807:
+Domination of 2
+The vertices used were: ch
+
+Graph #808:
+Domination of 2
+The vertices used were: ce
+
+Graph #809:
+Domination of 2
+The vertices used were: cf
+
+Graph #810:
+Domination of 2
+The vertices used were: ce
+
+Graph #811:
+Domination of 2
+The vertices used were: cf
+
+Graph #812:
+Domination of 2
+The vertices used were: bd
+
+Graph #813:
+Domination of 2
+The vertices used were: bd
+
+Graph #814:
+Domination of 2
+The vertices used were: ab
+
+Graph #815:
+Domination of 2
+The vertices used were: ei
+
+Graph #816:
+Domination of 3
+The vertices used were: efh
+
+Graph #817:
+Domination of 3
+The vertices used were: bei
+
+Graph #818:
+Domination of 2
+The vertices used were: eh
+
+Graph #819:
+Domination of 3
+The vertices used were: afh
+
+Graph #820:
+Domination of 3
+The vertices used were: agi
+
+Graph #821:
+Domination of 3
+The vertices used were: afh
+
+Graph #822:
+Domination of 3
+The vertices used were: afi
+
+Graph #823:
+Domination of 3
+The vertices used were: afi
+
+Graph #824:
+Domination of 3
+The vertices used were: egh
+
+Graph #825:
+Domination of 3
+The vertices used were: afh
+
+Graph #826:
+Domination of 3
+The vertices used were: acg
+
+Graph #827:
+Domination of 3
+The vertices used were: bfj
+
+Graph #828:
+Domination of 3
+The vertices used were: agj
+
+Graph #829:
+Domination of 2
+The vertices used were: ei
+
+Graph #830:
+Domination of 2
+The vertices used were: ei
+
+Graph #831:
+Domination of 3
+The vertices used were: efh
+
+Graph #832:
+Domination of 3
+The vertices used were: bej
+
+Graph #833:
+Domination of 3
+The vertices used were: bei
+
+Graph #834:
+Domination of 2
+The vertices used were: cl
+
+Graph #835:
+Domination of 2
+The vertices used were: dh
+
+Graph #836:
+Domination of 3
+The vertices used were: bcg
+
+Graph #837:
+Domination of 3
+The vertices used were: dfg
+
+Graph #838:
+Domination of 3
+The vertices used were: afh
+
+Graph #839:
+Domination of 3
+The vertices used were: cfg
+
+Graph #840:
+Domination of 3
+The vertices used were: dgh
+
+Graph #841:
+Domination of 3
+The vertices used were: bhj
+
+Graph #842:
+Domination of 3
+The vertices used were: bij
+
+Graph #843:
+Domination of 3
+The vertices used were: bhi
+
+Graph #844:
+Domination of 3
+The vertices used were: bhi
+
+Graph #845:
+Domination of 3
+The vertices used were: ahj
+
+Graph #846:
+Domination of 3
+The vertices used were: eij
+
+Graph #847:
+Domination of 3
+The vertices used were: agh
+
+Graph #848:
+Domination of 3
+The vertices used were: agh
+
+Graph #849:
+Domination of 3
+The vertices used were: agh
+
+Graph #850:
+Domination of 3
+The vertices used were: agh
+
+Graph #851:
+Domination of 3
+The vertices used were: agh
+
+Graph #852:
+Domination of 3
+The vertices used were: bhi
+
+Graph #853:
+Domination of 3
+The vertices used were: ehi
+
+Graph #854:
+Domination of 3
+The vertices used were: bhi
+
+Graph #855:
+Domination of 3
+The vertices used were: bhj
+
+Graph #856:
+Domination of 3
+The vertices used were: bhi
+
+Graph #857:
+Domination of 3
+The vertices used were: bhi
+
+Graph #858:
+Domination of 3
+The vertices used were: bhi
+
+Graph #859:
+Domination of 3
+The vertices used were: agi
+
+Graph #860:
+Domination of 3
+The vertices used were: agi
+
+Graph #861:
+Domination of 3
+The vertices used were: agj
+
+Graph #862:
+Domination of 3
+The vertices used were: dgh
+
+Graph #863:
+Domination of 3
+The vertices used were: dgh
+
+Graph #864:
+Domination of 3
+The vertices used were: aij
+
+Graph #865:
+Domination of 3
+The vertices used were: ahj
+
+Graph #866:
+Domination of 3
+The vertices used were: ahi
+
+Graph #867:
+Domination of 3
+The vertices used were: ahj
+
+Graph #868:
+Domination of 3
+The vertices used were: ahi
+
+Graph #869:
+Domination of 3
+The vertices used were: ahi
+
+Graph #870:
+Domination of 3
+The vertices used were: dgh
+
+Graph #871:
+Domination of 3
+The vertices used were: bij
+
+Graph #872:
+Domination of 3
+The vertices used were: bhj
+
+Graph #873:
+Domination of 3
+The vertices used were: bhi
+
+Graph #874:
+Domination of 3
+The vertices used were: dhi
+
+Graph #875:
+Domination of 3
+The vertices used were: bhj
+
+Graph #876:
+Domination of 3
+The vertices used were: bij
+
+Graph #877:
+Domination of 3
+The vertices used were: agj
+
+Graph #878:
+Domination of 3
+The vertices used were: agi
+
+Graph #879:
+Domination of 3
+The vertices used were: agj
+
+Graph #880:
+Domination of 3
+The vertices used were: agi
+
+Graph #881:
+Domination of 3
+The vertices used were: agj
+
+Graph #882:
+Domination of 3
+The vertices used were: agi
+
+Graph #883:
+Domination of 3
+The vertices used were: agh
+
+Graph #884:
+Domination of 3
+The vertices used were: afi
+
+Graph #885:
+Domination of 3
+The vertices used were: afj
+
+Graph #886:
+Domination of 3
+The vertices used were: afg
+
+Graph #887:
+Domination of 3
+The vertices used were: agj
+
+Graph #888:
+Domination of 3
+The vertices used were: afg
+
+Graph #889:
+Domination of 3
+The vertices used were: afg
+
+Graph #890:
+Domination of 3
+The vertices used were: afg
+
+Graph #891:
+Domination of 3
+The vertices used were: dfg
+
+Graph #892:
+Domination of 3
+The vertices used were: cfj
+
+Graph #893:
+Domination of 3
+The vertices used were: afh
+
+Graph #894:
+Domination of 3
+The vertices used were: dfg
+
+Graph #895:
+Domination of 3
+The vertices used were: dfk
+
+Graph #896:
+Domination of 3
+The vertices used were: dfg
+
+Graph #897:
+Domination of 3
+The vertices used were: dfg
+
+Graph #898:
+Domination of 3
+The vertices used were: cfg
+
+Graph #899:
+Domination of 3
+The vertices used were: cfg
+
+Graph #900:
+Domination of 3
+The vertices used were: efg
+
+Graph #901:
+Domination of 3
+The vertices used were: cfg
+
+Graph #902:
+Domination of 3
+The vertices used were: cfg
+
+Graph #903:
+Domination of 3
+The vertices used were: bij
+
+Graph #904:
+Domination of 3
+The vertices used were: aij
+
+Graph #905:
+Domination of 3
+The vertices used were: ahj
+
+Graph #906:
+Domination of 3
+The vertices used were: ahi
+
+Graph #907:
+Domination of 3
+The vertices used were: ahi
+
+Graph #908:
+Domination of 3
+The vertices used were: agj
+
+Graph #909:
+Domination of 3
+The vertices used were: agh
+
+Graph #910:
+Domination of 3
+The vertices used were: bhi
+
+Graph #911:
+Domination of 3
+The vertices used were: cij
+
+Graph #912:
+Domination of 3
+The vertices used were: bhi
+
+Graph #913:
+Domination of 3
+The vertices used were: agi
+
+Graph #914:
+Domination of 3
+The vertices used were: agh
+
+Graph #915:
+Domination of 3
+The vertices used were: egh
+
+Graph #916:
+Domination of 3
+The vertices used were: agi
+
+Graph #917:
+Domination of 3
+The vertices used were: bhi
+
+Graph #918:
+Domination of 3
+The vertices used were: bhi
+
+Graph #919:
+Domination of 3
+The vertices used were: agi
+
+Graph #920:
+Domination of 3
+The vertices used were: agi
+
+Graph #921:
+Domination of 3
+The vertices used were: bhi
+
+Graph #922:
+Domination of 3
+The vertices used were: bhj
+
+Graph #923:
+Domination of 3
+The vertices used were: agj
+
+Graph #924:
+Domination of 3
+The vertices used were: agj
+
+Graph #925:
+Domination of 3
+The vertices used were: agi
+
+Graph #926:
+Domination of 3
+The vertices used were: ahj
+
+Graph #927:
+Domination of 3
+The vertices used were: agi
+
+Graph #928:
+Domination of 3
+The vertices used were: ahi
+
+Graph #929:
+Domination of 3
+The vertices used were: aij
+
+Graph #930:
+Domination of 3
+The vertices used were: aij
+
+Graph #931:
+Domination of 3
+The vertices used were: bij
+
+Graph #932:
+Domination of 3
+The vertices used were: ahi
+
+Graph #933:
+Domination of 3
+The vertices used were: ahi
+
+Graph #934:
+Domination of 3
+The vertices used were: ahj
+
+Graph #935:
+Domination of 3
+The vertices used were: ahi
+
+Graph #936:
+Domination of 3
+The vertices used were: ahj
+
+Graph #937:
+Domination of 3
+The vertices used were: ahj
+
+Graph #938:
+Domination of 3
+The vertices used were: ahi
+
+Graph #939:
+Domination of 3
+The vertices used were: ehi
+
+Graph #940:
+Domination of 3
+The vertices used were: aij
+
+Graph #941:
+Domination of 3
+The vertices used were: ahi
+
+Graph #942:
+Domination of 3
+The vertices used were: ahi
+
+Graph #943:
+Domination of 3
+The vertices used were: ahi
+
+Graph #944:
+Domination of 3
+The vertices used were: ahi
+
+Graph #945:
+Domination of 3
+The vertices used were: egh
+
+Graph #946:
+Domination of 3
+The vertices used were: egh
+
+Graph #947:
+Domination of 3
+The vertices used were: agh
+
+Graph #948:
+Domination of 3
+The vertices used were: agi
+
+Graph #949:
+Domination of 3
+The vertices used were: agh
+
+Graph #950:
+Domination of 3
+The vertices used were: agh
+
+Graph #951:
+Domination of 3
+The vertices used were: agi
+
+Graph #952:
+Domination of 3
+The vertices used were: egh
+
+Graph #953:
+Domination of 3
+The vertices used were: agi
+
+Graph #954:
+Domination of 3
+The vertices used were: ahj
+
+Graph #955:
+Domination of 3
+The vertices used were: agh
+
+Graph #956:
+Domination of 3
+The vertices used were: agh
+
+Graph #957:
+Domination of 3
+The vertices used were: agh
+
+Graph #958:
+Domination of 3
+The vertices used were: agh
+
+Graph #959:
+Domination of 3
+The vertices used were: agh
+
+Graph #960:
+Domination of 3
+The vertices used were: agj
+
+Graph #961:
+Domination of 3
+The vertices used were: ahj
+
+Graph #962:
+Domination of 3
+The vertices used were: agi
+
+Graph #963:
+Domination of 3
+The vertices used were: agi
+
+Graph #964:
+Domination of 3
+The vertices used were: agj
+
+Graph #965:
+Domination of 3
+The vertices used were: agj
+
+Graph #966:
+Domination of 3
+The vertices used were: agi
+
+Graph #967:
+Domination of 3
+The vertices used were: agi
+
+Graph #968:
+Domination of 3
+The vertices used were: afi
+
+Graph #969:
+Domination of 3
+The vertices used were: agi
+
+Graph #970:
+Domination of 3
+The vertices used were: afh
+
+Graph #971:
+Domination of 3
+The vertices used were: dfg
+
+Graph #972:
+Domination of 3
+The vertices used were: agh
+
+Graph #973:
+Domination of 3
+The vertices used were: dfg
+
+Graph #974:
+Domination of 3
+The vertices used were: afh
+
+Graph #975:
+Domination of 3
+The vertices used were: dfg
+
+Graph #976:
+Domination of 3
+The vertices used were: dfg
+
+Graph #977:
+Domination of 3
+The vertices used were: afi
+
+Graph #978:
+Domination of 3
+The vertices used were: afi
+
+Graph #979:
+Domination of 3
+The vertices used were: afi
+
+Graph #980:
+Domination of 3
+The vertices used were: bfj
+
+Graph #981:
+Domination of 3
+The vertices used were: afi
+
+Graph #982:
+Domination of 3
+The vertices used were: afi
+
+Graph #983:
+Domination of 3
+The vertices used were: agi
+
+Graph #984:
+Domination of 3
+The vertices used were: afh
+
+Graph #985:
+Domination of 3
+The vertices used were: afi
+
+Graph #986:
+Domination of 3
+The vertices used were: afh
+
+Graph #987:
+Domination of 3
+The vertices used were: ahj
+
+Graph #988:
+Domination of 3
+The vertices used were: afi
+
+Graph #989:
+Domination of 3
+The vertices used were: afi
+
+Graph #990:
+Domination of 3
+The vertices used were: afh
+
+Graph #991:
+Domination of 3
+The vertices used were: afh
+
+Graph #992:
+Domination of 3
+The vertices used were: afg
+
+Graph #993:
+Domination of 3
+The vertices used were: afg
+
+Graph #994:
+Domination of 3
+The vertices used were: afg
+
+Graph #995:
+Domination of 3
+The vertices used were: agh
+
+Graph #996:
+Domination of 3
+The vertices used were: afg
+
+Graph #997:
+Domination of 3
+The vertices used were: afh
+
+Graph #998:
+Domination of 3
+The vertices used were: afg
+
+Graph #999:
+Domination of 3
+The vertices used were: afh
+
+Graph #1000:
+Domination of 3
+The vertices used were: afh
+
+Graph #1001:
+Domination of 3
+The vertices used were: afg
+
+Graph #1002:
+Domination of 3
+The vertices used were: afg
+
+Graph #1003:
+Domination of 3
+The vertices used were: afg
+
+Graph #1004:
+Domination of 3
+The vertices used were: agh
+
+Graph #1005:
+Domination of 3
+The vertices used were: efg
+
+Graph #1006:
+Domination of 3
+The vertices used were: afh
+
+Graph #1007:
+Domination of 3
+The vertices used were: dfg
+
+Graph #1008:
+Domination of 3
+The vertices used were: agj
+
+Graph #1009:
+Domination of 3
+The vertices used were: afi
+
+Graph #1010:
+Domination of 3
+The vertices used were: cfj
+
+Graph #1011:
+Domination of 3
+The vertices used were: dfj
+
+Graph #1012:
+Domination of 2
+The vertices used were: eh
+
+Graph #1013:
+Domination of 3
+The vertices used were: bei
+
+Graph #1014:
+Domination of 2
+The vertices used were: eh
+
+Graph #1015:
+Domination of 2
+The vertices used were: eh
+
+Graph #1016:
+Domination of 2
+The vertices used were: eg
+
+Graph #1017:
+Domination of 3
+The vertices used were: egh
+
+Graph #1018:
+Domination of 3
+The vertices used were: cei
+
+Graph #1019:
+Domination of 2
+The vertices used were: eg
+
+Graph #1020:
+Domination of 2
+The vertices used were: eh
+
+Graph #1021:
+Domination of 2
+The vertices used were: eg
+
+Graph #1022:
+Domination of 2
+The vertices used were: cj
+
+Graph #1023:
+Domination of 2
+The vertices used were: dh
+
+Graph #1024:
+Domination of 2
+The vertices used were: dh
+
+Graph #1025:
+Domination of 2
+The vertices used were: dh
+
+Graph #1026:
+Domination of 2
+The vertices used were: dh
+
+Graph #1027:
+Domination of 3
+The vertices used were: bei
+
+Graph #1028:
+Domination of 3
+The vertices used were: bej
+
+Graph #1029:
+Domination of 3
+The vertices used were: bfj
+
+Graph #1030:
+Domination of 3
+The vertices used were: cfj
+
+Graph #1031:
+Domination of 3
+The vertices used were: bcf
+
+Graph #1032:
+Domination of 3
+The vertices used were: bcg
+
+Graph #1033:
+Domination of 3
+The vertices used were: bcf
+
+Graph #1034:
+Domination of 3
+The vertices used were: abf
+
+Graph #1035:
+Domination of 2
+The vertices used were: bf
+
+Graph #1036:
+Domination of 3
+The vertices used were: bdf
+
+Graph #1037:
+Domination of 2
+The vertices used were: fj
+
+Graph #1038:
+Domination of 2
+The vertices used were: bm
+
+Graph #1039:
+Domination of 2
+The vertices used were: bf
+
+Graph #1040:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1041:
+Domination of 2
+The vertices used were: bf
+
+Graph #1042:
+Domination of 3
+The vertices used were: bdf
+
+Graph #1043:
+Domination of 3
+The vertices used were: bcf
+
+Graph #1044:
+Domination of 2
+The vertices used were: bf
+
+Graph #1045:
+Domination of 3
+The vertices used were: bdf
+
+Graph #1046:
+Domination of 2
+The vertices used were: bf
+
+Graph #1047:
+Domination of 2
+The vertices used were: bf
+
+Graph #1048:
+Domination of 2
+The vertices used were: bi
+
+Graph #1049:
+Domination of 2
+The vertices used were: ej
+
+Graph #1050:
+Domination of 3
+The vertices used were: bei
+
+Graph #1051:
+Domination of 3
+The vertices used were: cei
+
+Graph #1052:
+Domination of 2
+The vertices used were: eh
+
+Graph #1053:
+Domination of 2
+The vertices used were: eh
+
+Graph #1054:
+Domination of 2
+The vertices used were: eh
+
+Graph #1055:
+Domination of 2
+The vertices used were: bi
+
+Graph #1056:
+Domination of 3
+The vertices used were: bdf
+
+Graph #1057:
+Domination of 2
+The vertices used were: bi
+
+Graph #1058:
+Domination of 3
+The vertices used were: bhi
+
+Graph #1059:
+Domination of 2
+The vertices used were: di
+
+Graph #1060:
+Domination of 2
+The vertices used were: di
+
+Graph #1061:
+Domination of 2
+The vertices used were: di
+
+Graph #1062:
+Domination of 3
+The vertices used were: bej
+
+Graph #1063:
+Domination of 3
+The vertices used were: cej
+
+Graph #1064:
+Domination of 3
+The vertices used were: cej
+
+Graph #1065:
+Domination of 3
+The vertices used were: bei
+
+Graph #1066:
+Domination of 3
+The vertices used were: bei
+
+Graph #1067:
+Domination of 3
+The vertices used were: bei
+
+Graph #1068:
+Domination of 3
+The vertices used were: ehi
+
+Graph #1069:
+Domination of 3
+The vertices used were: bei
+
+Graph #1070:
+Domination of 3
+The vertices used were: bdf
+
+Graph #1071:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1072:
+Domination of 2
+The vertices used were: ei
+
+Graph #1073:
+Domination of 2
+The vertices used were: eh
+
+Graph #1074:
+Domination of 2
+The vertices used were: eh
+
+Graph #1075:
+Domination of 3
+The vertices used were: bei
+
+Graph #1076:
+Domination of 2
+The vertices used were: ei
+
+Graph #1077:
+Domination of 2
+The vertices used were: ej
+
+Graph #1078:
+Domination of 2
+The vertices used were: ei
+
+Graph #1079:
+Domination of 3
+The vertices used were: bej
+
+Graph #1080:
+Domination of 2
+The vertices used were: bm
+
+Graph #1081:
+Domination of 3
+The vertices used were: bcf
+
+Graph #1082:
+Domination of 2
+The vertices used were: bi
+
+Graph #1083:
+Domination of 2
+The vertices used were: bi
+
+Graph #1084:
+Domination of 2
+The vertices used were: bj
+
+Graph #1085:
+Domination of 2
+The vertices used were: bi
+
+Graph #1086:
+Domination of 3
+The vertices used were: bcf
+
+Graph #1087:
+Domination of 3
+The vertices used were: afi
+
+Graph #1088:
+Domination of 3
+The vertices used were: afi
+
+Graph #1089:
+Domination of 3
+The vertices used were: bcf
+
+Graph #1090:
+Domination of 2
+The vertices used were: bi
+
+Graph #1091:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1092:
+Domination of 3
+The vertices used were: agj
+
+Graph #1093:
+Domination of 3
+The vertices used were: agj
+
+Graph #1094:
+Domination of 3
+The vertices used were: bcg
+
+Graph #1095:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1096:
+Domination of 2
+The vertices used were: bl
+
+Graph #1097:
+Domination of 3
+The vertices used were: cfg
+
+Graph #1098:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1099:
+Domination of 3
+The vertices used were: bcf
+
+Graph #1100:
+Domination of 3
+The vertices used were: bcf
+
+Graph #1101:
+Domination of 2
+The vertices used were: bl
+
+Graph #1102:
+Domination of 3
+The vertices used were: cfh
+
+Graph #1103:
+Domination of 2
+The vertices used were: bi
+
+Graph #1104:
+Domination of 2
+The vertices used were: bi
+
+Graph #1105:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1106:
+Domination of 2
+The vertices used were: bi
+
+Graph #1107:
+Domination of 2
+The vertices used were: bi
+
+Graph #1108:
+Domination of 3
+The vertices used were: bfg
+
+Graph #1109:
+Domination of 3
+The vertices used were: bfh
+
+Graph #1110:
+Domination of 3
+The vertices used were: bfh
+
+Graph #1111:
+Domination of 3
+The vertices used were: bfg
+
+Graph #1112:
+Domination of 3
+The vertices used were: agi
+
+Graph #1113:
+Domination of 2
+The vertices used were: bk
+
+Graph #1114:
+Domination of 2
+The vertices used were: bk
+
+Graph #1115:
+Domination of 2
+The vertices used were: bl
+
+Graph #1116:
+Domination of 2
+The vertices used were: bk
+
+Graph #1117:
+Domination of 3
+The vertices used were: bfg
+
+Graph #1118:
+Domination of 2
+The vertices used were: bk
+
+Graph #1119:
+Domination of 2
+The vertices used were: bf
+
+Graph #1120:
+Domination of 3
+The vertices used were: bei
+
+Graph #1121:
+Domination of 3
+The vertices used were: egh
+
+Graph #1122:
+Domination of 2
+The vertices used were: eh
+
+Graph #1123:
+Domination of 3
+The vertices used were: agi
+
+Graph #1124:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1125:
+Domination of 3
+The vertices used were: bcf
+
+Graph #1126:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1127:
+Domination of 2
+The vertices used were: bm
+
+Graph #1128:
+Domination of 2
+The vertices used were: ei
+
+Graph #1129:
+Domination of 3
+The vertices used were: bei
+
+Graph #1130:
+Domination of 2
+The vertices used were: eh
+
+Graph #1131:
+Domination of 3
+The vertices used were: afi
+
+Graph #1132:
+Domination of 2
+The vertices used were: bl
+
+Graph #1133:
+Domination of 2
+The vertices used were: eh
+
+Graph #1134:
+Domination of 2
+The vertices used were: eg
+
+Graph #1135:
+Domination of 2
+The vertices used were: eh
+
+Graph #1136:
+Domination of 2
+The vertices used were: eg
+
+Graph #1137:
+Domination of 2
+The vertices used were: eg
+
+Graph #1138:
+Domination of 2
+The vertices used were: eg
+
+Graph #1139:
+Domination of 2
+The vertices used were: ef
+
+Graph #1140:
+Domination of 2
+The vertices used were: ef
+
+Graph #1141:
+Domination of 3
+The vertices used were: afg
+
+Graph #1142:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1143:
+Domination of 2
+The vertices used were: eg
+
+Graph #1144:
+Domination of 2
+The vertices used were: ef
+
+Graph #1145:
+Domination of 2
+The vertices used were: bk
+
+Graph #1146:
+Domination of 3
+The vertices used were: afi
+
+Graph #1147:
+Domination of 2
+The vertices used were: bf
+
+Graph #1148:
+Domination of 2
+The vertices used were: bf
+
+Graph #1149:
+Domination of 2
+The vertices used were: bk
+
+Graph #1150:
+Domination of 3
+The vertices used were: afg
+
+Graph #1151:
+Domination of 3
+The vertices used were: agh
+
+Graph #1152:
+Domination of 3
+The vertices used were: afg
+
+Graph #1153:
+Domination of 3
+The vertices used were: afh
+
+Graph #1154:
+Domination of 3
+The vertices used were: afg
+
+Graph #1155:
+Domination of 3
+The vertices used were: cfg
+
+Graph #1156:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1157:
+Domination of 3
+The vertices used were: bhi
+
+Graph #1158:
+Domination of 3
+The vertices used were: agh
+
+Graph #1159:
+Domination of 3
+The vertices used were: agi
+
+Graph #1160:
+Domination of 3
+The vertices used were: agi
+
+Graph #1161:
+Domination of 3
+The vertices used were: agh
+
+Graph #1162:
+Domination of 3
+The vertices used were: bhi
+
+Graph #1163:
+Domination of 3
+The vertices used were: agh
+
+Graph #1164:
+Domination of 3
+The vertices used were: afg
+
+Graph #1165:
+Domination of 3
+The vertices used were: dfg
+
+Graph #1166:
+Domination of 3
+The vertices used were: afh
+
+Graph #1167:
+Domination of 3
+The vertices used were: agi
+
+Graph #1168:
+Domination of 3
+The vertices used were: afi
+
+Graph #1169:
+Domination of 3
+The vertices used were: bfj
+
+Graph #1170:
+Domination of 3
+The vertices used were: aeg
+
+Graph #1171:
+Domination of 3
+The vertices used were: afg
+
+Graph #1172:
+Domination of 3
+The vertices used were: agi
+
+Graph #1173:
+Domination of 3
+The vertices used were: dfg
+
+Graph #1174:
+Domination of 3
+The vertices used were: cfj
+
+Graph #1175:
+Domination of 3
+The vertices used were: afh
+
+Graph #1176:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1177:
+Domination of 3
+The vertices used were: bch
+
+Graph #1178:
+Domination of 3
+The vertices used were: bcg
+
+Graph #1179:
+Domination of 2
+The vertices used were: eh
+
+Graph #1180:
+Domination of 3
+The vertices used were: efg
+
+Graph #1181:
+Domination of 3
+The vertices used were: ceg
+
+Graph #1182:
+Domination of 3
+The vertices used were: agh
+
+Graph #1183:
+Domination of 3
+The vertices used were: bhi
+
+Graph #1184:
+Domination of 3
+The vertices used were: egh
+
+Graph #1185:
+Domination of 3
+The vertices used were: afi
+
+Graph #1186:
+Domination of 3
+The vertices used were: cfg
+
+Graph #1187:
+Domination of 3
+The vertices used were: cfh
+
+Graph #1188:
+Domination of 3
+The vertices used were: afh
+
+Graph #1189:
+Domination of 3
+The vertices used were: bfg
+
+Graph #1190:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1191:
+Domination of 3
+The vertices used were: agi
+
+Graph #1192:
+Domination of 3
+The vertices used were: agh
+
+Graph #1193:
+Domination of 3
+The vertices used were: afi
+
+Graph #1194:
+Domination of 3
+The vertices used were: agi
+
+Graph #1195:
+Domination of 3
+The vertices used were: egh
+
+Graph #1196:
+Domination of 3
+The vertices used were: efg
+
+Graph #1197:
+Domination of 3
+The vertices used were: efh
+
+Graph #1198:
+Domination of 3
+The vertices used were: egh
+
+Graph #1199:
+Domination of 3
+The vertices used were: afh
+
+Graph #1200:
+Domination of 3
+The vertices used were: agi
+
+Graph #1201:
+Domination of 3
+The vertices used were: agj
+
+Graph #1202:
+Domination of 3
+The vertices used were: cfg
+
+Graph #1203:
+Domination of 3
+The vertices used were: cfg
+
+Graph #1204:
+Domination of 3
+The vertices used were: agi
+
+Graph #1205:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1206:
+Domination of 3
+The vertices used were: agj
+
+Graph #1207:
+Domination of 2
+The vertices used were: bj
+
+Graph #1208:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1209:
+Domination of 2
+The vertices used were: bk
+
+Graph #1210:
+Domination of 2
+The vertices used were: bk
+
+Graph #1211:
+Domination of 2
+The vertices used were: bj
+
+Graph #1212:
+Domination of 2
+The vertices used were: bk
+
+Graph #1213:
+Domination of 2
+The vertices used were: bj
+
+Graph #1214:
+Domination of 2
+The vertices used were: bj
+
+Graph #1215:
+Domination of 2
+The vertices used were: bk
+
+Graph #1216:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1217:
+Domination of 2
+The vertices used were: bk
+
+Graph #1218:
+Domination of 3
+The vertices used were: agi
+
+Graph #1219:
+Domination of 3
+The vertices used were: afh
+
+Graph #1220:
+Domination of 3
+The vertices used were: afi
+
+Graph #1221:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1222:
+Domination of 2
+The vertices used were: al
+
+Graph #1223:
+Domination of 3
+The vertices used were: afi
+
+Graph #1224:
+Domination of 2
+The vertices used were: im
+
+Graph #1225:
+Domination of 3
+The vertices used were: bef
+
+Graph #1226:
+Domination of 3
+The vertices used were: efi
+
+Graph #1227:
+Domination of 2
+The vertices used were: di
+
+Graph #1228:
+Domination of 2
+The vertices used were: di
+
+Graph #1229:
+Domination of 2
+The vertices used were: ej
+
+Graph #1230:
+Domination of 3
+The vertices used were: aei
+
+Graph #1231:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1232:
+Domination of 2
+The vertices used were: eh
+
+Graph #1233:
+Domination of 2
+The vertices used were: eh
+
+Graph #1234:
+Domination of 2
+The vertices used were: eh
+
+Graph #1235:
+Domination of 3
+The vertices used were: cfj
+
+Graph #1236:
+Domination of 3
+The vertices used were: afi
+
+Graph #1237:
+Domination of 3
+The vertices used were: efg
+
+Graph #1238:
+Domination of 2
+The vertices used were: eg
+
+Graph #1239:
+Domination of 2
+The vertices used were: eg
+
+Graph #1240:
+Domination of 2
+The vertices used were: ei
+
+Graph #1241:
+Domination of 2
+The vertices used were: eh
+
+Graph #1242:
+Domination of 3
+The vertices used were: bei
+
+Graph #1243:
+Domination of 2
+The vertices used were: bl
+
+Graph #1244:
+Domination of 2
+The vertices used were: bl
+
+Graph #1245:
+Domination of 3
+The vertices used were: bcg
+
+Graph #1246:
+Domination of 3
+The vertices used were: agh
+
+Graph #1247:
+Domination of 3
+The vertices used were: dgh
+
+Graph #1248:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1249:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1250:
+Domination of 3
+The vertices used were: bhi
+
+Graph #1251:
+Domination of 3
+The vertices used were: agi
+
+Graph #1252:
+Domination of 3
+The vertices used were: agh
+
+Graph #1253:
+Domination of 3
+The vertices used were: cfg
+
+Graph #1254:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1255:
+Domination of 3
+The vertices used were: agi
+
+Graph #1256:
+Domination of 3
+The vertices used were: agh
+
+Graph #1257:
+Domination of 3
+The vertices used were: agh
+
+Graph #1258:
+Domination of 3
+The vertices used were: agh
+
+Graph #1259:
+Domination of 3
+The vertices used were: bfj
+
+Graph #1260:
+Domination of 3
+The vertices used were: afi
+
+Graph #1261:
+Domination of 3
+The vertices used were: afi
+
+Graph #1262:
+Domination of 3
+The vertices used were: cfj
+
+Graph #1263:
+Domination of 3
+The vertices used were: afi
+
+Graph #1264:
+Domination of 3
+The vertices used were: afj
+
+Graph #1265:
+Domination of 3
+The vertices used were: afi
+
+Graph #1266:
+Domination of 3
+The vertices used were: afh
+
+Graph #1267:
+Domination of 3
+The vertices used were: agi
+
+Graph #1268:
+Domination of 3
+The vertices used were: agi
+
+Graph #1269:
+Domination of 3
+The vertices used were: agi
+
+Graph #1270:
+Domination of 3
+The vertices used were: agh
+
+Graph #1271:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1272:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1273:
+Domination of 3
+The vertices used were: bhi
+
+Graph #1274:
+Domination of 3
+The vertices used were: agh
+
+Graph #1275:
+Domination of 3
+The vertices used were: agh
+
+Graph #1276:
+Domination of 3
+The vertices used were: agh
+
+Graph #1277:
+Domination of 3
+The vertices used were: agi
+
+Graph #1278:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1279:
+Domination of 3
+The vertices used were: agh
+
+Graph #1280:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1281:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1282:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1283:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1284:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1285:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1286:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1287:
+Domination of 3
+The vertices used were: agj
+
+Graph #1288:
+Domination of 3
+The vertices used were: agi
+
+Graph #1289:
+Domination of 3
+The vertices used were: agj
+
+Graph #1290:
+Domination of 3
+The vertices used were: agi
+
+Graph #1291:
+Domination of 3
+The vertices used were: agi
+
+Graph #1292:
+Domination of 3
+The vertices used were: agi
+
+Graph #1293:
+Domination of 3
+The vertices used were: afg
+
+Graph #1294:
+Domination of 3
+The vertices used were: agh
+
+Graph #1295:
+Domination of 3
+The vertices used were: efg
+
+Graph #1296:
+Domination of 3
+The vertices used were: afh
+
+Graph #1297:
+Domination of 3
+The vertices used were: afh
+
+Graph #1298:
+Domination of 3
+The vertices used were: agi
+
+Graph #1299:
+Domination of 3
+The vertices used were: afg
+
+Graph #1300:
+Domination of 3
+The vertices used were: agi
+
+Graph #1301:
+Domination of 3
+The vertices used were: afh
+
+Graph #1302:
+Domination of 3
+The vertices used were: agh
+
+Graph #1303:
+Domination of 3
+The vertices used were: agi
+
+Graph #1304:
+Domination of 3
+The vertices used were: agj
+
+Graph #1305:
+Domination of 3
+The vertices used were: afi
+
+Graph #1306:
+Domination of 3
+The vertices used were: afj
+
+Graph #1307:
+Domination of 3
+The vertices used were: afj
+
+Graph #1308:
+Domination of 3
+The vertices used were: agj
+
+Graph #1309:
+Domination of 3
+The vertices used were: agj
+
+Graph #1310:
+Domination of 3
+The vertices used were: afj
+
+Graph #1311:
+Domination of 3
+The vertices used were: afh
+
+Graph #1312:
+Domination of 3
+The vertices used were: agi
+
+Graph #1313:
+Domination of 3
+The vertices used were: afg
+
+Graph #1314:
+Domination of 3
+The vertices used were: agj
+
+Graph #1315:
+Domination of 3
+The vertices used were: afg
+
+Graph #1316:
+Domination of 3
+The vertices used were: afg
+
+Graph #1317:
+Domination of 3
+The vertices used were: afg
+
+Graph #1318:
+Domination of 3
+The vertices used were: agh
+
+Graph #1319:
+Domination of 3
+The vertices used were: afg
+
+Graph #1320:
+Domination of 3
+The vertices used were: afg
+
+Graph #1321:
+Domination of 3
+The vertices used were: afi
+
+Graph #1322:
+Domination of 3
+The vertices used were: afh
+
+Graph #1323:
+Domination of 3
+The vertices used were: afi
+
+Graph #1324:
+Domination of 3
+The vertices used were: deh
+
+Graph #1325:
+Domination of 3
+The vertices used were: bdi
+
+Graph #1326:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1327:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1328:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1329:
+Domination of 3
+The vertices used were: afg
+
+Graph #1330:
+Domination of 3
+The vertices used were: afg
+
+Graph #1331:
+Domination of 3
+The vertices used were: bcg
+
+Graph #1332:
+Domination of 3
+The vertices used were: bfh
+
+Graph #1333:
+Domination of 3
+The vertices used were: bcg
+
+Graph #1334:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1335:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1336:
+Domination of 3
+The vertices used were: cfh
+
+Graph #1337:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1338:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1339:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1340:
+Domination of 3
+The vertices used were: cdh
+
+Graph #1341:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1342:
+Domination of 3
+The vertices used were: bdj
+
+Graph #1343:
+Domination of 3
+The vertices used were: bdi
+
+Graph #1344:
+Domination of 3
+The vertices used were: aeg
+
+Graph #1345:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1346:
+Domination of 3
+The vertices used were: afg
+
+Graph #1347:
+Domination of 3
+The vertices used were: agh
+
+Graph #1348:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1349:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1350:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1351:
+Domination of 3
+The vertices used were: bcg
+
+Graph #1352:
+Domination of 3
+The vertices used were: afi
+
+Graph #1353:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1354:
+Domination of 3
+The vertices used were: bch
+
+Graph #1355:
+Domination of 3
+The vertices used were: afi
+
+Graph #1356:
+Domination of 3
+The vertices used were: afj
+
+Graph #1357:
+Domination of 3
+The vertices used were: bei
+
+Graph #1358:
+Domination of 3
+The vertices used were: bej
+
+Graph #1359:
+Domination of 3
+The vertices used were: bej
+
+Graph #1360:
+Domination of 3
+The vertices used were: cfj
+
+Graph #1361:
+Domination of 3
+The vertices used were: bcg
+
+Graph #1362:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1363:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1364:
+Domination of 3
+The vertices used were: afg
+
+Graph #1365:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1366:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1367:
+Domination of 3
+The vertices used were: afg
+
+Graph #1368:
+Domination of 3
+The vertices used were: afg
+
+Graph #1369:
+Domination of 3
+The vertices used were: cfj
+
+Graph #1370:
+Domination of 3
+The vertices used were: afh
+
+Graph #1371:
+Domination of 2
+The vertices used were: bm
+
+Graph #1372:
+Domination of 2
+The vertices used were: bl
+
+Graph #1373:
+Domination of 2
+The vertices used were: bl
+
+Graph #1374:
+Domination of 3
+The vertices used were: bdi
+
+Graph #1375:
+Domination of 3
+The vertices used were: bdj
+
+Graph #1376:
+Domination of 3
+The vertices used were: bdi
+
+Graph #1377:
+Domination of 3
+The vertices used were: bdi
+
+Graph #1378:
+Domination of 3
+The vertices used were: aij
+
+Graph #1379:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1380:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1381:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1382:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1383:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1384:
+Domination of 2
+The vertices used were: eh
+
+Graph #1385:
+Domination of 3
+The vertices used were: bei
+
+Graph #1386:
+Domination of 3
+The vertices used were: cej
+
+Graph #1387:
+Domination of 2
+The vertices used were: ei
+
+Graph #1388:
+Domination of 2
+The vertices used were: eh
+
+Graph #1389:
+Domination of 2
+The vertices used were: eh
+
+Graph #1390:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1391:
+Domination of 3
+The vertices used were: aei
+
+Graph #1392:
+Domination of 2
+The vertices used were: bj
+
+Graph #1393:
+Domination of 2
+The vertices used were: dh
+
+Graph #1394:
+Domination of 3
+The vertices used were: abg
+
+Graph #1395:
+Domination of 2
+The vertices used were: dh
+
+Graph #1396:
+Domination of 3
+The vertices used were: bei
+
+Graph #1397:
+Domination of 2
+The vertices used were: eh
+
+Graph #1398:
+Domination of 2
+The vertices used were: ei
+
+Graph #1399:
+Domination of 2
+The vertices used were: eh
+
+Graph #1400:
+Domination of 2
+The vertices used were: bj
+
+Graph #1401:
+Domination of 2
+The vertices used were: bj
+
+Graph #1402:
+Domination of 2
+The vertices used were: bj
+
+Graph #1403:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1404:
+Domination of 2
+The vertices used were: bl
+
+Graph #1405:
+Domination of 2
+The vertices used were: bj
+
+Graph #1406:
+Domination of 3
+The vertices used were: afh
+
+Graph #1407:
+Domination of 2
+The vertices used were: bj
+
+Graph #1408:
+Domination of 3
+The vertices used were: bfh
+
+Graph #1409:
+Domination of 3
+The vertices used were: abg
+
+Graph #1410:
+Domination of 2
+The vertices used were: bj
+
+Graph #1411:
+Domination of 3
+The vertices used were: abh
+
+Graph #1412:
+Domination of 3
+The vertices used were: agi
+
+Graph #1413:
+Domination of 3
+The vertices used were: abi
+
+Graph #1414:
+Domination of 3
+The vertices used were: abh
+
+Graph #1415:
+Domination of 3
+The vertices used were: abi
+
+Graph #1416:
+Domination of 3
+The vertices used were: abh
+
+Graph #1417:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1418:
+Domination of 2
+The vertices used were: bj
+
+Graph #1419:
+Domination of 3
+The vertices used were: abh
+
+Graph #1420:
+Domination of 3
+The vertices used were: abg
+
+Graph #1421:
+Domination of 2
+The vertices used were: bl
+
+Graph #1422:
+Domination of 3
+The vertices used were: bfi
+
+Graph #1423:
+Domination of 2
+The vertices used were: bj
+
+Graph #1424:
+Domination of 2
+The vertices used were: dh
+
+Graph #1425:
+Domination of 2
+The vertices used were: bl
+
+Graph #1426:
+Domination of 3
+The vertices used were: dgh
+
+Graph #1427:
+Domination of 3
+The vertices used were: bfi
+
+Graph #1428:
+Domination of 3
+The vertices used were: abg
+
+Graph #1429:
+Domination of 3
+The vertices used were: abg
+
+Graph #1430:
+Domination of 3
+The vertices used were: bcg
+
+Graph #1431:
+Domination of 3
+The vertices used were: abg
+
+Graph #1432:
+Domination of 2
+The vertices used were: bl
+
+Graph #1433:
+Domination of 3
+The vertices used were: dgi
+
+Graph #1434:
+Domination of 2
+The vertices used were: dh
+
+Graph #1435:
+Domination of 2
+The vertices used were: bj
+
+Graph #1436:
+Domination of 2
+The vertices used were: dh
+
+Graph #1437:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1438:
+Domination of 3
+The vertices used were: bei
+
+Graph #1439:
+Domination of 3
+The vertices used were: aei
+
+Graph #1440:
+Domination of 3
+The vertices used were: afi
+
+Graph #1441:
+Domination of 3
+The vertices used were: abg
+
+Graph #1442:
+Domination of 3
+The vertices used were: bfj
+
+Graph #1443:
+Domination of 3
+The vertices used were: abg
+
+Graph #1444:
+Domination of 3
+The vertices used were: agi
+
+Graph #1445:
+Domination of 3
+The vertices used were: agi
+
+Graph #1446:
+Domination of 2
+The vertices used were: bm
+
+Graph #1447:
+Domination of 2
+The vertices used were: eh
+
+Graph #1448:
+Domination of 2
+The vertices used were: eh
+
+Graph #1449:
+Domination of 2
+The vertices used were: eg
+
+Graph #1450:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1451:
+Domination of 2
+The vertices used were: eg
+
+Graph #1452:
+Domination of 2
+The vertices used were: ef
+
+Graph #1453:
+Domination of 2
+The vertices used were: ef
+
+Graph #1454:
+Domination of 2
+The vertices used were: ef
+
+Graph #1455:
+Domination of 3
+The vertices used were: aef
+
+Graph #1456:
+Domination of 2
+The vertices used were: eg
+
+Graph #1457:
+Domination of 3
+The vertices used were: afg
+
+Graph #1458:
+Domination of 2
+The vertices used were: bl
+
+Graph #1459:
+Domination of 2
+The vertices used were: bl
+
+Graph #1460:
+Domination of 3
+The vertices used were: abg
+
+Graph #1461:
+Domination of 2
+The vertices used were: bk
+
+Graph #1462:
+Domination of 3
+The vertices used were: bfj
+
+Graph #1463:
+Domination of 2
+The vertices used were: bl
+
+Graph #1464:
+Domination of 3
+The vertices used were: afg
+
+Graph #1465:
+Domination of 2
+The vertices used were: bk
+
+Graph #1466:
+Domination of 3
+The vertices used were: bfh
+
+Graph #1467:
+Domination of 3
+The vertices used were: bfh
+
+Graph #1468:
+Domination of 3
+The vertices used were: agh
+
+Graph #1469:
+Domination of 3
+The vertices used were: afh
+
+Graph #1470:
+Domination of 3
+The vertices used were: afh
+
+Graph #1471:
+Domination of 3
+The vertices used were: afg
+
+Graph #1472:
+Domination of 3
+The vertices used were: afg
+
+Graph #1473:
+Domination of 3
+The vertices used were: afj
+
+Graph #1474:
+Domination of 3
+The vertices used were: afh
+
+Graph #1475:
+Domination of 2
+The vertices used were: bk
+
+Graph #1476:
+Domination of 3
+The vertices used were: abg
+
+Graph #1477:
+Domination of 2
+The vertices used were: bl
+
+Graph #1478:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1479:
+Domination of 3
+The vertices used were: bfj
+
+Graph #1480:
+Domination of 2
+The vertices used were: bk
+
+Graph #1481:
+Domination of 3
+The vertices used were: afg
+
+Graph #1482:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1483:
+Domination of 3
+The vertices used were: bfh
+
+Graph #1484:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1485:
+Domination of 3
+The vertices used were: bfg
+
+Graph #1486:
+Domination of 3
+The vertices used were: bcg
+
+Graph #1487:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1488:
+Domination of 3
+The vertices used were: afg
+
+Graph #1489:
+Domination of 2
+The vertices used were: eg
+
+Graph #1490:
+Domination of 3
+The vertices used were: afg
+
+Graph #1491:
+Domination of 3
+The vertices used were: afh
+
+Graph #1492:
+Domination of 3
+The vertices used were: afh
+
+Graph #1493:
+Domination of 3
+The vertices used were: afg
+
+Graph #1494:
+Domination of 3
+The vertices used were: agi
+
+Graph #1495:
+Domination of 3
+The vertices used were: afi
+
+Graph #1496:
+Domination of 3
+The vertices used were: afh
+
+Graph #1497:
+Domination of 3
+The vertices used were: bfj
+
+Graph #1498:
+Domination of 3
+The vertices used were: abg
+
+Graph #1499:
+Domination of 2
+The vertices used were: bk
+
+Graph #1500:
+Domination of 3
+The vertices used were: afi
+
+Graph #1501:
+Domination of 3
+The vertices used were: agj
+
+Graph #1502:
+Domination of 3
+The vertices used were: afi
+
+Graph #1503:
+Domination of 3
+The vertices used were: abg
+
+Graph #1504:
+Domination of 3
+The vertices used were: bcg
+
+Graph #1505:
+Domination of 3
+The vertices used were: abg
+
+Graph #1506:
+Domination of 3
+The vertices used were: bdi
+
+Graph #1507:
+Domination of 3
+The vertices used were: dei
+
+Graph #1508:
+Domination of 3
+The vertices used were: bdj
+
+Graph #1509:
+Domination of 3
+The vertices used were: bdi
+
+Graph #1510:
+Domination of 3
+The vertices used were: afg
+
+Graph #1511:
+Domination of 3
+The vertices used were: afg
+
+Graph #1512:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1513:
+Domination of 3
+The vertices used were: bcg
+
+Graph #1514:
+Domination of 2
+The vertices used were: bk
+
+Graph #1515:
+Domination of 3
+The vertices used were: bcg
+
+Graph #1516:
+Domination of 3
+The vertices used were: afg
+
+Graph #1517:
+Domination of 3
+The vertices used were: abg
+
+Graph #1518:
+Domination of 3
+The vertices used were: bfj
+
+Graph #1519:
+Domination of 3
+The vertices used were: abg
+
+Graph #1520:
+Domination of 2
+The vertices used were: eg
+
+Graph #1521:
+Domination of 3
+The vertices used were: afg
+
+Graph #1522:
+Domination of 3
+The vertices used were: afi
+
+Graph #1523:
+Domination of 3
+The vertices used were: dfg
+
+Graph #1524:
+Domination of 3
+The vertices used were: afg
+
+Graph #1525:
+Domination of 3
+The vertices used were: afj
+
+Graph #1526:
+Domination of 3
+The vertices used were: afh
+
+Graph #1527:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1528:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1529:
+Domination of 3
+The vertices used were: abg
+
+Graph #1530:
+Domination of 3
+The vertices used were: afi
+
+Graph #1531:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1532:
+Domination of 2
+The vertices used were: dh
+
+Graph #1533:
+Domination of 2
+The vertices used were: bk
+
+Graph #1534:
+Domination of 3
+The vertices used were: agh
+
+Graph #1535:
+Domination of 3
+The vertices used were: afi
+
+Graph #1536:
+Domination of 3
+The vertices used were: abg
+
+Graph #1537:
+Domination of 3
+The vertices used were: afi
+
+Graph #1538:
+Domination of 3
+The vertices used were: beh
+
+Graph #1539:
+Domination of 2
+The vertices used were: bk
+
+Graph #1540:
+Domination of 3
+The vertices used were: beh
+
+Graph #1541:
+Domination of 3
+The vertices used were: abh
+
+Graph #1542:
+Domination of 3
+The vertices used were: abg
+
+Graph #1543:
+Domination of 3
+The vertices used were: abh
+
+Graph #1544:
+Domination of 3
+The vertices used were: beh
+
+Graph #1545:
+Domination of 3
+The vertices used were: abg
+
+Graph #1546:
+Domination of 3
+The vertices used were: abh
+
+Graph #1547:
+Domination of 3
+The vertices used were: afh
+
+Graph #1548:
+Domination of 3
+The vertices used were: afi
+
+Graph #1549:
+Domination of 3
+The vertices used were: afh
+
+Graph #1550:
+Domination of 3
+The vertices used were: agi
+
+Graph #1551:
+Domination of 3
+The vertices used were: afi
+
+Graph #1552:
+Domination of 3
+The vertices used were: efg
+
+Graph #1553:
+Domination of 2
+The vertices used were: bk
+
+Graph #1554:
+Domination of 3
+The vertices used were: afi
+
+Graph #1555:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1556:
+Domination of 2
+The vertices used were: dh
+
+Graph #1557:
+Domination of 3
+The vertices used were: agi
+
+Graph #1558:
+Domination of 3
+The vertices used were: afi
+
+Graph #1559:
+Domination of 3
+The vertices used were: afh
+
+Graph #1560:
+Domination of 3
+The vertices used were: efh
+
+Graph #1561:
+Domination of 3
+The vertices used were: afh
+
+Graph #1562:
+Domination of 3
+The vertices used were: efj
+
+Graph #1563:
+Domination of 3
+The vertices used were: dfj
+
+Graph #1564:
+Domination of 3
+The vertices used were: afi
+
+Graph #1565:
+Domination of 3
+The vertices used were: agj
+
+Graph #1566:
+Domination of 3
+The vertices used were: afh
+
+Graph #1567:
+Domination of 3
+The vertices used were: efj
+
+Graph #1568:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1569:
+Domination of 3
+The vertices used were: abg
+
+Graph #1570:
+Domination of 3
+The vertices used were: abh
+
+Graph #1571:
+Domination of 3
+The vertices used were: afi
+
+Graph #1572:
+Domination of 3
+The vertices used were: afi
+
+Graph #1573:
+Domination of 3
+The vertices used were: abg
+
+Graph #1574:
+Domination of 3
+The vertices used were: agh
+
+Graph #1575:
+Domination of 3
+The vertices used were: abg
+
+Graph #1576:
+Domination of 2
+The vertices used were: bk
+
+Graph #1577:
+Domination of 2
+The vertices used were: bk
+
+Graph #1578:
+Domination of 2
+The vertices used were: bl
+
+Graph #1579:
+Domination of 2
+The vertices used were: bl
+
+Graph #1580:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1581:
+Domination of 3
+The vertices used were: agi
+
+Graph #1582:
+Domination of 3
+The vertices used were: agi
+
+Graph #1583:
+Domination of 3
+The vertices used were: dgi
+
+Graph #1584:
+Domination of 3
+The vertices used were: agi
+
+Graph #1585:
+Domination of 2
+The vertices used were: bj
+
+Graph #1586:
+Domination of 3
+The vertices used were: afh
+
+Graph #1587:
+Domination of 2
+The vertices used were: bk
+
+Graph #1588:
+Domination of 2
+The vertices used were: bj
+
+Graph #1589:
+Domination of 3
+The vertices used were: afh
+
+Graph #1590:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1591:
+Domination of 2
+The vertices used were: bj
+
+Graph #1592:
+Domination of 2
+The vertices used were: bk
+
+Graph #1593:
+Domination of 2
+The vertices used were: dh
+
+Graph #1594:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1595:
+Domination of 3
+The vertices used were: bdi
+
+Graph #1596:
+Domination of 3
+The vertices used were: ceg
+
+Graph #1597:
+Domination of 3
+The vertices used were: afi
+
+Graph #1598:
+Domination of 3
+The vertices used were: bef
+
+Graph #1599:
+Domination of 3
+The vertices used were: beg
+
+Graph #1600:
+Domination of 3
+The vertices used were: bef
+
+Graph #1601:
+Domination of 3
+The vertices used were: afi
+
+Graph #1602:
+Domination of 3
+The vertices used were: bef
+
+Graph #1603:
+Domination of 3
+The vertices used were: beg
+
+Graph #1604:
+Domination of 3
+The vertices used were: egi
+
+Graph #1605:
+Domination of 3
+The vertices used were: afi
+
+Graph #1606:
+Domination of 3
+The vertices used were: aeg
+
+Graph #1607:
+Domination of 3
+The vertices used were: beg
+
+Graph #1608:
+Domination of 3
+The vertices used were: afh
+
+Graph #1609:
+Domination of 3
+The vertices used were: cfg
+
+Graph #1610:
+Domination of 3
+The vertices used were: acg
+
+Graph #1611:
+Domination of 3
+The vertices used were: egi
+
+Graph #1612:
+Domination of 3
+The vertices used were: beg
+
+Graph #1613:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1614:
+Domination of 3
+The vertices used were: cfg
+
+Graph #1615:
+Domination of 3
+The vertices used were: cfg
+
+Graph #1616:
+Domination of 3
+The vertices used were: dgh
+
+Graph #1617:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1618:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1619:
+Domination of 3
+The vertices used were: cfg
+
+Graph #1620:
+Domination of 3
+The vertices used were: cfh
+
+Graph #1621:
+Domination of 3
+The vertices used were: dhj
+
+Graph #1622:
+Domination of 3
+The vertices used were: ach
+
+Graph #1623:
+Domination of 3
+The vertices used were: aci
+
+Graph #1624:
+Domination of 3
+The vertices used were: afi
+
+Graph #1625:
+Domination of 3
+The vertices used were: afi
+
+Graph #1626:
+Domination of 3
+The vertices used were: cfj
+
+Graph #1627:
+Domination of 3
+The vertices used were: aeg
+
+Graph #1628:
+Domination of 3
+The vertices used were: cgj
+
+Graph #1629:
+Domination of 3
+The vertices used were: afh
+
+Graph #1630:
+Domination of 3
+The vertices used were: agi
+
+Graph #1631:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1632:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1633:
+Domination of 3
+The vertices used were: afj
+
+Graph #1634:
+Domination of 3
+The vertices used were: cfh
+
+Graph #1635:
+Domination of 3
+The vertices used were: bdj
+
+Graph #1636:
+Domination of 3
+The vertices used were: bdi
+
+Graph #1637:
+Domination of 3
+The vertices used were: adj
+
+Graph #1638:
+Domination of 3
+The vertices used were: agj
+
+Graph #1639:
+Domination of 3
+The vertices used were: afi
+
+Graph #1640:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1641:
+Domination of 3
+The vertices used were: egh
+
+Graph #1642:
+Domination of 3
+The vertices used were: egh
+
+Graph #1643:
+Domination of 3
+The vertices used were: afi
+
+Graph #1644:
+Domination of 3
+The vertices used were: agh
+
+Graph #1645:
+Domination of 3
+The vertices used were: dhi
+
+Graph #1646:
+Domination of 3
+The vertices used were: agi
+
+Graph #1647:
+Domination of 3
+The vertices used were: agi
+
+Graph #1648:
+Domination of 3
+The vertices used were: adi
+
+Graph #1649:
+Domination of 3
+The vertices used were: aej
+
+Graph #1650:
+Domination of 3
+The vertices used were: beg
+
+Graph #1651:
+Domination of 3
+The vertices used were: aeg
+
+Graph #1652:
+Domination of 3
+The vertices used were: afj
+
+Graph #1653:
+Domination of 3
+The vertices used were: aeg
+
+Graph #1654:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1655:
+Domination of 3
+The vertices used were: aeg
+
+Graph #1656:
+Domination of 3
+The vertices used were: aeg
+
+Graph #1657:
+Domination of 3
+The vertices used were: aeg
+
+Graph #1658:
+Domination of 3
+The vertices used were: beg
+
+Graph #1659:
+Domination of 3
+The vertices used were: beg
+
+Graph #1660:
+Domination of 3
+The vertices used were: afh
+
+Graph #1661:
+Domination of 3
+The vertices used were: afj
+
+Graph #1662:
+Domination of 3
+The vertices used were: afj
+
+Graph #1663:
+Domination of 3
+The vertices used were: cfh
+
+Graph #1664:
+Domination of 3
+The vertices used were: acg
+
+Graph #1665:
+Domination of 3
+The vertices used were: acg
+
+Graph #1666:
+Domination of 3
+The vertices used were: acg
+
+Graph #1667:
+Domination of 3
+The vertices used were: abh
+
+Graph #1668:
+Domination of 3
+The vertices used were: afi
+
+Graph #1669:
+Domination of 3
+The vertices used were: bef
+
+Graph #1670:
+Domination of 3
+The vertices used were: cfg
+
+Graph #1671:
+Domination of 3
+The vertices used were: abf
+
+Graph #1672:
+Domination of 3
+The vertices used were: abf
+
+Graph #1673:
+Domination of 3
+The vertices used were: abf
+
+Graph #1674:
+Domination of 3
+The vertices used were: abf
+
+Graph #1675:
+Domination of 3
+The vertices used were: bef
+
+Graph #1676:
+Domination of 3
+The vertices used were: abf
+
+Graph #1677:
+Domination of 3
+The vertices used were: cfh
+
+Graph #1678:
+Domination of 3
+The vertices used were: abg
+
+Graph #1679:
+Domination of 3
+The vertices used were: afh
+
+Graph #1680:
+Domination of 3
+The vertices used were: afh
+
+Graph #1681:
+Domination of 3
+The vertices used were: bei
+
+Graph #1682:
+Domination of 3
+The vertices used were: bef
+
+Graph #1683:
+Domination of 3
+The vertices used were: abg
+
+Graph #1684:
+Domination of 3
+The vertices used were: bcg
+
+Graph #1685:
+Domination of 3
+The vertices used were: adh
+
+Graph #1686:
+Domination of 3
+The vertices used were: ach
+
+Graph #1687:
+Domination of 3
+The vertices used were: adi
+
+Graph #1688:
+Domination of 3
+The vertices used were: aei
+
+Graph #1689:
+Domination of 3
+The vertices used were: aej
+
+Graph #1690:
+Domination of 3
+The vertices used were: aej
+
+Graph #1691:
+Domination of 3
+The vertices used were: cfh
+
+Graph #1692:
+Domination of 3
+The vertices used were: beh
+
+Graph #1693:
+Domination of 3
+The vertices used were: abi
+
+Graph #1694:
+Domination of 3
+The vertices used were: afi
+
+Graph #1695:
+Domination of 3
+The vertices used were: afj
+
+Graph #1696:
+Domination of 3
+The vertices used were: agj
+
+Graph #1697:
+Domination of 3
+The vertices used were: aej
+
+Graph #1698:
+Domination of 3
+The vertices used were: cfj
+
+Graph #1699:
+Domination of 3
+The vertices used were: afi
+
+Graph #1700:
+Domination of 3
+The vertices used were: dgh
+
+Graph #1701:
+Domination of 3
+The vertices used were: bei
+
+Graph #1702:
+Domination of 3
+The vertices used were: aei
+
+Graph #1703:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1704:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1705:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1706:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1707:
+Domination of 3
+The vertices used were: deg
+
+Graph #1708:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1709:
+Domination of 3
+The vertices used were: dfg
+
+Graph #1710:
+Domination of 3
+The vertices used were: def
+
+Graph #1711:
+Domination of 3
+The vertices used were: ceg
+
+Graph #1712:
+Domination of 3
+The vertices used were: bde
+
+Graph #1713:
+Domination of 3
+The vertices used were: beg
+
+Graph #1714:
+Domination of 3
+The vertices used were: egi
+
+Graph #1715:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1716:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1717:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1718:
+Domination of 3
+The vertices used were: afi
+
+Graph #1719:
+Domination of 3
+The vertices used were: ceg
+
+Graph #1720:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1721:
+Domination of 3
+The vertices used were: ach
+
+Graph #1722:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1723:
+Domination of 3
+The vertices used were: aei
+
+Graph #1724:
+Domination of 3
+The vertices used were: acg
+
+Graph #1725:
+Domination of 3
+The vertices used were: afi
+
+Graph #1726:
+Domination of 2
+The vertices used were: dg
+
+Graph #1727:
+Domination of 2
+The vertices used were: dg
+
+Graph #1728:
+Domination of 2
+The vertices used were: ej
+
+Graph #1729:
+Domination of 3
+The vertices used were: afj
+
+Graph #1730:
+Domination of 3
+The vertices used were: bcf
+
+Graph #1731:
+Domination of 3
+The vertices used were: bcg
+
+Graph #1732:
+Domination of 2
+The vertices used were: cl
+
+Graph #1733:
+Domination of 3
+The vertices used were: ceg
+
+Graph #1734:
+Domination of 3
+The vertices used were: bdi
+
+Graph #1735:
+Domination of 3
+The vertices used were: beg
+
+Graph #1736:
+Domination of 2
+The vertices used were: bk
+
+Graph #1737:
+Domination of 2
+The vertices used were: bl
+
+Graph #1738:
+Domination of 2
+The vertices used were: bk
+
+Graph #1739:
+Domination of 2
+The vertices used were: bk
+
+Graph #1740:
+Domination of 3
+The vertices used were: bdg
+
+Graph #1741:
+Domination of 3
+The vertices used were: afi
+
+Graph #1742:
+Domination of 2
+The vertices used were: bl
+
+Graph #1743:
+Domination of 2
+The vertices used were: bl
+
+Graph #1744:
+Domination of 2
+The vertices used were: bl
+
+Graph #1745:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1746:
+Domination of 2
+The vertices used were: bl
+
+Graph #1747:
+Domination of 3
+The vertices used were: abi
+
+Graph #1748:
+Domination of 3
+The vertices used were: abe
+
+Graph #1749:
+Domination of 3
+The vertices used were: adh
+
+Graph #1750:
+Domination of 2
+The vertices used were: dg
+
+Graph #1751:
+Domination of 2
+The vertices used were: dh
+
+Graph #1752:
+Domination of 2
+The vertices used were: dg
+
+Graph #1753:
+Domination of 3
+The vertices used were: adj
+
+Graph #1754:
+Domination of 3
+The vertices used were: adg
+
+Graph #1755:
+Domination of 3
+The vertices used were: adg
+
+Graph #1756:
+Domination of 3
+The vertices used were: adh
+
+Graph #1757:
+Domination of 2
+The vertices used were: cd
+
+Graph #1758:
+Domination of 3
+The vertices used were: cdg
+
+Graph #1759:
+Domination of 2
+The vertices used were: ce
+
+Graph #1760:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1761:
+Domination of 3
+The vertices used were: aeg
+
+Graph #1762:
+Domination of 3
+The vertices used were: bef
+
+Graph #1763:
+Domination of 3
+The vertices used were: beg
+
+Graph #1764:
+Domination of 3
+The vertices used were: bef
+
+Graph #1765:
+Domination of 2
+The vertices used were: bl
+
+Graph #1766:
+Domination of 2
+The vertices used were: eg
+
+Graph #1767:
+Domination of 2
+The vertices used were: df
+
+Graph #1768:
+Domination of 2
+The vertices used were: de
+
+Graph #1769:
+Domination of 2
+The vertices used were: df
+
+Graph #1770:
+Domination of 2
+The vertices used were: be
+
+Graph #1771:
+Domination of 2
+The vertices used were: be
+
+Graph #1772:
+Domination of 2
+The vertices used were: bd
+
+Graph #1773:
+Domination of 2
+The vertices used were: be
+
+Graph #1774:
+Domination of 3
+The vertices used were: bef
+
+Graph #1775:
+Domination of 2
+The vertices used were: be
+
+Graph #1776:
+Domination of 2
+The vertices used were: be
+
+Graph #1777:
+Domination of 2
+The vertices used were: be
+
+Graph #1778:
+Domination of 2
+The vertices used were: be
+
+Graph #1779:
+Domination of 2
+The vertices used were: be
+
+Graph #1780:
+Domination of 2
+The vertices used were: be
+
+Graph #1781:
+Domination of 3
+The vertices used were: bei
+
+Graph #1782:
+Domination of 3
+The vertices used were: abf
+
+Graph #1783:
+Domination of 2
+The vertices used were: df
+
+Graph #1784:
+Domination of 3
+The vertices used were: bef
+
+Graph #1785:
+Domination of 2
+The vertices used were: be
+
+Graph #1786:
+Domination of 2
+The vertices used were: be
+
+Graph #1787:
+Domination of 2
+The vertices used were: be
+
+Graph #1788:
+Domination of 2
+The vertices used were: be
+
+Graph #1789:
+Domination of 2
+The vertices used were: be
+
+Graph #1790:
+Domination of 3
+The vertices used were: abf
+
+Graph #1791:
+Domination of 2
+The vertices used were: df
+
+Graph #1792:
+Domination of 2
+The vertices used were: df
+
+Graph #1793:
+Domination of 3
+The vertices used were: acd
+
+Graph #1794:
+Domination of 3
+The vertices used were: acd
+
+Graph #1795:
+Domination of 3
+The vertices used were: aeg
+
+Graph #1796:
+Domination of 3
+The vertices used were: abg
+
+Graph #1797:
+Domination of 3
+The vertices used were: abf
+
+Graph #1798:
+Domination of 2
+The vertices used were: df
+
+Graph #1799:
+Domination of 3
+The vertices used were: afh
+
+Graph #1800:
+Domination of 3
+The vertices used were: cdi
+
+Graph #1801:
+Domination of 2
+The vertices used were: cl
+
+Graph #1802:
+Domination of 2
+The vertices used were: ef
+
+Graph #1803:
+Domination of 2
+The vertices used were: ef
+
+Graph #1804:
+Domination of 2
+The vertices used were: ef
+
+Graph #1805:
+Domination of 2
+The vertices used were: bl
+
+Graph #1806:
+Domination of 2
+The vertices used were: bl
+
+Graph #1807:
+Domination of 2
+The vertices used were: bl
+
+Graph #1808:
+Domination of 2
+The vertices used were: bl
+
+Graph #1809:
+Domination of 3
+The vertices used were: abi
+
+Graph #1810:
+Domination of 2
+The vertices used were: bl
+
+Graph #1811:
+Domination of 2
+The vertices used were: be
+
+Graph #1812:
+Domination of 2
+The vertices used were: be
+
+Graph #1813:
+Domination of 2
+The vertices used were: be
+
+Graph #1814:
+Domination of 3
+The vertices used were: beg
+
+Graph #1815:
+Domination of 2
+The vertices used were: be
+
+Graph #1816:
+Domination of 3
+The vertices used were: bei
+
+Graph #1817:
+Domination of 2
+The vertices used were: be
+
+Graph #1818:
+Domination of 3
+The vertices used were: abf
+
+Graph #1819:
+Domination of 2
+The vertices used were: df
+
+Graph #1820:
+Domination of 2
+The vertices used were: df
+
+Graph #1821:
+Domination of 2
+The vertices used were: be
+
+Graph #1822:
+Domination of 2
+The vertices used were: be
+
+Graph #1823:
+Domination of 3
+The vertices used were: abh
+
+Graph #1824:
+Domination of 3
+The vertices used were: abh
+
+Graph #1825:
+Domination of 3
+The vertices used were: bei
+
+Graph #1826:
+Domination of 3
+The vertices used were: abh
+
+Graph #1827:
+Domination of 3
+The vertices used were: dfg
+
+Graph #1828:
+Domination of 2
+The vertices used were: dg
+
+Graph #1829:
+Domination of 3
+The vertices used were: acd
+
+Graph #1830:
+Domination of 3
+The vertices used were: aef
+
+Graph #1831:
+Domination of 3
+The vertices used were: bef
+
+Graph #1832:
+Domination of 3
+The vertices used were: aeg
+
+Graph #1833:
+Domination of 3
+The vertices used were: bcf
+
+Graph #1834:
+Domination of 3
+The vertices used were: ade
+
+Graph #1835:
+Domination of 3
+The vertices used were: afg
+
+Graph #1836:
+Domination of 3
+The vertices used were: afh
+
+Graph #1837:
+Domination of 3
+The vertices used were: afh
+
+Graph #1838:
+Domination of 3
+The vertices used were: abg
+
+Graph #1839:
+Domination of 3
+The vertices used were: abi
+
+Graph #1840:
+Domination of 3
+The vertices used were: abh
+
+Graph #1841:
+Domination of 3
+The vertices used were: abf
+
+Graph #1842:
+Domination of 3
+The vertices used were: afh
+
+Graph #1843:
+Domination of 3
+The vertices used were: abf
+
+Graph #1844:
+Domination of 3
+The vertices used were: abf
+
+Graph #1845:
+Domination of 3
+The vertices used were: abf
+
+Graph #1846:
+Domination of 3
+The vertices used were: abf
+
+Graph #1847:
+Domination of 3
+The vertices used were: abf
+
+Graph #1848:
+Domination of 3
+The vertices used were: abi
+
+Graph #1849:
+Domination of 3
+The vertices used were: abg
+
+Graph #1850:
+Domination of 3
+The vertices used were: aeg
+
+Graph #1851:
+Domination of 3
+The vertices used were: afi
+
+Graph #1852:
+Domination of 3
+The vertices used were: afh
+
+Graph #1853:
+Domination of 3
+The vertices used were: afh
+
+Graph #1854:
+Domination of 3
+The vertices used were: afg
+
+Graph #1855:
+Domination of 3
+The vertices used were: afg
+
+Graph #1856:
+Domination of 3
+The vertices used were: afg
+
+Graph #1857:
+Domination of 3
+The vertices used were: afj
+
+Graph #1858:
+Domination of 3
+The vertices used were: afg
+
+Graph #1859:
+Domination of 3
+The vertices used were: afh
+
+Graph #1860:
+Domination of 3
+The vertices used were: dfi
+
+Graph #1861:
+Domination of 3
+The vertices used were: dei
+
+Graph #1862:
+Domination of 3
+The vertices used were: bdi
+
+Graph #1863:
+Domination of 3
+The vertices used were: bej
+
+Graph #1864:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1865:
+Domination of 3
+The vertices used were: bch
+
+Graph #1866:
+Domination of 3
+The vertices used were: bci
+
+Graph #1867:
+Domination of 3
+The vertices used were: bch
+
+Graph #1868:
+Domination of 3
+The vertices used were: bdi
+
+Graph #1869:
+Domination of 3
+The vertices used were: afg
+
+Graph #1870:
+Domination of 2
+The vertices used were: eg
+
+Graph #1871:
+Domination of 3
+The vertices used were: bdj
+
+Graph #1872:
+Domination of 2
+The vertices used were: dh
+
+Graph #1873:
+Domination of 2
+The vertices used were: dg
+
+Graph #1874:
+Domination of 2
+The vertices used were: dg
+
+Graph #1875:
+Domination of 2
+The vertices used were: dg
+
+Graph #1876:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1877:
+Domination of 2
+The vertices used were: bk
+
+Graph #1878:
+Domination of 2
+The vertices used were: bk
+
+Graph #1879:
+Domination of 2
+The vertices used were: bk
+
+Graph #1880:
+Domination of 3
+The vertices used were: abh
+
+Graph #1881:
+Domination of 2
+The vertices used were: bk
+
+Graph #1882:
+Domination of 3
+The vertices used were: aei
+
+Graph #1883:
+Domination of 2
+The vertices used were: eg
+
+Graph #1884:
+Domination of 2
+The vertices used were: ef
+
+Graph #1885:
+Domination of 2
+The vertices used were: ef
+
+Graph #1886:
+Domination of 3
+The vertices used were: afg
+
+Graph #1887:
+Domination of 2
+The vertices used were: bl
+
+Graph #1888:
+Domination of 2
+The vertices used were: bl
+
+Graph #1889:
+Domination of 2
+The vertices used were: bk
+
+Graph #1890:
+Domination of 2
+The vertices used were: bk
+
+Graph #1891:
+Domination of 3
+The vertices used were: bch
+
+Graph #1892:
+Domination of 2
+The vertices used were: bl
+
+Graph #1893:
+Domination of 3
+The vertices used were: afg
+
+Graph #1894:
+Domination of 2
+The vertices used were: bk
+
+Graph #1895:
+Domination of 2
+The vertices used were: bk
+
+Graph #1896:
+Domination of 3
+The vertices used were: abh
+
+Graph #1897:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1898:
+Domination of 2
+The vertices used were: bk
+
+Graph #1899:
+Domination of 2
+The vertices used were: bl
+
+Graph #1900:
+Domination of 3
+The vertices used were: afg
+
+Graph #1901:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1902:
+Domination of 2
+The vertices used were: bk
+
+Graph #1903:
+Domination of 2
+The vertices used were: bk
+
+Graph #1904:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1905:
+Domination of 2
+The vertices used were: bk
+
+Graph #1906:
+Domination of 3
+The vertices used were: beh
+
+Graph #1907:
+Domination of 2
+The vertices used were: bk
+
+Graph #1908:
+Domination of 2
+The vertices used were: bl
+
+Graph #1909:
+Domination of 2
+The vertices used were: bk
+
+Graph #1910:
+Domination of 2
+The vertices used were: bk
+
+Graph #1911:
+Domination of 3
+The vertices used were: abh
+
+Graph #1912:
+Domination of 2
+The vertices used were: bk
+
+Graph #1913:
+Domination of 2
+The vertices used were: bl
+
+Graph #1914:
+Domination of 3
+The vertices used were: agj
+
+Graph #1915:
+Domination of 2
+The vertices used were: bk
+
+Graph #1916:
+Domination of 2
+The vertices used were: bl
+
+Graph #1917:
+Domination of 3
+The vertices used were: dhi
+
+Graph #1918:
+Domination of 3
+The vertices used were: agj
+
+Graph #1919:
+Domination of 3
+The vertices used were: abh
+
+Graph #1920:
+Domination of 3
+The vertices used were: abh
+
+Graph #1921:
+Domination of 3
+The vertices used were: bdh
+
+Graph #1922:
+Domination of 3
+The vertices used were: abh
+
+Graph #1923:
+Domination of 2
+The vertices used were: bl
+
+Graph #1924:
+Domination of 3
+The vertices used were: dhj
+
+Graph #1925:
+Domination of 2
+The vertices used were: bk
+
+Graph #1926:
+Domination of 2
+The vertices used were: bk
+
+Graph #1927:
+Domination of 3
+The vertices used were: agh
+
+Graph #1928:
+Domination of 3
+The vertices used were: dgh
+
+Graph #1929:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1930:
+Domination of 3
+The vertices used were: ehi
+
+Graph #1931:
+Domination of 3
+The vertices used were: agh
+
+Graph #1932:
+Domination of 3
+The vertices used were: agi
+
+Graph #1933:
+Domination of 3
+The vertices used were: agi
+
+Graph #1934:
+Domination of 3
+The vertices used were: bhj
+
+Graph #1935:
+Domination of 3
+The vertices used were: dgj
+
+Graph #1936:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1937:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1938:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1939:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1940:
+Domination of 3
+The vertices used were: aij
+
+Graph #1941:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1942:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1943:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1944:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1945:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1946:
+Domination of 3
+The vertices used were: aij
+
+Graph #1947:
+Domination of 3
+The vertices used were: ahi
+
+Graph #1948:
+Domination of 3
+The vertices used were: agj
+
+Graph #1949:
+Domination of 3
+The vertices used were: aij
+
+Graph #1950:
+Domination of 3
+The vertices used were: agi
+
+Graph #1951:
+Domination of 3
+The vertices used were: agi
+
+Graph #1952:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1953:
+Domination of 3
+The vertices used were: agh
+
+Graph #1954:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1955:
+Domination of 3
+The vertices used were: bhi
+
+Graph #1956:
+Domination of 3
+The vertices used were: agh
+
+Graph #1957:
+Domination of 3
+The vertices used were: agh
+
+Graph #1958:
+Domination of 3
+The vertices used were: agi
+
+Graph #1959:
+Domination of 3
+The vertices used were: agh
+
+Graph #1960:
+Domination of 3
+The vertices used were: afg
+
+Graph #1961:
+Domination of 3
+The vertices used were: agh
+
+Graph #1962:
+Domination of 3
+The vertices used were: efg
+
+Graph #1963:
+Domination of 3
+The vertices used were: afh
+
+Graph #1964:
+Domination of 3
+The vertices used were: afh
+
+Graph #1965:
+Domination of 3
+The vertices used were: agi
+
+Graph #1966:
+Domination of 3
+The vertices used were: afg
+
+Graph #1967:
+Domination of 3
+The vertices used were: agi
+
+Graph #1968:
+Domination of 3
+The vertices used were: afh
+
+Graph #1969:
+Domination of 3
+The vertices used were: afh
+
+Graph #1970:
+Domination of 3
+The vertices used were: agh
+
+Graph #1971:
+Domination of 3
+The vertices used were: agi
+
+Graph #1972:
+Domination of 3
+The vertices used were: agj
+
+Graph #1973:
+Domination of 3
+The vertices used were: afi
+
+Graph #1974:
+Domination of 3
+The vertices used were: afj
+
+Graph #1975:
+Domination of 3
+The vertices used were: afh
+
+Graph #1976:
+Domination of 3
+The vertices used were: agi
+
+Graph #1977:
+Domination of 3
+The vertices used were: afg
+
+Graph #1978:
+Domination of 3
+The vertices used were: afh
+
+Graph #1979:
+Domination of 3
+The vertices used were: agh
+
+Graph #1980:
+Domination of 3
+The vertices used were: agh
+
+Graph #1981:
+Domination of 3
+The vertices used were: afg
+
+Graph #1982:
+Domination of 3
+The vertices used were: afg
+
+Graph #1983:
+Domination of 3
+The vertices used were: afi
+
+Graph #1984:
+Domination of 3
+The vertices used were: afh
+
+Graph #1985:
+Domination of 3
+The vertices used were: afi
+
+Graph #1986:
+Domination of 3
+The vertices used were: ahj
+
+Graph #1987:
+Domination of 3
+The vertices used were: dfh
+
+Graph #1988:
+Domination of 3
+The vertices used were: adi
+
+Graph #1989:
+Domination of 3
+The vertices used were: afh
+
+Graph #1990:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1991:
+Domination of 3
+The vertices used were: cfj
+
+Graph #1992:
+Domination of 3
+The vertices used were: afi
+
+Graph #1993:
+Domination of 3
+The vertices used were: afi
+
+Graph #1994:
+Domination of 3
+The vertices used were: aeg
+
+Graph #1995:
+Domination of 3
+The vertices used were: aeg
+
+Graph #1996:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1997:
+Domination of 3
+The vertices used were: aei
+
+Graph #1998:
+Domination of 3
+The vertices used were: aeh
+
+Graph #1999:
+Domination of 3
+The vertices used were: bei
+
+Graph #2000:
+Domination of 3
+The vertices used were: bcg
+
+Graph #2001:
+Domination of 3
+The vertices used were: ach
+
+Graph #2002:
+Domination of 3
+The vertices used were: abg
+
+Graph #2003:
+Domination of 3
+The vertices used were: abg
+
+Graph #2004:
+Domination of 3
+The vertices used were: bfj
+
+Graph #2005:
+Domination of 3
+The vertices used were: abg
+
+Graph #2006:
+Domination of 3
+The vertices used were: agi
+
+Graph #2007:
+Domination of 3
+The vertices used were: agi
+
+Graph #2008:
+Domination of 3
+The vertices used were: abh
+
+Graph #2009:
+Domination of 3
+The vertices used were: afi
+
+Graph #2010:
+Domination of 3
+The vertices used were: afi
+
+Graph #2011:
+Domination of 3
+The vertices used were: abg
+
+Graph #2012:
+Domination of 3
+The vertices used were: agi
+
+Graph #2013:
+Domination of 3
+The vertices used were: agi
+
+Graph #2014:
+Domination of 3
+The vertices used were: agi
+
+Graph #2015:
+Domination of 3
+The vertices used were: abh
+
+Graph #2016:
+Domination of 3
+The vertices used were: abh
+
+Graph #2017:
+Domination of 3
+The vertices used were: abh
+
+Graph #2018:
+Domination of 3
+The vertices used were: bch
+
+Graph #2019:
+Domination of 3
+The vertices used were: abi
+
+Graph #2020:
+Domination of 3
+The vertices used were: afj
+
+Graph #2021:
+Domination of 3
+The vertices used were: afj
+
+Graph #2022:
+Domination of 3
+The vertices used were: bch
+
+Graph #2023:
+Domination of 3
+The vertices used were: abh
+
+Graph #2024:
+Domination of 3
+The vertices used were: aeg
+
+Graph #2025:
+Domination of 3
+The vertices used were: aeg
+
+Graph #2026:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2027:
+Domination of 3
+The vertices used were: aeg
+
+Graph #2028:
+Domination of 3
+The vertices used were: aeg
+
+Graph #2029:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2030:
+Domination of 3
+The vertices used were: aeg
+
+Graph #2031:
+Domination of 3
+The vertices used were: aef
+
+Graph #2032:
+Domination of 3
+The vertices used were: aef
+
+Graph #2033:
+Domination of 3
+The vertices used were: aef
+
+Graph #2034:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2035:
+Domination of 3
+The vertices used were: aeg
+
+Graph #2036:
+Domination of 3
+The vertices used were: afg
+
+Graph #2037:
+Domination of 3
+The vertices used were: afg
+
+Graph #2038:
+Domination of 3
+The vertices used were: abg
+
+Graph #2039:
+Domination of 3
+The vertices used were: abh
+
+Graph #2040:
+Domination of 3
+The vertices used were: abg
+
+Graph #2041:
+Domination of 3
+The vertices used were: abg
+
+Graph #2042:
+Domination of 3
+The vertices used were: bcg
+
+Graph #2043:
+Domination of 3
+The vertices used were: abg
+
+Graph #2044:
+Domination of 3
+The vertices used were: abh
+
+Graph #2045:
+Domination of 3
+The vertices used were: afg
+
+Graph #2046:
+Domination of 3
+The vertices used were: bej
+
+Graph #2047:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2048:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2049:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2050:
+Domination of 3
+The vertices used were: bei
+
+Graph #2051:
+Domination of 3
+The vertices used were: aei
+
+Graph #2052:
+Domination of 3
+The vertices used were: afi
+
+Graph #2053:
+Domination of 3
+The vertices used were: afi
+
+Graph #2054:
+Domination of 3
+The vertices used were: abg
+
+Graph #2055:
+Domination of 3
+The vertices used were: abh
+
+Graph #2056:
+Domination of 3
+The vertices used were: abh
+
+Graph #2057:
+Domination of 3
+The vertices used were: abh
+
+Graph #2058:
+Domination of 3
+The vertices used were: bcg
+
+Graph #2059:
+Domination of 3
+The vertices used were: abh
+
+Graph #2060:
+Domination of 3
+The vertices used were: bfh
+
+Graph #2061:
+Domination of 3
+The vertices used were: bch
+
+Graph #2062:
+Domination of 3
+The vertices used were: abh
+
+Graph #2063:
+Domination of 3
+The vertices used were: abi
+
+Graph #2064:
+Domination of 3
+The vertices used were: bch
+
+Graph #2065:
+Domination of 3
+The vertices used were: abi
+
+Graph #2066:
+Domination of 3
+The vertices used were: agi
+
+Graph #2067:
+Domination of 3
+The vertices used were: aeg
+
+Graph #2068:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2069:
+Domination of 3
+The vertices used were: afg
+
+Graph #2070:
+Domination of 3
+The vertices used were: afg
+
+Graph #2071:
+Domination of 3
+The vertices used were: agi
+
+Graph #2072:
+Domination of 3
+The vertices used were: agi
+
+Graph #2073:
+Domination of 3
+The vertices used were: afg
+
+Graph #2074:
+Domination of 3
+The vertices used were: afg
+
+Graph #2075:
+Domination of 3
+The vertices used were: afh
+
+Graph #2076:
+Domination of 3
+The vertices used were: abh
+
+Graph #2077:
+Domination of 3
+The vertices used were: bdh
+
+Graph #2078:
+Domination of 3
+The vertices used were: agh
+
+Graph #2079:
+Domination of 3
+The vertices used were: agh
+
+Graph #2080:
+Domination of 3
+The vertices used were: abi
+
+Graph #2081:
+Domination of 3
+The vertices used were: abh
+
+Graph #2082:
+Domination of 3
+The vertices used were: abi
+
+Graph #2083:
+Domination of 3
+The vertices used were: bch
+
+Graph #2084:
+Domination of 3
+The vertices used were: abh
+
+Graph #2085:
+Domination of 3
+The vertices used were: abg
+
+Graph #2086:
+Domination of 3
+The vertices used were: bch
+
+Graph #2087:
+Domination of 3
+The vertices used were: adi
+
+Graph #2088:
+Domination of 3
+The vertices used were: abh
+
+Graph #2089:
+Domination of 3
+The vertices used were: abi
+
+Graph #2090:
+Domination of 3
+The vertices used were: abh
+
+Graph #2091:
+Domination of 3
+The vertices used were: abi
+
+Graph #2092:
+Domination of 3
+The vertices used were: bcg
+
+Graph #2093:
+Domination of 3
+The vertices used were: abg
+
+Graph #2094:
+Domination of 3
+The vertices used were: abh
+
+Graph #2095:
+Domination of 3
+The vertices used were: afg
+
+Graph #2096:
+Domination of 3
+The vertices used were: bef
+
+Graph #2097:
+Domination of 3
+The vertices used were: bef
+
+Graph #2098:
+Domination of 3
+The vertices used were: bef
+
+Graph #2099:
+Domination of 3
+The vertices used were: beg
+
+Graph #2100:
+Domination of 3
+The vertices used were: fgj
+
+Graph #2101:
+Domination of 3
+The vertices used were: ach
+
+Graph #2102:
+Domination of 3
+The vertices used were: abg
+
+Graph #2103:
+Domination of 3
+The vertices used were: abg
+
+Graph #2104:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2105:
+Domination of 3
+The vertices used were: aeg
+
+Graph #2106:
+Domination of 3
+The vertices used were: beg
+
+Graph #2107:
+Domination of 3
+The vertices used were: aeg
+
+Graph #2108:
+Domination of 3
+The vertices used were: afg
+
+Graph #2109:
+Domination of 3
+The vertices used were: agi
+
+Graph #2110:
+Domination of 3
+The vertices used were: cfg
+
+Graph #2111:
+Domination of 3
+The vertices used were: afg
+
+Graph #2112:
+Domination of 3
+The vertices used were: afj
+
+Graph #2113:
+Domination of 3
+The vertices used were: afg
+
+Graph #2114:
+Domination of 3
+The vertices used were: afh
+
+Graph #2115:
+Domination of 3
+The vertices used were: bei
+
+Graph #2116:
+Domination of 3
+The vertices used were: afi
+
+Graph #2117:
+Domination of 3
+The vertices used were: afi
+
+Graph #2118:
+Domination of 3
+The vertices used were: aei
+
+Graph #2119:
+Domination of 3
+The vertices used were: aij
+
+Graph #2120:
+Domination of 3
+The vertices used were: bei
+
+Graph #2121:
+Domination of 3
+The vertices used were: afj
+
+Graph #2122:
+Domination of 3
+The vertices used were: afj
+
+Graph #2123:
+Domination of 3
+The vertices used were: afi
+
+Graph #2124:
+Domination of 3
+The vertices used were: bfj
+
+Graph #2125:
+Domination of 3
+The vertices used were: cfj
+
+Graph #2126:
+Domination of 3
+The vertices used were: bcg
+
+Graph #2127:
+Domination of 3
+The vertices used were: bch
+
+Graph #2128:
+Domination of 3
+The vertices used were: bcg
+
+Graph #2129:
+Domination of 3
+The vertices used were: bch
+
+Graph #2130:
+Domination of 3
+The vertices used were: bcg
+
+Graph #2131:
+Domination of 3
+The vertices used were: bcg
+
+Graph #2132:
+Domination of 3
+The vertices used were: bei
+
+Graph #2133:
+Domination of 3
+The vertices used were: bej
+
+Graph #2134:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2135:
+Domination of 3
+The vertices used were: bei
+
+Graph #2136:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2137:
+Domination of 3
+The vertices used were: egh
+
+Graph #2138:
+Domination of 3
+The vertices used were: afi
+
+Graph #2139:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2140:
+Domination of 3
+The vertices used were: afi
+
+Graph #2141:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2142:
+Domination of 3
+The vertices used were: bei
+
+Graph #2143:
+Domination of 3
+The vertices used were: aei
+
+Graph #2144:
+Domination of 3
+The vertices used were: afi
+
+Graph #2145:
+Domination of 3
+The vertices used were: afi
+
+Graph #2146:
+Domination of 3
+The vertices used were: abg
+
+Graph #2147:
+Domination of 3
+The vertices used were: abg
+
+Graph #2148:
+Domination of 3
+The vertices used were: bcg
+
+Graph #2149:
+Domination of 3
+The vertices used were: abg
+
+Graph #2150:
+Domination of 3
+The vertices used were: abg
+
+Graph #2151:
+Domination of 3
+The vertices used were: bfg
+
+Graph #2152:
+Domination of 3
+The vertices used were: abh
+
+Graph #2153:
+Domination of 3
+The vertices used were: abg
+
+Graph #2154:
+Domination of 3
+The vertices used were: abh
+
+Graph #2155:
+Domination of 3
+The vertices used were: abh
+
+Graph #2156:
+Domination of 3
+The vertices used were: afi
+
+Graph #2157:
+Domination of 3
+The vertices used were: afi
+
+Graph #2158:
+Domination of 3
+The vertices used were: abg
+
+Graph #2159:
+Domination of 3
+The vertices used were: abh
+
+Graph #2160:
+Domination of 3
+The vertices used were: abh
+
+Graph #2161:
+Domination of 3
+The vertices used were: bcg
+
+Graph #2162:
+Domination of 3
+The vertices used were: bej
+
+Graph #2163:
+Domination of 3
+The vertices used were: ehi
+
+Graph #2164:
+Domination of 3
+The vertices used were: bei
+
+Graph #2165:
+Domination of 3
+The vertices used were: bej
+
+Graph #2166:
+Domination of 3
+The vertices used were: bei
+
+Graph #2167:
+Domination of 3
+The vertices used were: fij
+
+Graph #2168:
+Domination of 3
+The vertices used were: bcg
+
+Graph #2169:
+Domination of 3
+The vertices used were: bch
+
+Graph #2170:
+Domination of 3
+The vertices used were: afj
+
+Graph #2171:
+Domination of 3
+The vertices used were: agj
+
+Graph #2172:
+Domination of 3
+The vertices used were: agj
+
+Graph #2173:
+Domination of 3
+The vertices used were: afj
+
+Graph #2174:
+Domination of 3
+The vertices used were: afj
+
+Graph #2175:
+Domination of 3
+The vertices used were: afj
+
+Graph #2176:
+Domination of 3
+The vertices used were: afi
+
+Graph #2177:
+Domination of 3
+The vertices used were: cfj
+
+Graph #2178:
+Domination of 3
+The vertices used were: abh
+
+Graph #2179:
+Domination of 3
+The vertices used were: bdh
+
+Graph #2180:
+Domination of 3
+The vertices used were: agj
+
+Graph #2181:
+Domination of 3
+The vertices used were: agj
+
+Graph #2182:
+Domination of 3
+The vertices used were: abh
+
+Graph #2183:
+Domination of 3
+The vertices used were: abi
+
+Graph #2184:
+Domination of 3
+The vertices used were: afi
+
+Graph #2185:
+Domination of 3
+The vertices used were: abh
+
+Graph #2186:
+Domination of 3
+The vertices used were: bfh
+
+Graph #2187:
+Domination of 3
+The vertices used were: ahk
+
+Graph #2188:
+Domination of 3
+The vertices used were: agj
+
+Graph #2189:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2190:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2191:
+Domination of 3
+The vertices used were: bei
+
+Graph #2192:
+Domination of 3
+The vertices used were: aei
+
+Graph #2193:
+Domination of 3
+The vertices used were: afi
+
+Graph #2194:
+Domination of 3
+The vertices used were: afi
+
+Graph #2195:
+Domination of 3
+The vertices used were: abg
+
+Graph #2196:
+Domination of 3
+The vertices used were: bfh
+
+Graph #2197:
+Domination of 3
+The vertices used were: agj
+
+Graph #2198:
+Domination of 3
+The vertices used were: abh
+
+Graph #2199:
+Domination of 3
+The vertices used were: bch
+
+Graph #2200:
+Domination of 3
+The vertices used were: abi
+
+Graph #2201:
+Domination of 3
+The vertices used were: afj
+
+Graph #2202:
+Domination of 3
+The vertices used were: abh
+
+Graph #2203:
+Domination of 3
+The vertices used were: bch
+
+Graph #2204:
+Domination of 3
+The vertices used were: adi
+
+Graph #2205:
+Domination of 3
+The vertices used were: abh
+
+Graph #2206:
+Domination of 3
+The vertices used were: abi
+
+Graph #2207:
+Domination of 3
+The vertices used were: abh
+
+Graph #2208:
+Domination of 3
+The vertices used were: bch
+
+Graph #2209:
+Domination of 3
+The vertices used were: abi
+
+Graph #2210:
+Domination of 3
+The vertices used were: aej
+
+Graph #2211:
+Domination of 3
+The vertices used were: aei
+
+Graph #2212:
+Domination of 3
+The vertices used were: aej
+
+Graph #2213:
+Domination of 3
+The vertices used were: bej
+
+Graph #2214:
+Domination of 3
+The vertices used were: aei
+
+Graph #2215:
+Domination of 3
+The vertices used were: aej
+
+Graph #2216:
+Domination of 3
+The vertices used were: egi
+
+Graph #2217:
+Domination of 3
+The vertices used were: aei
+
+Graph #2218:
+Domination of 3
+The vertices used were: aei
+
+Graph #2219:
+Domination of 3
+The vertices used were: aej
+
+Graph #2220:
+Domination of 3
+The vertices used were: afj
+
+Graph #2221:
+Domination of 3
+The vertices used were: aei
+
+Graph #2222:
+Domination of 3
+The vertices used were: aei
+
+Graph #2223:
+Domination of 3
+The vertices used were: aei
+
+Graph #2224:
+Domination of 3
+The vertices used were: aei
+
+Graph #2225:
+Domination of 3
+The vertices used were: abh
+
+Graph #2226:
+Domination of 3
+The vertices used were: abi
+
+Graph #2227:
+Domination of 3
+The vertices used were: abi
+
+Graph #2228:
+Domination of 3
+The vertices used were: dhj
+
+Graph #2229:
+Domination of 3
+The vertices used were: bej
+
+Graph #2230:
+Domination of 3
+The vertices used were: bei
+
+Graph #2231:
+Domination of 3
+The vertices used were: cej
+
+Graph #2232:
+Domination of 3
+The vertices used were: afj
+
+Graph #2233:
+Domination of 3
+The vertices used were: abh
+
+Graph #2234:
+Domination of 3
+The vertices used were: abi
+
+Graph #2235:
+Domination of 3
+The vertices used were: bdh
+
+Graph #2236:
+Domination of 3
+The vertices used were: bei
+
+Graph #2237:
+Domination of 3
+The vertices used were: cej
+
+Graph #2238:
+Domination of 3
+The vertices used were: cfi
+
+Graph #2239:
+Domination of 3
+The vertices used were: cei
+
+Graph #2240:
+Domination of 3
+The vertices used were: bdj
+
+Graph #2241:
+Domination of 3
+The vertices used were: cei
+
+Graph #2242:
+Domination of 3
+The vertices used were: cfj
+
+Graph #2243:
+Domination of 3
+The vertices used were: cgh
+
+Graph #2244:
+Domination of 3
+The vertices used were: bdh
+
+Graph #2245:
+Domination of 3
+The vertices used were: bdh
+
+Graph #2246:
+Domination of 3
+The vertices used were: bdi
+
+Graph #2247:
+Domination of 3
+The vertices used were: ahi
+
+Graph #2248:
+Domination of 3
+The vertices used were: ahj
+
+Graph #2249:
+Domination of 3
+The vertices used were: ahj
+
+Graph #2250:
+Domination of 3
+The vertices used were: aij
+
+Graph #2251:
+Domination of 3
+The vertices used were: agi
+
+Graph #2252:
+Domination of 3
+The vertices used were: agh
+
+Graph #2253:
+Domination of 3
+The vertices used were: agh
+
+Graph #2254:
+Domination of 3
+The vertices used were: ahi
+
+Graph #2255:
+Domination of 3
+The vertices used were: ahi
+
+Graph #2256:
+Domination of 3
+The vertices used were: abj
+
+Graph #2257:
+Domination of 3
+The vertices used were: abi
+
+Graph #2258:
+Domination of 3
+The vertices used were: abj
+
+Graph #2259:
+Domination of 3
+The vertices used were: agh
+
+Graph #2260:
+Domination of 3
+The vertices used were: agh
+
+Graph #2261:
+Domination of 3
+The vertices used were: ahi
+
+Graph #2262:
+Domination of 3
+The vertices used were: abi
+
+Graph #2263:
+Domination of 3
+The vertices used were: abj
+
+Graph #2264:
+Domination of 3
+The vertices used were: agh
+
+Graph #2265:
+Domination of 3
+The vertices used were: afh
+
+Graph #2266:
+Domination of 3
+The vertices used were: agi
+
+Graph #2267:
+Domination of 3
+The vertices used were: afg
+
+Graph #2268:
+Domination of 3
+The vertices used were: afi
+
+Graph #2269:
+Domination of 3
+The vertices used were: afh
+
+Graph #2270:
+Domination of 3
+The vertices used were: afi
+
+Graph #2271:
+Domination of 3
+The vertices used were: afh
+
+Graph #2272:
+Domination of 3
+The vertices used were: agj
+
+Graph #2273:
+Domination of 3
+The vertices used were: afi
+
+Graph #2274:
+Domination of 3
+The vertices used were: afi
+
+Graph #2275:
+Domination of 3
+The vertices used were: afi
+
+Graph #2276:
+Domination of 3
+The vertices used were: agj
+
+Graph #2277:
+Domination of 3
+The vertices used were: afi
+
+Graph #2278:
+Domination of 3
+The vertices used were: efg
+
+Graph #2279:
+Domination of 3
+The vertices used were: afg
+
+Graph #2280:
+Domination of 3
+The vertices used were: beh
+
+Graph #2281:
+Domination of 3
+The vertices used were: afi
+
+Graph #2282:
+Domination of 3
+The vertices used were: bch
+
+Graph #2283:
+Domination of 3
+The vertices used were: abh
+
+Graph #2284:
+Domination of 3
+The vertices used were: ach
+
+Graph #2285:
+Domination of 3
+The vertices used were: abi
+
+Graph #2286:
+Domination of 3
+The vertices used were: bch
+
+Graph #2287:
+Domination of 3
+The vertices used were: ach
+
+Graph #2288:
+Domination of 3
+The vertices used were: adi
+
+Graph #2289:
+Domination of 3
+The vertices used were: aeg
+
+Graph #2290:
+Domination of 3
+The vertices used were: aeg
+
+Graph #2291:
+Domination of 3
+The vertices used were: agj
+
+Graph #2292:
+Domination of 3
+The vertices used were: ahj
+
+Graph #2293:
+Domination of 3
+The vertices used were: agj
+
+Graph #2294:
+Domination of 3
+The vertices used were: agj
+
+Graph #2295:
+Domination of 3
+The vertices used were: afj
+
+Graph #2296:
+Domination of 3
+The vertices used were: afj
+
+Graph #2297:
+Domination of 3
+The vertices used were: afi
+
+Graph #2298:
+Domination of 3
+The vertices used were: afj
+
+Graph #2299:
+Domination of 3
+The vertices used were: afi
+
+Graph #2300:
+Domination of 3
+The vertices used were: afj
+
+Graph #2301:
+Domination of 3
+The vertices used were: bei
+
+Graph #2302:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2303:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2304:
+Domination of 3
+The vertices used were: aei
+
+Graph #2305:
+Domination of 3
+The vertices used were: bei
+
+Graph #2306:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2307:
+Domination of 3
+The vertices used were: aeh
+
+Graph #2308:
+Domination of 3
+The vertices used were: afi
+
+Graph #2309:
+Domination of 3
+The vertices used were: afi
+
+Graph #2310:
+Domination of 3
+The vertices used were: abg
+
+Graph #2311:
+Domination of 3
+The vertices used were: abh
+
+Graph #2312:
+Domination of 3
+The vertices used were: abg
+
+Graph #2313:
+Domination of 3
+The vertices used were: abh
+
+Graph #2314:
+Domination of 3
+The vertices used were: abg
+
+Graph #2315:
+Domination of 3
+The vertices used were: abh
+
+Graph #2316:
+Domination of 3
+The vertices used were: abh
+
+Graph #2317:
+Domination of 3
+The vertices used were: abg
+
+Graph #2318:
+Domination of 3
+The vertices used were: aei
+
+Graph #2319:
+Domination of 3
+The vertices used were: aej
+
+Graph #2320:
+Domination of 3
+The vertices used were: bej
+
+Graph #2321:
+Domination of 3
+The vertices used were: aei
+
+Graph #2322:
+Domination of 3
+The vertices used were: aej
+
+Graph #2323:
+Domination of 3
+The vertices used were: bdi
+
+Graph #2324:
+Domination of 3
+The vertices used were: adi
+
+Graph #2325:
+Domination of 3
+The vertices used were: abh
+
+Graph #2326:
+Domination of 3
+The vertices used were: abi
+
+Graph #2327:
+Domination of 3
+The vertices used were: abi
+
+Graph #2328:
+Domination of 3
+The vertices used were: abh
+
+Graph #2329:
+Domination of 3
+The vertices used were: abi
+
+Graph #2330:
+Domination of 3
+The vertices used were: abh
+
+Graph #2331:
+Domination of 3
+The vertices used were: abh
+
+Graph #2332:
+Domination of 3
+The vertices used were: abi
+
+Graph #2333:
+Domination of 3
+The vertices used were: aej
+
+Graph #2334:
+Domination of 3
+The vertices used were: aei
+
+Graph #2335:
+Domination of 3
+The vertices used were: afj
+
+Graph #2336:
+Domination of 3
+The vertices used were: cfj
+
+Graph #2337:
+Domination of 3
+The vertices used were: agj
+
+Graph #2338:
+Domination of 3
+The vertices used were: agj
+
+Graph #2339:
+Domination of 3
+The vertices used were: abi
+
+Graph #2340:
+Domination of 3
+The vertices used were: abh
+
+Graph #2341:
+Domination of 3
+The vertices used were: abh
+
+Graph #2342:
+Domination of 3
+The vertices used were: abh
+
+Graph #2343:
+Domination of 3
+The vertices used were: abi
+
+Graph #2344:
+Domination of 3
+The vertices used were: agj
+
+Graph #2345:
+Domination of 3
+The vertices used were: abh
+
+Graph #2346:
+Domination of 3
+The vertices used were: abi
+
+Graph #2347:
+Domination of 3
+The vertices used were: afj
+
+Graph #2348:
+Domination of 3
+The vertices used were: afj
+
+Graph #2349:
+Domination of 3
+The vertices used were: afi
+
+Graph #2350:
+Domination of 3
+The vertices used were: bej
+
+Graph #2351:
+Domination of 3
+The vertices used were: afj
+
+Graph #2352:
+Domination of 3
+The vertices used were: abg
+
+Graph #2353:
+Domination of 3
+The vertices used were: abh
+
+Graph #2354:
+Domination of 3
+The vertices used were: bch
+
+Graph #2355:
+Domination of 3
+The vertices used were: abi
+
+Graph #2356:
+Domination of 3
+The vertices used were: abh
+
+Graph #2357:
+Domination of 3
+The vertices used were: abh
+
+Graph #2358:
+Domination of 3
+The vertices used were: abh
+
+Graph #2359:
+Domination of 3
+The vertices used were: abi
+
+Graph #2360:
+Domination of 3
+The vertices used were: abh
+
+Graph #2361:
+Domination of 3
+The vertices used were: afj
+
+Graph #2362:
+Domination of 3
+The vertices used were: afi
+
+Graph #2363:
+Domination of 3
+The vertices used were: afi
+
+Graph #2364:
+Domination of 3
+The vertices used were: ahj
+
+Graph #2365:
+Domination of 3
+The vertices used were: bhj
+
+Graph #2366:
+Domination of 3
+The vertices used were: bhj
+
+Graph #2367:
+Domination of 3
+The vertices used were: ahj
+
+Graph #2368:
+Domination of 3
+The vertices used were: agi
+
+Graph #2369:
+Domination of 3
+The vertices used were: agi
+
+Graph #2370:
+Domination of 3
+The vertices used were: agj
+
+Graph #2371:
+Domination of 3
+The vertices used were: agi
+
+Graph #2372:
+Domination of 3
+The vertices used were: agj
+
+Graph #2373:
+Domination of 3
+The vertices used were: ahj
+
+Graph #2374:
+Domination of 3
+The vertices used were: agj
+
+Graph #2375:
+Domination of 3
+The vertices used were: dgj
+
+Graph #2376:
+Domination of 3
+The vertices used were: agi
+
+Graph #2377:
+Domination of 3
+The vertices used were: agj
+
+Graph #2378:
+Domination of 3
+The vertices used were: aij
+
+Graph #2379:
+Domination of 3
+The vertices used were: aij
+
+Graph #2380:
+Domination of 3
+The vertices used were: aij
+
+Graph #2381:
+Domination of 3
+The vertices used were: ahj
+
+Graph #2382:
+Domination of 3
+The vertices used were: afh
+
+Graph #2383:
+Domination of 3
+The vertices used were: afi
+
+Graph #2384:
+Domination of 3
+The vertices used were: afh
+
+Graph #2385:
+Domination of 3
+The vertices used were: afh
+
+Graph #2386:
+Domination of 3
+The vertices used were: afi
+
+Graph #2387:
+Domination of 3
+The vertices used were: afj
+
+Graph #2388:
+Domination of 3
+The vertices used were: afh
+
+Graph #2389:
+Domination of 3
+The vertices used were: afg
+
+Graph #2390:
+Domination of 3
+The vertices used were: afg
+
+Graph #2391:
+Domination of 3
+The vertices used were: afi
+
+Graph #2392:
+Domination of 3
+The vertices used were: agi
+
+Graph #2393:
+Domination of 3
+The vertices used were: agh
+
+Graph #2394:
+Domination of 3
+The vertices used were: afg
+
+Graph #2395:
+Domination of 3
+The vertices used were: afg
+
+Graph #2396:
+Domination of 3
+The vertices used were: cfg
+
+Graph #2397:
+Domination of 3
+The vertices used were: cfg
+
+Graph #2398:
+Domination of 3
+The vertices used were: afg
+
+Graph #2399:
+Domination of 3
+The vertices used were: agh
+
+Graph #2400:
+Domination of 3
+The vertices used were: afg
+
+Graph #2401:
+Domination of 3
+The vertices used were: cfg
+
+Graph #2402:
+Domination of 3
+The vertices used were: afk
+
+Graph #2403:
+Domination of 3
+The vertices used were: agj
+
+Graph #2404:
+Domination of 3
+The vertices used were: cfj
+
+Graph #2405:
+Domination of 3
+The vertices used were: afi
+
+Graph #2406:
+Domination of 3
+The vertices used were: afi
+
+Graph #2407:
+Domination of 3
+The vertices used were: dgk
+
+Graph #2408:
+Domination of 3
+The vertices used were: agj
+
+Graph #2409:
+Domination of 3
+The vertices used were: afj
+
+Graph #2410:
+Domination of 3
+The vertices used were: afi
+
+Graph #2411:
+Domination of 3
+The vertices used were: afj
+
+Graph #2412:
+Domination of 3
+The vertices used were: cfg
+
+Graph #2413:
+Domination of 3
+The vertices used were: dgh
+
+Graph #2414:
+Domination of 3
+The vertices used were: bij
+
+Graph #2415:
+Domination of 3
+The vertices used were: bij
+
+Graph #2416:
+Domination of 3
+The vertices used were: bhj
+
+Graph #2417:
+Domination of 3
+The vertices used were: bij
+
+Graph #2418:
+Domination of 3
+The vertices used were: bhi
+
+Graph #2419:
+Domination of 3
+The vertices used were: bhi
+
+Graph #2420:
+Domination of 3
+The vertices used were: ehi
+
+Graph #2421:
+Domination of 3
+The vertices used were: bij
+
+Graph #2422:
+Domination of 3
+The vertices used were: dij
+
+Graph #2423:
+Domination of 3
+The vertices used were: dij
+
+Graph #2424:
+Domination of 3
+The vertices used were: dhj
+
+Graph #2425:
+Domination of 3
+The vertices used were: dhi
+
+Graph #2426:
+Domination of 3
+The vertices used were: dhj
+
+Graph #2427:
+Domination of 3
+The vertices used were: dhi
+
+Graph #2428:
+Domination of 3
+The vertices used were: dhi
+
+Graph #2429:
+Domination of 3
+The vertices used were: ehi
+
+Graph #2430:
+Domination of 3
+The vertices used were: aij
+
+Graph #2431:
+Domination of 3
+The vertices used were: aik
+
+Graph #2432:
+Domination of 3
+The vertices used were: ahi
+
+Graph #2433:
+Domination of 3
+The vertices used were: agh
+
+Graph #2434:
+Domination of 3
+The vertices used were: dgh
+
+Graph #2435:
+Domination of 3
+The vertices used were: ahi
+
+Graph #2436:
+Domination of 3
+The vertices used were: ahj
+
+Graph #2437:
+Domination of 3
+The vertices used were: abl
+
+Graph #2438:
+Domination of 3
+The vertices used were: agh
+
+Graph #2439:
+Domination of 3
+The vertices used were: dgh
+
+Graph #2440:
+Domination of 3
+The vertices used were: dgh
+
+Graph #2441:
+Domination of 3
+The vertices used were: agh
+
+Graph #2442:
+Domination of 3
+The vertices used were: agh
+
+Graph #2443:
+Domination of 3
+The vertices used were: agh
+
+Graph #2444:
+Domination of 3
+The vertices used were: agh
+
+Graph #2445:
+Domination of 3
+The vertices used were: aij
+
+Graph #2446:
+Domination of 3
+The vertices used were: ahi
+
+Graph #2447:
+Domination of 3
+The vertices used were: ahi
+
+Graph #2448:
+Domination of 3
+The vertices used were: ahj
+
+Graph #2449:
+Domination of 3
+The vertices used were: ahi
+
+Graph #2450:
+Domination of 3
+The vertices used were: aij
+
+Graph #2451:
+Domination of 3
+The vertices used were: cij
+
+Graph #2452:
+Domination of 3
+The vertices used were: aij
+
+Graph #2453:
+Domination of 3
+The vertices used were: ael
+
+Graph #2454:
+Domination of 3
+The vertices used were: aij
+
+Graph #2455:
+Domination of 3
+The vertices used were: agj
+
+Graph #2456:
+Domination of 3
+The vertices used were: aik
+
+Graph #2457:
+Domination of 3
+The vertices used were: agj
+
+Graph #2458:
+Domination of 3
+The vertices used were: agi
+
+Graph #2459:
+Domination of 3
+The vertices used were: ahj
+
+Graph #2460:
+Domination of 3
+The vertices used were: afl
+
+Graph #2461:
+Domination of 3
+The vertices used were: ahi
+
+Graph #2462:
+Domination of 3
+The vertices used were: aij
+
+Graph #2463:
+Domination of 3
+The vertices used were: aci
+
+Graph #2464:
+Domination of 3
+The vertices used were: efg
+
+Graph #2465:
+Domination of 3
+The vertices used were: def
+
+Graph #2466:
+Domination of 3
+The vertices used were: acg
+
+Graph #2467:
+Domination of 3
+The vertices used were: dfg
+
+Graph #2468:
+Domination of 3
+The vertices used were: aij
+
+Graph #2469:
+Domination of 3
+The vertices used were: aij
+
+Graph #2470:
+Domination of 3
+The vertices used were: cij
+
+Graph #2471:
+Domination of 3
+The vertices used were: agj
+
+Graph #2472:
+Domination of 3
+The vertices used were: agh
+
+
+The average domination number is: 2.74555
+The highest number is: 3
+The lowest number is: 2
+Number of domination number 1: 0
+Number of domination number 2: 629
+Number of domination number 3: 1843
+Number of domination number 4: 0
+There are 2472 graphs

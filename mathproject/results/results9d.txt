@@ -1,0 +1,211 @@
+9 vertices, domination (from file 9triang.txt):
+
+
+Graph #1:
+Domination of 1
+The vertex used was: a
+
+Graph #2:
+Domination of 1
+The vertex used was: a
+
+Graph #3:
+Domination of 1
+The vertex used was: a
+
+Graph #4:
+Domination of 1
+The vertex used was: a
+
+Graph #5:
+Domination of 2
+The vertices used were: ae
+
+Graph #6:
+Domination of 1
+The vertex used was: a
+
+Graph #7:
+Domination of 1
+The vertex used was: a
+
+Graph #8:
+Domination of 1
+The vertex used was: a
+
+Graph #9:
+Domination of 1
+The vertex used was: a
+
+Graph #10:
+Domination of 1
+The vertex used was: a
+
+Graph #11:
+Domination of 2
+The vertices used were: ab
+
+Graph #12:
+Domination of 2
+The vertices used were: af
+
+Graph #13:
+Domination of 2
+The vertices used were: ab
+
+Graph #14:
+Domination of 2
+The vertices used were: ab
+
+Graph #15:
+Domination of 2
+The vertices used were: bc
+
+Graph #16:
+Domination of 2
+The vertices used were: ab
+
+Graph #17:
+Domination of 1
+The vertex used was: a
+
+Graph #18:
+Domination of 1
+The vertex used was: a
+
+Graph #19:
+Domination of 2
+The vertices used were: ae
+
+Graph #20:
+Domination of 2
+The vertices used were: ac
+
+Graph #21:
+Domination of 2
+The vertices used were: ac
+
+Graph #22:
+Domination of 2
+The vertices used were: ac
+
+Graph #23:
+Domination of 2
+The vertices used were: ad
+
+Graph #24:
+Domination of 1
+The vertex used was: a
+
+Graph #25:
+Domination of 2
+The vertices used were: ab
+
+Graph #26:
+Domination of 2
+The vertices used were: ab
+
+Graph #27:
+Domination of 2
+The vertices used were: ab
+
+Graph #28:
+Domination of 2
+The vertices used were: ac
+
+Graph #29:
+Domination of 2
+The vertices used were: ac
+
+Graph #30:
+Domination of 2
+The vertices used were: ab
+
+Graph #31:
+Domination of 2
+The vertices used were: ad
+
+Graph #32:
+Domination of 2
+The vertices used were: ae
+
+Graph #33:
+Domination of 2
+The vertices used were: ab
+
+Graph #34:
+Domination of 2
+The vertices used were: ad
+
+Graph #35:
+Domination of 2
+The vertices used were: ab
+
+Graph #36:
+Domination of 2
+The vertices used were: ab
+
+Graph #37:
+Domination of 2
+The vertices used were: ab
+
+Graph #38:
+Domination of 2
+The vertices used were: ab
+
+Graph #39:
+Domination of 2
+The vertices used were: ab
+
+Graph #40:
+Domination of 2
+The vertices used were: be
+
+Graph #41:
+Domination of 2
+The vertices used were: be
+
+Graph #42:
+Domination of 2
+The vertices used were: bd
+
+Graph #43:
+Domination of 2
+The vertices used were: bc
+
+Graph #44:
+Domination of 2
+The vertices used were: bc
+
+Graph #45:
+Domination of 2
+The vertices used were: bd
+
+Graph #46:
+Domination of 2
+The vertices used were: ab
+
+Graph #47:
+Domination of 2
+The vertices used were: bc
+
+Graph #48:
+Domination of 2
+The vertices used were: af
+
+Graph #49:
+Domination of 2
+The vertices used were: bc
+
+Graph #50:
+Domination of 2
+The vertices used were: bd
+
+
+The average domination number is: 1.76
+The highest number is: 2
+The lowest number is: 1
+Number of domination number 1: 12
+Number of domination number 2: 38
+Number of domination number 3: 0
+There are 50 graphs

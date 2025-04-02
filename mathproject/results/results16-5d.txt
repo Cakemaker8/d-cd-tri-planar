@@ -1,0 +1,25 @@
+16 vertices, domination (from file 16triang_5.txt):
+
+
+Graph #1:
+Domination of 3
+The vertices used were: cgk
+
+Graph #2:
+Domination of 3
+The vertices used were: egj
+
+Graph #3:
+Domination of 2
+The vertices used were: bl
+
+
+The average domination number is: 2.66667
+The highest number is: 3
+The lowest number is: 2
+Number of domination number 1: 0
+Number of domination number 2: 1
+Number of domination number 3: 2
+Number of domination number 4: 0
+Number of domination number 5: 0
+There are 3 graphs

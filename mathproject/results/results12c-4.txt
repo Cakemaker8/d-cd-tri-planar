@@ -1,0 +1,532 @@
+12 vertices, connected domination (from file 12triang_4.txt):
+
+
+Graph #1:
+Connected domination of 3
+The vertices used were: cdk
+
+Graph #2:
+Connected domination of 4
+The vertices used were: abdg
+
+Graph #3:
+Connected domination of 3
+The vertices used were: cdg
+
+Graph #4:
+Connected domination of 3
+The vertices used were: bdi
+
+Graph #5:
+Connected domination of 3
+The vertices used were: ace
+
+Graph #6:
+Connected domination of 3
+The vertices used were: acg
+
+Graph #7:
+Connected domination of 3
+The vertices used were: bch
+
+Graph #8:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #9:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #10:
+Connected domination of 2
+The vertices used were: be
+
+Graph #11:
+Connected domination of 2
+The vertices used were: be
+
+Graph #12:
+Connected domination of 2
+The vertices used were: bk
+
+Graph #13:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #14:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #15:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #16:
+Connected domination of 2
+The vertices used were: dh
+
+Graph #17:
+Connected domination of 3
+The vertices used were: adg
+
+Graph #18:
+Connected domination of 3
+The vertices used were: deg
+
+Graph #19:
+Connected domination of 3
+The vertices used were: deg
+
+Graph #20:
+Connected domination of 3
+The vertices used were: aeh
+
+Graph #21:
+Connected domination of 3
+The vertices used were: deg
+
+Graph #22:
+Connected domination of 3
+The vertices used were: deh
+
+Graph #23:
+Connected domination of 3
+The vertices used were: egh
+
+Graph #24:
+Connected domination of 3
+The vertices used were: ace
+
+Graph #25:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #26:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #27:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #28:
+Connected domination of 3
+The vertices used were: bcf
+
+Graph #29:
+Connected domination of 3
+The vertices used were: cdg
+
+Graph #30:
+Connected domination of 3
+The vertices used were: bcg
+
+Graph #31:
+Connected domination of 3
+The vertices used were: beh
+
+Graph #32:
+Connected domination of 3
+The vertices used were: bfi
+
+Graph #33:
+Connected domination of 3
+The vertices used were: bcg
+
+Graph #34:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #35:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #36:
+Connected domination of 3
+The vertices used were: adf
+
+Graph #37:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #38:
+Connected domination of 2
+The vertices used were: be
+
+Graph #39:
+Connected domination of 2
+The vertices used were: be
+
+Graph #40:
+Connected domination of 3
+The vertices used were: beg
+
+Graph #41:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #42:
+Connected domination of 3
+The vertices used were: bcf
+
+Graph #43:
+Connected domination of 3
+The vertices used were: fgj
+
+Graph #44:
+Connected domination of 3
+The vertices used were: cdf
+
+Graph #45:
+Connected domination of 3
+The vertices used were: efg
+
+Graph #46:
+Connected domination of 3
+The vertices used were: def
+
+Graph #47:
+Connected domination of 3
+The vertices used were: bef
+
+Graph #48:
+Connected domination of 3
+The vertices used were: bcf
+
+Graph #49:
+Connected domination of 3
+The vertices used were: beh
+
+Graph #50:
+Connected domination of 3
+The vertices used were: bcg
+
+Graph #51:
+Connected domination of 3
+The vertices used were: bch
+
+Graph #52:
+Connected domination of 3
+The vertices used were: bch
+
+Graph #53:
+Connected domination of 4
+The vertices used were: abch
+
+Graph #54:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #55:
+Connected domination of 3
+The vertices used were: dfg
+
+Graph #56:
+Connected domination of 3
+The vertices used were: bdf
+
+Graph #57:
+Connected domination of 3
+The vertices used were: bdf
+
+Graph #58:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #59:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #60:
+Connected domination of 2
+The vertices used were: bg
+
+Graph #61:
+Connected domination of 3
+The vertices used were: ace
+
+Graph #62:
+Connected domination of 2
+The vertices used were: cf
+
+Graph #63:
+Connected domination of 2
+The vertices used were: ch
+
+Graph #64:
+Connected domination of 3
+The vertices used were: bcf
+
+Graph #65:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #66:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #67:
+Connected domination of 3
+The vertices used were: beg
+
+Graph #68:
+Connected domination of 3
+The vertices used were: beh
+
+Graph #69:
+Connected domination of 3
+The vertices used were: beg
+
+Graph #70:
+Connected domination of 3
+The vertices used were: cfg
+
+Graph #71:
+Connected domination of 3
+The vertices used were: cfg
+
+Graph #72:
+Connected domination of 3
+The vertices used were: bgh
+
+Graph #73:
+Connected domination of 3
+The vertices used were: bgh
+
+Graph #74:
+Connected domination of 3
+The vertices used were: bfg
+
+Graph #75:
+Connected domination of 3
+The vertices used were: bfh
+
+Graph #76:
+Connected domination of 2
+The vertices used were: cf
+
+Graph #77:
+Connected domination of 2
+The vertices used were: dh
+
+Graph #78:
+Connected domination of 2
+The vertices used were: dg
+
+Graph #79:
+Connected domination of 2
+The vertices used were: dh
+
+Graph #80:
+Connected domination of 2
+The vertices used were: eh
+
+Graph #81:
+Connected domination of 2
+The vertices used were: ef
+
+Graph #82:
+Connected domination of 3
+The vertices used were: bfg
+
+Graph #83:
+Connected domination of 3
+The vertices used were: aef
+
+Graph #84:
+Connected domination of 3
+The vertices used were: beg
+
+Graph #85:
+Connected domination of 3
+The vertices used were: bfg
+
+Graph #86:
+Connected domination of 3
+The vertices used were: bfg
+
+Graph #87:
+Connected domination of 3
+The vertices used were: deg
+
+Graph #88:
+Connected domination of 2
+The vertices used were: eh
+
+Graph #89:
+Connected domination of 3
+The vertices used were: acg
+
+Graph #90:
+Connected domination of 4
+The vertices used were: acdf
+
+Graph #91:
+Connected domination of 3
+The vertices used were: beg
+
+Graph #92:
+Connected domination of 3
+The vertices used were: bfg
+
+Graph #93:
+Connected domination of 3
+The vertices used were: cdg
+
+Graph #94:
+Connected domination of 2
+The vertices used were: cj
+
+Graph #95:
+Connected domination of 2
+The vertices used were: ef
+
+Graph #96:
+Connected domination of 2
+The vertices used were: ef
+
+Graph #97:
+Connected domination of 2
+The vertices used were: ef
+
+Graph #98:
+Connected domination of 3
+The vertices used were: aeh
+
+Graph #99:
+Connected domination of 2
+The vertices used were: ef
+
+Graph #100:
+Connected domination of 2
+The vertices used were: bj
+
+Graph #101:
+Connected domination of 2
+The vertices used were: bj
+
+Graph #102:
+Connected domination of 3
+The vertices used were: acg
+
+Graph #103:
+Connected domination of 3
+The vertices used were: cdh
+
+Graph #104:
+Connected domination of 3
+The vertices used were: acg
+
+Graph #105:
+Connected domination of 3
+The vertices used were: ach
+
+Graph #106:
+Connected domination of 3
+The vertices used were: adh
+
+Graph #107:
+Connected domination of 2
+The vertices used were: be
+
+Graph #108:
+Connected domination of 3
+The vertices used were: bef
+
+Graph #109:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #110:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #111:
+Connected domination of 2
+The vertices used were: be
+
+Graph #112:
+Connected domination of 3
+The vertices used were: beg
+
+Graph #113:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #114:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #115:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #116:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #117:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #118:
+Connected domination of 3
+The vertices used were: acd
+
+Graph #119:
+Connected domination of 2
+The vertices used were: df
+
+Graph #120:
+Connected domination of 3
+The vertices used were: adf
+
+Graph #121:
+Connected domination of 3
+The vertices used were: cfg
+
+Graph #122:
+Connected domination of 3
+The vertices used were: adg
+
+Graph #123:
+Connected domination of 3
+The vertices used were: adg
+
+Graph #124:
+Connected domination of 3
+The vertices used were: adg
+
+Graph #125:
+Connected domination of 3
+The vertices used were: adg
+
+Graph #126:
+Connected domination of 3
+The vertices used were: aeh
+
+Graph #127:
+Connected domination of 3
+The vertices used were: abh
+
+Graph #128:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #129:
+Connected domination of 4
+The vertices used were: abfg
+
+Graph #130:
+Connected domination of 4
+The vertices used were: adgh
+
+
+The average connected domination number is: 2.76923
+The highest number is: 4
+The lowest number is: 2
+Number of connected domination number 1: 0
+Number of connected domination number 2: 35
+Number of connected domination number 3: 90
+Number of connected domination number 4: 5
+There are 130 graphs

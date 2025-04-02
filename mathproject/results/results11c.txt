@@ -1,0 +1,5007 @@
+11 vertices, connected domination (from file 11triang.txt):
+
+
+Graph #1:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #2:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #3:
+Connected domination of 2
+The vertices used were: bd
+
+Graph #4:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #5:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #6:
+Connected domination of 2
+The vertices used were: af
+
+Graph #7:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #8:
+Connected domination of 2
+The vertices used were: af
+
+Graph #9:
+Connected domination of 2
+The vertices used were: af
+
+Graph #10:
+Connected domination of 2
+The vertices used were: af
+
+Graph #11:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #12:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #13:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #14:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #15:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #16:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #17:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #18:
+Connected domination of 2
+The vertices used were: be
+
+Graph #19:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #20:
+Connected domination of 2
+The vertices used were: af
+
+Graph #21:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #22:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #23:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #24:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #25:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #26:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #27:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #28:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #29:
+Connected domination of 2
+The vertices used were: dg
+
+Graph #30:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #31:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #32:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #33:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #34:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #35:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #36:
+Connected domination of 2
+The vertices used were: af
+
+Graph #37:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #38:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #39:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #40:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #41:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #42:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #43:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #44:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #45:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #46:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #47:
+Connected domination of 1
+The vertex used was: a
+
+Graph #48:
+Connected domination of 1
+The vertex used was: a
+
+Graph #49:
+Connected domination of 1
+The vertex used was: a
+
+Graph #50:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #51:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #52:
+Connected domination of 1
+The vertex used was: a
+
+Graph #53:
+Connected domination of 1
+The vertex used was: a
+
+Graph #54:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #55:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #56:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #57:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #58:
+Connected domination of 2
+The vertices used were: ai
+
+Graph #59:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #60:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #61:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #62:
+Connected domination of 2
+The vertices used were: ei
+
+Graph #63:
+Connected domination of 2
+The vertices used were: ai
+
+Graph #64:
+Connected domination of 2
+The vertices used were: ei
+
+Graph #65:
+Connected domination of 1
+The vertex used was: a
+
+Graph #66:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #67:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #68:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #69:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #70:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #71:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #72:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #73:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #74:
+Connected domination of 2
+The vertices used were: cg
+
+Graph #75:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #76:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #77:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #78:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #79:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #80:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #81:
+Connected domination of 1
+The vertex used was: a
+
+Graph #82:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #83:
+Connected domination of 1
+The vertex used was: a
+
+Graph #84:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #85:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #86:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #87:
+Connected domination of 2
+The vertices used were: dg
+
+Graph #88:
+Connected domination of 2
+The vertices used were: dg
+
+Graph #89:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #90:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #91:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #92:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #93:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #94:
+Connected domination of 2
+The vertices used were: be
+
+Graph #95:
+Connected domination of 2
+The vertices used were: af
+
+Graph #96:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #97:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #98:
+Connected domination of 2
+The vertices used were: be
+
+Graph #99:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #100:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #101:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #102:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #103:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #104:
+Connected domination of 3
+The vertices used were: acg
+
+Graph #105:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #106:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #107:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #108:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #109:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #110:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #111:
+Connected domination of 1
+The vertex used was: a
+
+Graph #112:
+Connected domination of 1
+The vertex used was: a
+
+Graph #113:
+Connected domination of 1
+The vertex used was: a
+
+Graph #114:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #115:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #116:
+Connected domination of 1
+The vertex used was: a
+
+Graph #117:
+Connected domination of 1
+The vertex used was: a
+
+Graph #118:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #119:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #120:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #121:
+Connected domination of 1
+The vertex used was: a
+
+Graph #122:
+Connected domination of 1
+The vertex used was: a
+
+Graph #123:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #124:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #125:
+Connected domination of 1
+The vertex used was: a
+
+Graph #126:
+Connected domination of 1
+The vertex used was: a
+
+Graph #127:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #128:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #129:
+Connected domination of 1
+The vertex used was: a
+
+Graph #130:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #131:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #132:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #133:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #134:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #135:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #136:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #137:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #138:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #139:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #140:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #141:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #142:
+Connected domination of 2
+The vertices used were: af
+
+Graph #143:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #144:
+Connected domination of 1
+The vertex used was: a
+
+Graph #145:
+Connected domination of 1
+The vertex used was: a
+
+Graph #146:
+Connected domination of 1
+The vertex used was: a
+
+Graph #147:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #148:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #149:
+Connected domination of 1
+The vertex used was: a
+
+Graph #150:
+Connected domination of 1
+The vertex used was: a
+
+Graph #151:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #152:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #153:
+Connected domination of 1
+The vertex used was: a
+
+Graph #154:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #155:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #156:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #157:
+Connected domination of 1
+The vertex used was: a
+
+Graph #158:
+Connected domination of 1
+The vertex used was: a
+
+Graph #159:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #160:
+Connected domination of 1
+The vertex used was: a
+
+Graph #161:
+Connected domination of 1
+The vertex used was: a
+
+Graph #162:
+Connected domination of 1
+The vertex used was: a
+
+Graph #163:
+Connected domination of 1
+The vertex used was: a
+
+Graph #164:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #165:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #166:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #167:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #168:
+Connected domination of 3
+The vertices used were: acg
+
+Graph #169:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #170:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #171:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #172:
+Connected domination of 2
+The vertices used were: af
+
+Graph #173:
+Connected domination of 2
+The vertices used were: af
+
+Graph #174:
+Connected domination of 2
+The vertices used were: af
+
+Graph #175:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #176:
+Connected domination of 2
+The vertices used were: af
+
+Graph #177:
+Connected domination of 1
+The vertex used was: a
+
+Graph #178:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #179:
+Connected domination of 1
+The vertex used was: a
+
+Graph #180:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #181:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #182:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #183:
+Connected domination of 1
+The vertex used was: a
+
+Graph #184:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #185:
+Connected domination of 1
+The vertex used was: a
+
+Graph #186:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #187:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #188:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #189:
+Connected domination of 1
+The vertex used was: a
+
+Graph #190:
+Connected domination of 1
+The vertex used was: a
+
+Graph #191:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #192:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #193:
+Connected domination of 1
+The vertex used was: a
+
+Graph #194:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #195:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #196:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #197:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #198:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #199:
+Connected domination of 2
+The vertices used were: af
+
+Graph #200:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #201:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #202:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #203:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #204:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #205:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #206:
+Connected domination of 1
+The vertex used was: a
+
+Graph #207:
+Connected domination of 1
+The vertex used was: a
+
+Graph #208:
+Connected domination of 1
+The vertex used was: a
+
+Graph #209:
+Connected domination of 1
+The vertex used was: a
+
+Graph #210:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #211:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #212:
+Connected domination of 1
+The vertex used was: a
+
+Graph #213:
+Connected domination of 1
+The vertex used was: a
+
+Graph #214:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #215:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #216:
+Connected domination of 1
+The vertex used was: a
+
+Graph #217:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #218:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #219:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #220:
+Connected domination of 1
+The vertex used was: a
+
+Graph #221:
+Connected domination of 1
+The vertex used was: a
+
+Graph #222:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #223:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #224:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #225:
+Connected domination of 1
+The vertex used was: a
+
+Graph #226:
+Connected domination of 2
+The vertices used were: af
+
+Graph #227:
+Connected domination of 1
+The vertex used was: a
+
+Graph #228:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #229:
+Connected domination of 1
+The vertex used was: a
+
+Graph #230:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #231:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #232:
+Connected domination of 1
+The vertex used was: a
+
+Graph #233:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #234:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #235:
+Connected domination of 1
+The vertex used was: a
+
+Graph #236:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #237:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #238:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #239:
+Connected domination of 1
+The vertex used was: a
+
+Graph #240:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #241:
+Connected domination of 1
+The vertex used was: a
+
+Graph #242:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #243:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #244:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #245:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #246:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #247:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #248:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #249:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #250:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #251:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #252:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #253:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #254:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #255:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #256:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #257:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #258:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #259:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #260:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #261:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #262:
+Connected domination of 1
+The vertex used was: a
+
+Graph #263:
+Connected domination of 1
+The vertex used was: a
+
+Graph #264:
+Connected domination of 1
+The vertex used was: a
+
+Graph #265:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #266:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #267:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #268:
+Connected domination of 1
+The vertex used was: a
+
+Graph #269:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #270:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #271:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #272:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #273:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #274:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #275:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #276:
+Connected domination of 2
+The vertices used were: af
+
+Graph #277:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #278:
+Connected domination of 1
+The vertex used was: a
+
+Graph #279:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #280:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #281:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #282:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #283:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #284:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #285:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #286:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #287:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #288:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #289:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #290:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #291:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #292:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #293:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #294:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #295:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #296:
+Connected domination of 1
+The vertex used was: a
+
+Graph #297:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #298:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #299:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #300:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #301:
+Connected domination of 2
+The vertices used were: af
+
+Graph #302:
+Connected domination of 2
+The vertices used were: af
+
+Graph #303:
+Connected domination of 2
+The vertices used were: af
+
+Graph #304:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #305:
+Connected domination of 2
+The vertices used were: af
+
+Graph #306:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #307:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #308:
+Connected domination of 2
+The vertices used were: af
+
+Graph #309:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #310:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #311:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #312:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #313:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #314:
+Connected domination of 2
+The vertices used were: af
+
+Graph #315:
+Connected domination of 2
+The vertices used were: af
+
+Graph #316:
+Connected domination of 2
+The vertices used were: af
+
+Graph #317:
+Connected domination of 2
+The vertices used were: af
+
+Graph #318:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #319:
+Connected domination of 2
+The vertices used were: af
+
+Graph #320:
+Connected domination of 1
+The vertex used was: a
+
+Graph #321:
+Connected domination of 1
+The vertex used was: a
+
+Graph #322:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #323:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #324:
+Connected domination of 2
+The vertices used were: af
+
+Graph #325:
+Connected domination of 1
+The vertex used was: a
+
+Graph #326:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #327:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #328:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #329:
+Connected domination of 2
+The vertices used were: af
+
+Graph #330:
+Connected domination of 2
+The vertices used were: af
+
+Graph #331:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #332:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #333:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #334:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #335:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #336:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #337:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #338:
+Connected domination of 3
+The vertices used were: acf
+
+Graph #339:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #340:
+Connected domination of 2
+The vertices used were: ai
+
+Graph #341:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #342:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #343:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #344:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #345:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #346:
+Connected domination of 2
+The vertices used were: af
+
+Graph #347:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #348:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #349:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #350:
+Connected domination of 3
+The vertices used were: adh
+
+Graph #351:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #352:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #353:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #354:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #355:
+Connected domination of 2
+The vertices used were: af
+
+Graph #356:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #357:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #358:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #359:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #360:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #361:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #362:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #363:
+Connected domination of 2
+The vertices used were: de
+
+Graph #364:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #365:
+Connected domination of 2
+The vertices used were: af
+
+Graph #366:
+Connected domination of 2
+The vertices used were: af
+
+Graph #367:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #368:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #369:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #370:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #371:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #372:
+Connected domination of 2
+The vertices used were: af
+
+Graph #373:
+Connected domination of 2
+The vertices used were: de
+
+Graph #374:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #375:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #376:
+Connected domination of 2
+The vertices used were: af
+
+Graph #377:
+Connected domination of 2
+The vertices used were: af
+
+Graph #378:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #379:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #380:
+Connected domination of 3
+The vertices used were: abh
+
+Graph #381:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #382:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #383:
+Connected domination of 3
+The vertices used were: abh
+
+Graph #384:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #385:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #386:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #387:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #388:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #389:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #390:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #391:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #392:
+Connected domination of 2
+The vertices used were: af
+
+Graph #393:
+Connected domination of 2
+The vertices used were: af
+
+Graph #394:
+Connected domination of 2
+The vertices used were: af
+
+Graph #395:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #396:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #397:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #398:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #399:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #400:
+Connected domination of 1
+The vertex used was: a
+
+Graph #401:
+Connected domination of 1
+The vertex used was: a
+
+Graph #402:
+Connected domination of 1
+The vertex used was: a
+
+Graph #403:
+Connected domination of 1
+The vertex used was: a
+
+Graph #404:
+Connected domination of 1
+The vertex used was: a
+
+Graph #405:
+Connected domination of 1
+The vertex used was: a
+
+Graph #406:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #407:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #408:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #409:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #410:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #411:
+Connected domination of 2
+The vertices used were: af
+
+Graph #412:
+Connected domination of 2
+The vertices used were: af
+
+Graph #413:
+Connected domination of 1
+The vertex used was: a
+
+Graph #414:
+Connected domination of 1
+The vertex used was: a
+
+Graph #415:
+Connected domination of 1
+The vertex used was: a
+
+Graph #416:
+Connected domination of 1
+The vertex used was: a
+
+Graph #417:
+Connected domination of 1
+The vertex used was: a
+
+Graph #418:
+Connected domination of 1
+The vertex used was: a
+
+Graph #419:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #420:
+Connected domination of 1
+The vertex used was: a
+
+Graph #421:
+Connected domination of 1
+The vertex used was: a
+
+Graph #422:
+Connected domination of 1
+The vertex used was: a
+
+Graph #423:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #424:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #425:
+Connected domination of 1
+The vertex used was: a
+
+Graph #426:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #427:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #428:
+Connected domination of 1
+The vertex used was: a
+
+Graph #429:
+Connected domination of 1
+The vertex used was: a
+
+Graph #430:
+Connected domination of 1
+The vertex used was: a
+
+Graph #431:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #432:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #433:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #434:
+Connected domination of 1
+The vertex used was: a
+
+Graph #435:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #436:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #437:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #438:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #439:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #440:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #441:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #442:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #443:
+Connected domination of 2
+The vertices used were: af
+
+Graph #444:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #445:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #446:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #447:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #448:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #449:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #450:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #451:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #452:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #453:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #454:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #455:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #456:
+Connected domination of 2
+The vertices used were: af
+
+Graph #457:
+Connected domination of 2
+The vertices used were: af
+
+Graph #458:
+Connected domination of 2
+The vertices used were: af
+
+Graph #459:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #460:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #461:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #462:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #463:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #464:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #465:
+Connected domination of 2
+The vertices used were: cj
+
+Graph #466:
+Connected domination of 2
+The vertices used were: cj
+
+Graph #467:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #468:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #469:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #470:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #471:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #472:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #473:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #474:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #475:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #476:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #477:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #478:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #479:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #480:
+Connected domination of 2
+The vertices used were: af
+
+Graph #481:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #482:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #483:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #484:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #485:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #486:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #487:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #488:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #489:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #490:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #491:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #492:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #493:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #494:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #495:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #496:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #497:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #498:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #499:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #500:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #501:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #502:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #503:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #504:
+Connected domination of 2
+The vertices used were: ai
+
+Graph #505:
+Connected domination of 2
+The vertices used were: af
+
+Graph #506:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #507:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #508:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #509:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #510:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #511:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #512:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #513:
+Connected domination of 2
+The vertices used were: af
+
+Graph #514:
+Connected domination of 2
+The vertices used were: af
+
+Graph #515:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #516:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #517:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #518:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #519:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #520:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #521:
+Connected domination of 2
+The vertices used were: af
+
+Graph #522:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #523:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #524:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #525:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #526:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #527:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #528:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #529:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #530:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #531:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #532:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #533:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #534:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #535:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #536:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #537:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #538:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #539:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #540:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #541:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #542:
+Connected domination of 2
+The vertices used were: af
+
+Graph #543:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #544:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #545:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #546:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #547:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #548:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #549:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #550:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #551:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #552:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #553:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #554:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #555:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #556:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #557:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #558:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #559:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #560:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #561:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #562:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #563:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #564:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #565:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #566:
+Connected domination of 2
+The vertices used were: af
+
+Graph #567:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #568:
+Connected domination of 2
+The vertices used were: af
+
+Graph #569:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #570:
+Connected domination of 2
+The vertices used were: gh
+
+Graph #571:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #572:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #573:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #574:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #575:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #576:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #577:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #578:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #579:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #580:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #581:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #582:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #583:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #584:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #585:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #586:
+Connected domination of 2
+The vertices used were: af
+
+Graph #587:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #588:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #589:
+Connected domination of 2
+The vertices used were: ej
+
+Graph #590:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #591:
+Connected domination of 2
+The vertices used were: ei
+
+Graph #592:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #593:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #594:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #595:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #596:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #597:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #598:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #599:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #600:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #601:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #602:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #603:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #604:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #605:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #606:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #607:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #608:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #609:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #610:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #611:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #612:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #613:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #614:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #615:
+Connected domination of 2
+The vertices used were: af
+
+Graph #616:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #617:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #618:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #619:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #620:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #621:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #622:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #623:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #624:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #625:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #626:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #627:
+Connected domination of 2
+The vertices used were: af
+
+Graph #628:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #629:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #630:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #631:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #632:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #633:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #634:
+Connected domination of 2
+The vertices used were: af
+
+Graph #635:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #636:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #637:
+Connected domination of 2
+The vertices used were: af
+
+Graph #638:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #639:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #640:
+Connected domination of 2
+The vertices used were: af
+
+Graph #641:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #642:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #643:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #644:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #645:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #646:
+Connected domination of 2
+The vertices used were: af
+
+Graph #647:
+Connected domination of 2
+The vertices used were: af
+
+Graph #648:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #649:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #650:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #651:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #652:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #653:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #654:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #655:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #656:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #657:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #658:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #659:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #660:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #661:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #662:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #663:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #664:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #665:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #666:
+Connected domination of 2
+The vertices used were: af
+
+Graph #667:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #668:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #669:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #670:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #671:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #672:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #673:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #674:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #675:
+Connected domination of 2
+The vertices used were: af
+
+Graph #676:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #677:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #678:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #679:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #680:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #681:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #682:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #683:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #684:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #685:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #686:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #687:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #688:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #689:
+Connected domination of 2
+The vertices used were: di
+
+Graph #690:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #691:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #692:
+Connected domination of 2
+The vertices used were: fj
+
+Graph #693:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #694:
+Connected domination of 2
+The vertices used were: fj
+
+Graph #695:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #696:
+Connected domination of 2
+The vertices used were: af
+
+Graph #697:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #698:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #699:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #700:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #701:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #702:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #703:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #704:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #705:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #706:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #707:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #708:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #709:
+Connected domination of 3
+The vertices used were: acf
+
+Graph #710:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #711:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #712:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #713:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #714:
+Connected domination of 2
+The vertices used were: af
+
+Graph #715:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #716:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #717:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #718:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #719:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #720:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #721:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #722:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #723:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #724:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #725:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #726:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #727:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #728:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #729:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #730:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #731:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #732:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #733:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #734:
+Connected domination of 3
+The vertices used were: abh
+
+Graph #735:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #736:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #737:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #738:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #739:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #740:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #741:
+Connected domination of 3
+The vertices used were: adg
+
+Graph #742:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #743:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #744:
+Connected domination of 3
+The vertices used were: acg
+
+Graph #745:
+Connected domination of 3
+The vertices used were: abh
+
+Graph #746:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #747:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #748:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #749:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #750:
+Connected domination of 2
+The vertices used were: be
+
+Graph #751:
+Connected domination of 2
+The vertices used were: be
+
+Graph #752:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #753:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #754:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #755:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #756:
+Connected domination of 2
+The vertices used were: df
+
+Graph #757:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #758:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #759:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #760:
+Connected domination of 2
+The vertices used were: af
+
+Graph #761:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #762:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #763:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #764:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #765:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #766:
+Connected domination of 2
+The vertices used were: bj
+
+Graph #767:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #768:
+Connected domination of 2
+The vertices used were: be
+
+Graph #769:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #770:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #771:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #772:
+Connected domination of 2
+The vertices used were: de
+
+Graph #773:
+Connected domination of 2
+The vertices used were: de
+
+Graph #774:
+Connected domination of 2
+The vertices used were: de
+
+Graph #775:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #776:
+Connected domination of 2
+The vertices used were: ef
+
+Graph #777:
+Connected domination of 2
+The vertices used were: af
+
+Graph #778:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #779:
+Connected domination of 2
+The vertices used were: de
+
+Graph #780:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #781:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #782:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #783:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #784:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #785:
+Connected domination of 2
+The vertices used were: be
+
+Graph #786:
+Connected domination of 2
+The vertices used were: be
+
+Graph #787:
+Connected domination of 2
+The vertices used were: bj
+
+Graph #788:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #789:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #790:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #791:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #792:
+Connected domination of 2
+The vertices used were: be
+
+Graph #793:
+Connected domination of 2
+The vertices used were: be
+
+Graph #794:
+Connected domination of 2
+The vertices used were: bj
+
+Graph #795:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #796:
+Connected domination of 2
+The vertices used were: af
+
+Graph #797:
+Connected domination of 2
+The vertices used were: de
+
+Graph #798:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #799:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #800:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #801:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #802:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #803:
+Connected domination of 2
+The vertices used were: be
+
+Graph #804:
+Connected domination of 2
+The vertices used were: be
+
+Graph #805:
+Connected domination of 2
+The vertices used were: bj
+
+Graph #806:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #807:
+Connected domination of 2
+The vertices used were: be
+
+Graph #808:
+Connected domination of 2
+The vertices used were: be
+
+Graph #809:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #810:
+Connected domination of 3
+The vertices used were: bch
+
+Graph #811:
+Connected domination of 3
+The vertices used were: adg
+
+Graph #812:
+Connected domination of 3
+The vertices used were: acg
+
+Graph #813:
+Connected domination of 3
+The vertices used were: adg
+
+Graph #814:
+Connected domination of 3
+The vertices used were: ach
+
+Graph #815:
+Connected domination of 3
+The vertices used were: ach
+
+Graph #816:
+Connected domination of 3
+The vertices used were: acg
+
+Graph #817:
+Connected domination of 3
+The vertices used were: acg
+
+Graph #818:
+Connected domination of 3
+The vertices used were: adh
+
+Graph #819:
+Connected domination of 3
+The vertices used were: acg
+
+Graph #820:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #821:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #822:
+Connected domination of 2
+The vertices used were: de
+
+Graph #823:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #824:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #825:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #826:
+Connected domination of 2
+The vertices used were: af
+
+Graph #827:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #828:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #829:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #830:
+Connected domination of 2
+The vertices used were: be
+
+Graph #831:
+Connected domination of 2
+The vertices used were: be
+
+Graph #832:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #833:
+Connected domination of 2
+The vertices used were: bj
+
+Graph #834:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #835:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #836:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #837:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #838:
+Connected domination of 2
+The vertices used were: de
+
+Graph #839:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #840:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #841:
+Connected domination of 2
+The vertices used were: af
+
+Graph #842:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #843:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #844:
+Connected domination of 2
+The vertices used were: be
+
+Graph #845:
+Connected domination of 2
+The vertices used were: be
+
+Graph #846:
+Connected domination of 2
+The vertices used were: bj
+
+Graph #847:
+Connected domination of 2
+The vertices used were: bj
+
+Graph #848:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #849:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #850:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #851:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #852:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #853:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #854:
+Connected domination of 2
+The vertices used were: af
+
+Graph #855:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #856:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #857:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #858:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #859:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #860:
+Connected domination of 2
+The vertices used were: df
+
+Graph #861:
+Connected domination of 2
+The vertices used were: de
+
+Graph #862:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #863:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #864:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #865:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #866:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #867:
+Connected domination of 2
+The vertices used were: de
+
+Graph #868:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #869:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #870:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #871:
+Connected domination of 2
+The vertices used were: cg
+
+Graph #872:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #873:
+Connected domination of 3
+The vertices used were: afg
+
+Graph #874:
+Connected domination of 2
+The vertices used were: eg
+
+Graph #875:
+Connected domination of 2
+The vertices used were: cf
+
+Graph #876:
+Connected domination of 2
+The vertices used were: cf
+
+Graph #877:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #878:
+Connected domination of 2
+The vertices used were: be
+
+Graph #879:
+Connected domination of 2
+The vertices used were: be
+
+Graph #880:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #881:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #882:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #883:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #884:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #885:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #886:
+Connected domination of 3
+The vertices used were: bcf
+
+Graph #887:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #888:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #889:
+Connected domination of 2
+The vertices used were: ef
+
+Graph #890:
+Connected domination of 2
+The vertices used were: ce
+
+Graph #891:
+Connected domination of 2
+The vertices used were: ce
+
+Graph #892:
+Connected domination of 2
+The vertices used were: fh
+
+Graph #893:
+Connected domination of 2
+The vertices used were: af
+
+Graph #894:
+Connected domination of 2
+The vertices used were: af
+
+Graph #895:
+Connected domination of 2
+The vertices used were: af
+
+Graph #896:
+Connected domination of 2
+The vertices used were: cf
+
+Graph #897:
+Connected domination of 2
+The vertices used were: cf
+
+Graph #898:
+Connected domination of 2
+The vertices used were: fg
+
+Graph #899:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #900:
+Connected domination of 2
+The vertices used were: af
+
+Graph #901:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #902:
+Connected domination of 2
+The vertices used were: bd
+
+Graph #903:
+Connected domination of 2
+The vertices used were: bd
+
+Graph #904:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #905:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #906:
+Connected domination of 2
+The vertices used were: ef
+
+Graph #907:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #908:
+Connected domination of 2
+The vertices used were: ce
+
+Graph #909:
+Connected domination of 2
+The vertices used were: ce
+
+Graph #910:
+Connected domination of 2
+The vertices used were: cg
+
+Graph #911:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #912:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #913:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #914:
+Connected domination of 2
+The vertices used were: be
+
+Graph #915:
+Connected domination of 2
+The vertices used were: be
+
+Graph #916:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #917:
+Connected domination of 2
+The vertices used were: de
+
+Graph #918:
+Connected domination of 2
+The vertices used were: ae
+
+Graph #919:
+Connected domination of 2
+The vertices used were: be
+
+Graph #920:
+Connected domination of 2
+The vertices used were: be
+
+Graph #921:
+Connected domination of 2
+The vertices used were: be
+
+Graph #922:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #923:
+Connected domination of 2
+The vertices used were: be
+
+Graph #924:
+Connected domination of 2
+The vertices used were: be
+
+Graph #925:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #926:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #927:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #928:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #929:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #930:
+Connected domination of 3
+The vertices used were: adg
+
+Graph #931:
+Connected domination of 3
+The vertices used were: deg
+
+Graph #932:
+Connected domination of 3
+The vertices used were: adg
+
+Graph #933:
+Connected domination of 3
+The vertices used were: deh
+
+Graph #934:
+Connected domination of 3
+The vertices used were: adh
+
+Graph #935:
+Connected domination of 3
+The vertices used were: aeh
+
+Graph #936:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #937:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #938:
+Connected domination of 2
+The vertices used were: ce
+
+Graph #939:
+Connected domination of 2
+The vertices used were: be
+
+Graph #940:
+Connected domination of 2
+The vertices used were: be
+
+Graph #941:
+Connected domination of 2
+The vertices used were: bj
+
+Graph #942:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #943:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #944:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #945:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #946:
+Connected domination of 2
+The vertices used were: be
+
+Graph #947:
+Connected domination of 2
+The vertices used were: be
+
+Graph #948:
+Connected domination of 2
+The vertices used were: be
+
+Graph #949:
+Connected domination of 2
+The vertices used were: be
+
+Graph #950:
+Connected domination of 2
+The vertices used were: be
+
+Graph #951:
+Connected domination of 3
+The vertices used were: aef
+
+Graph #952:
+Connected domination of 2
+The vertices used were: de
+
+Graph #953:
+Connected domination of 2
+The vertices used were: be
+
+Graph #954:
+Connected domination of 3
+The vertices used were: beg
+
+Graph #955:
+Connected domination of 3
+The vertices used were: aeh
+
+Graph #956:
+Connected domination of 3
+The vertices used were: aef
+
+Graph #957:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #958:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #959:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #960:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #961:
+Connected domination of 2
+The vertices used were: be
+
+Graph #962:
+Connected domination of 2
+The vertices used were: be
+
+Graph #963:
+Connected domination of 2
+The vertices used were: be
+
+Graph #964:
+Connected domination of 2
+The vertices used were: de
+
+Graph #965:
+Connected domination of 2
+The vertices used were: be
+
+Graph #966:
+Connected domination of 2
+The vertices used were: be
+
+Graph #967:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #968:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #969:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #970:
+Connected domination of 2
+The vertices used were: bd
+
+Graph #971:
+Connected domination of 2
+The vertices used were: bd
+
+Graph #972:
+Connected domination of 2
+The vertices used were: be
+
+Graph #973:
+Connected domination of 2
+The vertices used were: be
+
+Graph #974:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #975:
+Connected domination of 3
+The vertices used were: acf
+
+Graph #976:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #977:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #978:
+Connected domination of 2
+The vertices used were: df
+
+Graph #979:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #980:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #981:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #982:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #983:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #984:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #985:
+Connected domination of 3
+The vertices used were: cdf
+
+Graph #986:
+Connected domination of 3
+The vertices used were: cdh
+
+Graph #987:
+Connected domination of 3
+The vertices used were: cdf
+
+Graph #988:
+Connected domination of 2
+The vertices used were: df
+
+Graph #989:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #990:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #991:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #992:
+Connected domination of 2
+The vertices used were: dj
+
+Graph #993:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #994:
+Connected domination of 2
+The vertices used were: dh
+
+Graph #995:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #996:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #997:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #998:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #999:
+Connected domination of 2
+The vertices used were: di
+
+Graph #1000:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1001:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1002:
+Connected domination of 2
+The vertices used were: dh
+
+Graph #1003:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1004:
+Connected domination of 2
+The vertices used were: bg
+
+Graph #1005:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #1006:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #1007:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1008:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #1009:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #1010:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #1011:
+Connected domination of 2
+The vertices used were: ce
+
+Graph #1012:
+Connected domination of 2
+The vertices used were: eh
+
+Graph #1013:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1014:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1015:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #1016:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #1017:
+Connected domination of 2
+The vertices used were: di
+
+Graph #1018:
+Connected domination of 2
+The vertices used were: dg
+
+Graph #1019:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1020:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1021:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1022:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1023:
+Connected domination of 2
+The vertices used were: bg
+
+Graph #1024:
+Connected domination of 2
+The vertices used were: bg
+
+Graph #1025:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1026:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1027:
+Connected domination of 2
+The vertices used were: df
+
+Graph #1028:
+Connected domination of 2
+The vertices used were: cg
+
+Graph #1029:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #1030:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1031:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1032:
+Connected domination of 2
+The vertices used were: ei
+
+Graph #1033:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1034:
+Connected domination of 2
+The vertices used were: eh
+
+Graph #1035:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1036:
+Connected domination of 2
+The vertices used were: eh
+
+Graph #1037:
+Connected domination of 3
+The vertices used were: bce
+
+Graph #1038:
+Connected domination of 2
+The vertices used were: fj
+
+Graph #1039:
+Connected domination of 2
+The vertices used were: df
+
+Graph #1040:
+Connected domination of 2
+The vertices used were: fi
+
+Graph #1041:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #1042:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #1043:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #1044:
+Connected domination of 2
+The vertices used were: df
+
+Graph #1045:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1046:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1047:
+Connected domination of 2
+The vertices used were: eg
+
+Graph #1048:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1049:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1050:
+Connected domination of 2
+The vertices used were: df
+
+Graph #1051:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1052:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1053:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1054:
+Connected domination of 2
+The vertices used were: cg
+
+Graph #1055:
+Connected domination of 2
+The vertices used were: dh
+
+Graph #1056:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #1057:
+Connected domination of 3
+The vertices used were: acg
+
+Graph #1058:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #1059:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #1060:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #1061:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #1062:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #1063:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #1064:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #1065:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #1066:
+Connected domination of 3
+The vertices used were: acg
+
+Graph #1067:
+Connected domination of 3
+The vertices used were: acg
+
+Graph #1068:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #1069:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #1070:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #1071:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #1072:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #1073:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #1074:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #1075:
+Connected domination of 2
+The vertices used were: ab
+
+Graph #1076:
+Connected domination of 2
+The vertices used were: ad
+
+Graph #1077:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #1078:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #1079:
+Connected domination of 2
+The vertices used were: eh
+
+Graph #1080:
+Connected domination of 2
+The vertices used were: af
+
+Graph #1081:
+Connected domination of 2
+The vertices used were: af
+
+Graph #1082:
+Connected domination of 2
+The vertices used were: af
+
+Graph #1083:
+Connected domination of 2
+The vertices used were: ef
+
+Graph #1084:
+Connected domination of 2
+The vertices used were: ei
+
+Graph #1085:
+Connected domination of 2
+The vertices used were: eh
+
+Graph #1086:
+Connected domination of 2
+The vertices used were: af
+
+Graph #1087:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #1088:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #1089:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #1090:
+Connected domination of 2
+The vertices used were: ag
+
+Graph #1091:
+Connected domination of 2
+The vertices used were: ej
+
+Graph #1092:
+Connected domination of 2
+The vertices used were: ei
+
+Graph #1093:
+Connected domination of 2
+The vertices used were: ei
+
+Graph #1094:
+Connected domination of 2
+The vertices used were: ei
+
+Graph #1095:
+Connected domination of 2
+The vertices used were: ah
+
+Graph #1096:
+Connected domination of 2
+The vertices used were: ac
+
+Graph #1097:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1098:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #1099:
+Connected domination of 2
+The vertices used were: bg
+
+Graph #1100:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #1101:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #1102:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #1103:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #1104:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #1105:
+Connected domination of 3
+The vertices used were: ach
+
+Graph #1106:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #1107:
+Connected domination of 3
+The vertices used were: bfg
+
+Graph #1108:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #1109:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #1110:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #1111:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #1112:
+Connected domination of 3
+The vertices used were: abh
+
+Graph #1113:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #1114:
+Connected domination of 3
+The vertices used were: abh
+
+Graph #1115:
+Connected domination of 3
+The vertices used were: bcf
+
+Graph #1116:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1117:
+Connected domination of 2
+The vertices used were: bg
+
+Graph #1118:
+Connected domination of 2
+The vertices used were: dg
+
+Graph #1119:
+Connected domination of 2
+The vertices used were: dg
+
+Graph #1120:
+Connected domination of 2
+The vertices used were: bg
+
+Graph #1121:
+Connected domination of 2
+The vertices used were: bg
+
+Graph #1122:
+Connected domination of 2
+The vertices used were: bg
+
+Graph #1123:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1124:
+Connected domination of 2
+The vertices used were: bg
+
+Graph #1125:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1126:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1127:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #1128:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #1129:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #1130:
+Connected domination of 3
+The vertices used were: aeg
+
+Graph #1131:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1132:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1133:
+Connected domination of 2
+The vertices used were: bi
+
+Graph #1134:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #1135:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #1136:
+Connected domination of 3
+The vertices used were: aef
+
+Graph #1137:
+Connected domination of 2
+The vertices used were: di
+
+Graph #1138:
+Connected domination of 2
+The vertices used were: bg
+
+Graph #1139:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1140:
+Connected domination of 2
+The vertices used were: bg
+
+Graph #1141:
+Connected domination of 2
+The vertices used were: bg
+
+Graph #1142:
+Connected domination of 3
+The vertices used were: abh
+
+Graph #1143:
+Connected domination of 3
+The vertices used were: abh
+
+Graph #1144:
+Connected domination of 2
+The vertices used were: di
+
+Graph #1145:
+Connected domination of 3
+The vertices used were: abh
+
+Graph #1146:
+Connected domination of 2
+The vertices used were: ej
+
+Graph #1147:
+Connected domination of 2
+The vertices used were: ei
+
+Graph #1148:
+Connected domination of 2
+The vertices used were: ei
+
+Graph #1149:
+Connected domination of 3
+The vertices used were: abg
+
+Graph #1150:
+Connected domination of 2
+The vertices used were: gj
+
+Graph #1151:
+Connected domination of 2
+The vertices used were: bh
+
+Graph #1152:
+Connected domination of 3
+The vertices used were: abh
+
+Graph #1153:
+Connected domination of 2
+The vertices used were: ch
+
+Graph #1154:
+Connected domination of 2
+The vertices used were: fj
+
+Graph #1155:
+Connected domination of 2
+The vertices used were: fi
+
+Graph #1156:
+Connected domination of 3
+The vertices used were: abh
+
+Graph #1157:
+Connected domination of 3
+The vertices used were: abh
+
+Graph #1158:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1159:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #1160:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #1161:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #1162:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #1163:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #1164:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #1165:
+Connected domination of 2
+The vertices used were: ce
+
+Graph #1166:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1167:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1168:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1169:
+Connected domination of 2
+The vertices used were: dh
+
+Graph #1170:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1171:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1172:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1173:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1174:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #1175:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #1176:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #1177:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #1178:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #1179:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #1180:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #1181:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1182:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #1183:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #1184:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #1185:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #1186:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1187:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1188:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1189:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1190:
+Connected domination of 2
+The vertices used were: be
+
+Graph #1191:
+Connected domination of 3
+The vertices used were: adh
+
+Graph #1192:
+Connected domination of 2
+The vertices used were: df
+
+Graph #1193:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #1194:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #1195:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #1196:
+Connected domination of 2
+The vertices used were: bc
+
+Graph #1197:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1198:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1199:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1200:
+Connected domination of 3
+The vertices used were: adh
+
+Graph #1201:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1202:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1203:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1204:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1205:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #1206:
+Connected domination of 3
+The vertices used were: acd
+
+Graph #1207:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1208:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1209:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1210:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1211:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #1212:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1213:
+Connected domination of 2
+The vertices used were: bf
+
+Graph #1214:
+Connected domination of 3
+The vertices used were: abc
+
+Graph #1215:
+Connected domination of 2
+The vertices used were: cg
+
+Graph #1216:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #1217:
+Connected domination of 2
+The vertices used were: cd
+
+Graph #1218:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1219:
+Connected domination of 3
+The vertices used were: adh
+
+Graph #1220:
+Connected domination of 3
+The vertices used were: aef
+
+Graph #1221:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1222:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1223:
+Connected domination of 2
+The vertices used were: de
+
+Graph #1224:
+Connected domination of 2
+The vertices used were: df
+
+Graph #1225:
+Connected domination of 3
+The vertices used were: abh
+
+Graph #1226:
+Connected domination of 3
+The vertices used were: ace
+
+Graph #1227:
+Connected domination of 3
+The vertices used were: ace
+
+Graph #1228:
+Connected domination of 3
+The vertices used were: ace
+
+Graph #1229:
+Connected domination of 3
+The vertices used were: ace
+
+Graph #1230:
+Connected domination of 3
+The vertices used were: acf
+
+Graph #1231:
+Connected domination of 3
+The vertices used were: bce
+
+Graph #1232:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1233:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1234:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1235:
+Connected domination of 3
+The vertices used were: bcd
+
+Graph #1236:
+Connected domination of 3
+The vertices used were: bcd
+
+Graph #1237:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1238:
+Connected domination of 3
+The vertices used were: abe
+
+Graph #1239:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1240:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1241:
+Connected domination of 3
+The vertices used were: abf
+
+Graph #1242:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1243:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1244:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1245:
+Connected domination of 3
+The vertices used were: bcd
+
+Graph #1246:
+Connected domination of 3
+The vertices used were: abd
+
+Graph #1247:
+Connected domination of 3
+The vertices used were: bcd
+
+Graph #1248:
+Connected domination of 3
+The vertices used were: bcf
+
+Graph #1249:
+Connected domination of 3
+The vertices used were: bcf
+
+
+The average connected domination number is: 2.07206
+The highest number is: 3
+The lowest number is: 1
+Number of connected domination number 1: 82
+Number of connected domination number 2: 995
+Number of connected domination number 3: 172
+There are 1249 graphs

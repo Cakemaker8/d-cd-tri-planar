@@ -1,0 +1,17 @@
+15 vertices, connected domination (from file 15triang_5.txt):
+
+
+Graph #1:
+Connected domination of 5
+The vertices used were: abcfj
+
+
+The average connected domination number is: 5
+The highest number is: 5
+The lowest number is: 5
+Number of connected domination number 1: 0
+Number of connected domination number 2: 0
+Number of connected domination number 3: 0
+Number of connected domination number 4: 0
+Number of connected domination number 5: 1
+There are 1 graphs

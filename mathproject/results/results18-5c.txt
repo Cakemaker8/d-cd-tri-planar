@@ -1,0 +1,54 @@
+18 vertices, connected domination (from file 18triang_5.txt):
+
+
+Graph #1:
+Connected domination of 5
+The vertices used were: dehil
+
+Graph #3:
+Connected domination of 5
+The vertices used were: cdehl
+
+Graph #4:
+Connected domination of 5
+The vertices used were: abehp
+
+Graph #5:
+Connected domination of 5
+The vertices used were: cdejm
+
+Graph #6:
+Connected domination of 5
+The vertices used were: acfik
+
+Graph #7:
+Connected domination of 5
+The vertices used were: abdhl
+
+Graph #9:
+Connected domination of 5
+The vertices used were: adghl
+
+Graph #10:
+Connected domination of 5
+The vertices used were: adghl
+
+Graph #11:
+Connected domination of 4
+The vertices used were: abdg
+
+Graph #12:
+Connected domination of 5
+The vertices used were: bcfhm
+
+
+The average connected domination number is: 4.9
+The highest number is: 5
+The lowest number is: 4
+Number of connected domination number 1: 0
+Number of connected domination number 2: 0
+Number of connected domination number 3: 0
+Number of connected domination number 4: 1
+Number of connected domination number 5: 9
+Number of connected domination number 6: 0
+There are 10 graphs

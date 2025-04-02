@@ -1,0 +1,29 @@
+17 vertices, domination (from file 17triang_5.txt):
+
+
+Graph #1:
+Domination of 3
+The vertices used were: fhk
+
+Graph #2:
+Domination of 3
+The vertices used were: bil
+
+Graph #3:
+Domination of 3
+The vertices used were: bgk
+
+Graph #4:
+Domination of 3
+The vertices used were: chl
+
+
+The average domination number is: 3
+The highest number is: 3
+The lowest number is: 3
+Number of domination number 1: 0
+Number of domination number 2: 0
+Number of domination number 3: 4
+Number of domination number 4: 0
+Number of domination number 5: 0
+There are 4 graphs

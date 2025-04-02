@@ -1,0 +1,16 @@
+14 vertices, domination (from file 14triang_5.txt):
+
+
+Graph #1:
+Domination of 2
+The vertices used were: fi
+
+
+The average domination number is: 2
+The highest number is: 2
+The lowest number is: 2
+Number of domination number 1: 0
+Number of domination number 2: 1
+Number of domination number 3: 0
+Number of domination number 4: 0
+There are 1 graphs

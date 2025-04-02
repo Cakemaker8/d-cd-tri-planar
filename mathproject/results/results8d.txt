@@ -1,0 +1,66 @@
+8 vertices, domination (from file 8triang.txt):
+
+
+Graph #1:
+Domination of 1
+The vertex used was: a
+
+Graph #2:
+Domination of 1
+The vertex used was: a
+
+Graph #3:
+Domination of 2
+The vertices used were: ab
+
+Graph #4:
+Domination of 1
+The vertex used was: a
+
+Graph #5:
+Domination of 2
+The vertices used were: ac
+
+Graph #6:
+Domination of 1
+The vertex used was: a
+
+Graph #7:
+Domination of 2
+The vertices used were: ab
+
+Graph #8:
+Domination of 2
+The vertices used were: ab
+
+Graph #9:
+Domination of 2
+The vertices used were: ab
+
+Graph #10:
+Domination of 2
+The vertices used were: ab
+
+Graph #11:
+Domination of 2
+The vertices used were: bd
+
+Graph #12:
+Domination of 2
+The vertices used were: bc
+
+Graph #13:
+Domination of 2
+The vertices used were: ab
+
+Graph #14:
+Domination of 2
+The vertices used were: bc
+
+
+The average domination number is: 1.71429
+The highest number is: 2
+The lowest number is: 1
+Number of domination number 1: 4
+Number of domination number 2: 10
+There are 14 graphs
